@@ -83,3 +83,6 @@ python 1.py Пермь --domain pstu.ru --limit 5 --show-text
 6. HTML разбирается с помощью BeautifulSoup.
 7. Из страницы извлекаются заголовок и текстовый фрагмент.
 8. Результаты выводятся в таблицу.
+
+## Пример работы
+<img width="1576" height="998" alt="Screenshot1" src="https://github.com/user-attachments/assets/3b331c07-e00e-4a1d-a52b-7c0e309fea63" />
