@@ -1,5 +1,7 @@
 import argparse
 import io
+from urllib.parse import urlparse
+from collections import Counter
 
 import cdx_toolkit
 import requests
@@ -10,7 +12,7 @@ from warcio.archiveiterator import ArchiveIterator
 
 # заголовок
 HEADERS = {
-    "User-Agent": "CommonCrawlModesttttt"
+    "User-Agent": "CommonCrawlHomework/1.0 (educational project)"
 }
 
 
@@ -23,16 +25,19 @@ def parse_args():
     parser.add_argument("--domain", required=True)
     parser.add_argument("--limit", type=int, default=10)
     parser.add_argument("--show-text", action="store_true")
+
     return parser.parse_args()
 
 
 # поиск в CDX
 def search_cdx(domain, limit):
     print("Запрос CDX-индекса...")
+
     pattern = f"{domain}/*"
 
     try:
         cdx = cdx_toolkit.CDXFetcher(source="cc")
+
         # минимум 50 записей, потому что часть записей
         # может не подойти после фильтрации
         records = cdx.iter(
@@ -40,7 +45,9 @@ def search_cdx(domain, limit):
             limit=max(limit * 10, 50),
             filter=["=status:200"]
         )
+
         return [dict(record) for record in records]
+
     except Exception as e:
         print(f"Ошибка CDX: {e}")
         return []
@@ -63,9 +70,10 @@ def load_warc(record):
             },
             timeout=60
         )
+
         response.raise_for_status()
 
-        # чтение WARC
+        # Читаем WARC-запись
         for warc in ArchiveIterator(
             io.BytesIO(response.content)
         ):
@@ -89,7 +97,7 @@ def extract_page(warc):
         else "-"
     )
 
-    # лишние элементы отбрасываем
+    # лишние элементы
     for tag in soup([
         "script",
         "style",
@@ -107,7 +115,31 @@ def extract_page(warc):
     return title, text
 
 
-# небольшой фрагмент текста (300 символов)
+# проверка ключевых слов
+def contains_keywords(text, keywords):
+    text = text.lower()
+
+    for keyword in keywords:
+        if keyword.lower() not in text:
+            return False
+
+    return True
+
+
+# считаем количество упоминаний
+def count_mentions(text, keywords):
+    text = text.lower()
+    counts = {}
+
+    for keyword in keywords:
+        counts[keyword] = text.count(
+            keyword.lower()
+        )
+
+    return counts
+
+
+# небольшой фрагмент 300 символов
 def make_fragment(text, keywords, size=300):
     lower = text.lower()
 
@@ -130,6 +162,67 @@ def format_date(timestamp):
     )
 
 
+# получаем только дату
+def get_short_date(timestamp):
+    return (
+        f"{timestamp[:4]}-"
+        f"{timestamp[4:6]}-"
+        f"{timestamp[6:8]}"
+    )
+
+
+# получаем домен из URL
+def get_domain(url):
+    return urlparse(url).netloc
+
+
+# вывод статистики
+def show_statistics(results, keywords):
+    print()
+    print("Статистика:")
+    print(f"Найдено страниц: {len(results)}")
+
+    # количество упоминаний каждого слова
+    total_mentions = Counter()
+
+    for result in results:
+        for keyword, count in result["mentions"].items():
+            total_mentions[keyword] += count
+
+    print()
+    print("Количество упоминаний:")
+
+    for keyword in keywords:
+        print(
+            f"{keyword}: "
+            f"{total_mentions[keyword]}"
+        )
+
+    # распределение по датам
+    dates = Counter(
+        result["short_date"]
+        for result in results
+    )
+
+    print()
+    print("По датам:")
+
+    for date, count in sorted(dates.items()):
+        print(f"{date} — {count}")
+
+    # распределение по доменам
+    domains = Counter(
+        result["domain"]
+        for result in results
+    )
+
+    print()
+    print("По доменам:")
+
+    for domain, count in domains.most_common():
+        print(f"{domain} — {count}")
+
+
 def main():
     args = parse_args()
 
@@ -143,7 +236,10 @@ def main():
         args.limit
     )
 
-    print(f"Получено записей CDX: {len(records)}")
+    print(
+        f"Получено записей CDX: "
+        f"{len(records)}"
+    )
 
     results = []
 
@@ -175,25 +271,49 @@ def main():
 
             title, text = extract_page(warc)
 
+            # проверяем ключевые слова
+            if not contains_keywords(
+                text,
+                args.keywords
+            ):
+                continue
+
+            # считаем упоминания
+            mentions = count_mentions(
+                text,
+                args.keywords
+            )
+
             # фрагмент текста
             fragment = make_fragment(
                 text,
                 args.keywords
             )
 
-            results.append([
-                url,
-                date,
-                title,
-                fragment
-            ])
+            results.append({
+                "url": url,
+                "date": date,
+                "short_date": get_short_date(
+                    record["timestamp"]
+                ),
+                "domain": get_domain(url),
+                "title": title,
+                "fragment": fragment,
+                "mentions": mentions
+            })
 
         else:
-            results.append([
-                url,
-                date,
-                "-"
-            ])
+            results.append({
+                "url": url,
+                "date": date,
+                "short_date": get_short_date(
+                    record["timestamp"]
+                ),
+                "domain": get_domain(url),
+                "title": "-",
+                "fragment": "",
+                "mentions": {}
+            })
 
         if len(results) >= args.limit:
             break
@@ -204,29 +324,59 @@ def main():
 
     # столбцы таблицы
     if args.show_text:
+        table = [
+            [
+                result["url"],
+                result["date"],
+                result["title"],
+                result["fragment"]
+            ]
+            for result in results
+        ]
+
         headers = [
             "URL",
             "Дата архивации",
             "Заголовок",
             "Фрагмент текста"
         ]
+
         widths = [55, 20, 40, 60]
+
     else:
+        table = [
+            [
+                result["url"],
+                result["date"],
+                result["title"]
+            ]
+            for result in results
+        ]
+
         headers = [
             "URL",
             "Дата архивации",
             "Заголовок"
         ]
+
         widths = [60, 20, 40]
 
+    # результаты
     print(
         tabulate(
-            results,
+            table,
             headers=headers,
             tablefmt="grid",
             maxcolwidths=widths
         )
     )
+
+    # статистика
+    if args.show_text:
+        show_statistics(
+            results,
+            args.keywords
+        )
 
 
 if __name__ == "__main__":
