@@ -85,4 +85,5 @@ python 1.py Пермь --domain pstu.ru --limit 5 --show-text
 8. Результаты выводятся в таблицу.
 
 ## Пример работы
-<img width="1576" height="998" alt="Screenshot1" src="https://github.com/user-attachments/assets/3b331c07-e00e-4a1d-a52b-7c0e309fea63" />
+<img width="1638" height="1262" alt="{F85CF4A8-BAD8-4F4F-988C-8995481C2D46}" src="https://github.com/user-attachments/assets/6c134aca-99b0-4b48-bc10-d6607fa078e1" />
+
