@@ -260,6 +260,7 @@ python commoncrawl_search_Danilov.py МФТИ --domain tabiturient.ru --limit 10
 ```bash
 python commoncrawl_search_Danilov.py "Борис Пастернак" Пермь "Доктор Живаго" Юрятин --domain teatr-teatr.com --limit 10 --show-text
 ```
+Результаты выполнения всех исследовательских запросов и полученные данные находятся непосредственно в `four_research_requests.ipynb`.
 
 ## Важное замечание о `--show-text`
 
@@ -300,5 +301,6 @@ CDX-индекс содержит метаданные архивной запи
 - обработка временных сетевых ошибок и повторные попытки;
 - четыре исследовательских запроса в отдельном Jupyter Notebook.
 
-## Пример работы
+## Пример работы (при заданных ключевых словах: стипендия, Пермь)
+<img width="1806" height="497" alt="image" src="https://github.com/user-attachments/assets/560da4c0-0dbd-4148-98df-382ee432da2e" />
 
