@@ -26,10 +26,11 @@
 
 ```text
 Web-Data-Mining/
-├── commoncrawl_search_Danilov.py
-├── four_research_requests.ipynb
-├── requirements.txt
-├── README.md
+├── LR1/
+│   ├── commoncrawl_search_Danilov.py
+│   ├── four_research_requests.ipynb
+│   ├── requirements.txt
+│   └── README.md
 └── .gitignore
 ```
 
@@ -42,6 +43,7 @@ Web-Data-Mining/
 ```bash
 git clone https://github.com/Modesttttt/Web-Data-Mining.git
 cd Web-Data-Mining
+cd LR1
 ```
 
 Создать виртуальное окружение:
