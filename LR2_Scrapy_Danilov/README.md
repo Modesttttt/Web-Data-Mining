@@ -84,11 +84,10 @@ scrapy crawl books -O output.json
 scrapy crawl books -O output.csv
 ```
 
-4. Ограничить обход, например, 5 страницами:
+4. Ограничить обход, например, одной страницей:
 
 ```powershell
-$env:CLOSESPIDER_PAGECOUNT="5"
-scrapy crawl books -O output.json
+scrapy crawl books -s CLOSESPIDER_PAGECOUNT=1 -O output.json
 ```
 
 > Команды `scrapy crawl` необходимо выполнять из каталога `metals_scraper`, где находится файл `scrapy.cfg`.
