@@ -18,8 +18,6 @@ from graphviz import Digraph
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-# Совместимость pymorphy2 с Python 3.11/3.12.
-# Старый pymorphy2 ожидает inspect.getargspec(), удалённый из Python 3.11.
 if not hasattr(inspect, "getargspec"):
     ArgSpec = namedtuple("ArgSpec", ["args", "varargs", "keywords", "defaults"])
 
