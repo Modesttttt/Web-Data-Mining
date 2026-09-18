@@ -66,10 +66,10 @@ pip install -r requirements.txt
 
 ## Запуск
 
-1. Перейти в каталог проекта:
+1. Перейти в директорию Scrapy-проекта:
 
 ```powershell
-cd .\metals_scraper
+cd .\LR2_Scrapy_Danilov\metals_scraper
 ```
 
 2. Запустить Spider с сохранением результата в JSON:
