@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+results/*.json
+results/*.dot
+results/*.svg
+results/*.pdf

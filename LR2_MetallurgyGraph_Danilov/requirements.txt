@@ -1,0 +1,7 @@
+requests>=2.31,<3
+beautifulsoup4>=4.12,<5
+lxml>=5,<7
+rutermextract>=0.3,<1
+graphviz>=0.20,<1
+
+setuptools==80.9.0
