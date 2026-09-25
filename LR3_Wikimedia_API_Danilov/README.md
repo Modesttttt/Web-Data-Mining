@@ -486,7 +486,7 @@ time.sleep(0.45)
 ## 12. Структура проекта
 
 ```text
-LR3_Wikipedia_Api_Danilov/
+LR3_Wikimedia_Api_Danilov/
 │
 ├── lab3_wikimedia_api.py
 ├── README.md
