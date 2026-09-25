@@ -394,13 +394,11 @@ dot -Tpng wikimedia_lab3_output/wikimedia_graph.dot -o graph.png
 
 ---
 
-## 9. График статистики
+## 9. График связности статей
 
-Файл:
+Результат визуализации количества связей между собранными статьями:
 
-```text
-links_statistics.png
-```
+![График связности статей](wikimedia_lab3_output/links_statistics.png)
 
 создаётся средствами `matplotlib`.
 
