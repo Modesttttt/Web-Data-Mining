@@ -1,0 +1,8 @@
+Scrapy>=2.13,<3
+scrapy-playwright>=0.0.48
+playwright>=1.40
+ftfy>=6.3
+itemadapter>=0.10
+
+
+pytest>=8
