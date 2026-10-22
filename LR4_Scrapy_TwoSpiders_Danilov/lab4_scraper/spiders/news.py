@@ -66,7 +66,6 @@ class NewsSpider(scrapy.Spider):
             return
 
         # Формируем адрес следующей страницы напрямую,
-        # чтобы не зависеть от разметки блока пагинации.
         current_page = 1
         marker = "/page"
         if marker in response.url:

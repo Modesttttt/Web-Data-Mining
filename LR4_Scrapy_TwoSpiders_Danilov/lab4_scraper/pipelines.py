@@ -21,7 +21,7 @@ class CleaningPipeline:
                 value = re.sub(r"\s+", " ", value).strip()
                 adapter[field] = value
 
-        # Нормализованное название удобно использовать для сравнения товаров.
+        # Нормализованное название
         title = adapter.get("title")
         if isinstance(title, str):
             adapter["normalized_title"] = title.lower()

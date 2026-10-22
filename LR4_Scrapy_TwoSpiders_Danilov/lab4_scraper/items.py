@@ -15,6 +15,7 @@ class ProductItem(scrapy.Item):
     normalized_title = scrapy.Field()
     price = scrapy.Field()
     rating = scrapy.Field()
+    brand = scrapy.Field()
     description = scrapy.Field()
     url = scrapy.Field()
     source = scrapy.Field()

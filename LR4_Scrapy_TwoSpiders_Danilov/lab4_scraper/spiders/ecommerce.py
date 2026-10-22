@@ -1,3 +1,5 @@
+import html
+import json
 import os
 import re
 from pathlib import Path
@@ -49,24 +51,24 @@ YANDEX_JS = r"""() => {
   const linkSel = "a[href*='/card/'], a[href*='/product--']";
   // Только реально видимые текстовые узлы: по одному на строку, без скрытого JSON.
   const lines = (root) => {
-    const out = [], w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+    const out = [], w = document.createTreeWalker(root, NodeFilter.SHOW_TEXT); // проход по текстовым узлам
     let n;
     while ((n = w.nextNode())) {
       const el = n.parentElement;
       if (!el || SKIP.includes(el.tagName)) continue;
-      if (el.checkVisibility && !el.checkVisibility({checkVisibilityCSS: true, visibilityProperty: true})) continue;
+      if (el.checkVisibility && !el.checkVisibility({checkVisibilityCSS: true, visibilityProperty: true})) continue; // берем только видимый текст
       const t = n.nodeValue.replace(/\s+/g, ' ').trim();
       if (t) out.push(t);
     }
     return out;
   };
   const seen = new Set(), out = [];
-  for (const a of document.querySelectorAll(linkSel)) {
+  for (const a of document.querySelectorAll(linkSel)) { // ссылки на карточки
     const url = key(a.href);
-    if (seen.has(url)) continue;
+    if (seen.has(url)) continue; // если ссылка уже была, пропускаем 
     seen.add(url);
     let card = a;
-    for (let i = 0; i < 8; i++) {
+    for (let i = 0; i < 8; i++) { // поднимаемся вверх по DOM, пока не найдем контейнер карточки
       const p = card.parentElement;
       if (!p) break;
       const others = new Set(Array.from(p.querySelectorAll(linkSel)).map(x => key(x.href)));
@@ -75,7 +77,7 @@ YANDEX_JS = r"""() => {
       if (lines(card).join(' ').length > 80) break;
     }
     const img = card.querySelector('img');
-    out.push({
+    out.push({ // для каждого товара формируется объект с ссылкой, текстом и атрибутами
       url,
       lines: lines(card),
       title: a.getAttribute('title') || a.getAttribute('aria-label') || '',
@@ -85,7 +87,7 @@ YANDEX_JS = r"""() => {
   return out;
 }"""
 
-
+# Селекторы для поиска карточек товаров на страницах магазинов.
 READY_SELECTOR = {
     "wildberries": "article.product-card, [data-nm-id]",
     "ozon": "a[href*='/product/']",
@@ -100,12 +102,93 @@ WARMUP_URL = {
 
 STORE_ALIASES = {"yandex": "yandexmarket", "market": "yandexmarket", "yandex_market": "yandexmarket"}
 
+# --- Описание со страницы товара -------------------------------------------------
+#
+# В поисковой выдаче нет описания товара (только бренд, цена, бейджи «Скидки недели»),
+# поэтому для каждого товара паук дополнительно открывает его страницу:
+#   * Wildberries — карточка товара card.json с CDN (тот же файл, из которого сайт
+#     показывает блок «Описание»), обычный HTTP-запрос без браузера;
+#   * Ozon — страница товара через Playwright, описание из разметки schema.org
+#     (application/ld+json, тип Product), запасной вариант — блок описания;
+#   * Яндекс Маркет — страница товара через Playwright, описание из данных виджета
+#     @card/AboutDescriptionV2 (поле fullDescription), запасной вариант — видимый
+#     блок «О товаре». В ld+json у Маркета лежит рекламная SEO-строка
+#     («… – купить в интернет-магазине …»), поэтому её не используем.
+
+WB_ID_RE = re.compile(r"/catalog/(\d+)/")
+WB_CARD_HOSTS = [f"https://mow-basket-cdn-{i:02d}.geobasket.ru" for i in (1, 2, 8, 15)]
+DESCRIPTION_LIMIT = 3000
+
+# Ждём, пока страница пройдёт проверку браузера/капчу и на ней появятся данные товара.
+DETAIL_READY_JS = {
+    "ozon": """() => !document.title.toLowerCase().includes('antibot')
+        && !!document.querySelector('script[type="application/ld+json"], #section-description')""",
+    "yandexmarket": """() => !location.pathname.includes('showcaptcha')
+        && !!document.querySelector('h1')""",
+}
+DETAIL_TIMEOUT = {"ozon": 60_000, "yandexmarket": 120_000}
+
+DESCRIPTION_SELECTORS = {
+    "ozon": ["#section-description", "[data-widget='webDescription']"],
+    "yandexmarket": ["[data-zone-name='marketProductDescription']"],
+}
+YANDEX_DESCRIPTION_WIDGET = "@card/AboutDescriptionV2"
+BRAND_PLACEHOLDERS = {"", "не определен", "не определён", "нет бренда"}
+
+
+def clean_description(text):
+    text = html.unescape(re.sub(r"<[^>]+>", " ", text or ""))
+    text = text.replace("**", "").replace("__", "")  # markdown-выделение в описаниях WB
+    text = re.sub(r"\s+", " ", text).strip()
+    text = re.sub(r"^(О товаре\s+)?(Описание\s+)?(Характеристики\s+)?", "", text)
+    text = re.sub(r"\s*Всё описание$", "", text)
+    return text[:DESCRIPTION_LIMIT]
+
+
+def ld_json_product(response):
+    """Объект schema.org Product из <script type="application/ld+json">."""
+    for raw in response.xpath('//script[@type="application/ld+json"]/text()').getall():
+        try:
+            data = json.loads(raw)
+        except ValueError:
+            continue
+        objects = data if isinstance(data, list) else data.get("@graph", [data]) if isinstance(data, dict) else []
+        for obj in objects:
+            if isinstance(obj, dict) and obj.get("@type") == "Product":
+                return obj
+    return {}
+
+
+def brand_name(value):
+    if isinstance(value, dict):
+        value = value.get("name", "")
+    if not isinstance(value, str) or value.strip().lower() in BRAND_PLACEHOLDERS:
+        return ""
+    return value.strip()
+
+
+def yandex_widget_description(response):
+    """Полное описание товара из данных виджета Маркета (JSON внутри <noframes>)."""
+    for raw in response.xpath("//noframes/text()").getall():
+        if YANDEX_DESCRIPTION_WIDGET not in raw:
+            continue
+        try:
+            widget = json.loads(raw)["widgets"][YANDEX_DESCRIPTION_WIDGET]
+        except (ValueError, KeyError, TypeError):
+            continue
+        for value in widget.values():
+            if isinstance(value, dict):
+                text = value.get("fullDescription") or value.get("shortDescription")
+                if text:
+                    return text
+    return ""
+
 
 class EcommerceSpider(scrapy.Spider):
     name = "ecommerce"
     allowed_domains = [
         "ozon.ru", "www.ozon.ru", "wildberries.ru", "www.wildberries.ru",
-        "market.yandex.ru", "yandex.ru",
+        "market.yandex.ru", "yandex.ru", "geobasket.ru",
     ]
 
     custom_settings = {
@@ -120,7 +203,8 @@ class EcommerceSpider(scrapy.Spider):
         "DOWNLOAD_HANDLERS": {
             "https": "scrapy_playwright.handler.ScrapyPlaywrightDownloadHandler",
         },
-        # Не подменять заголовки/User-Agent браузера заголовками Scrapy.
+        # Карточки WB (card.json) — лёгкие JSON-файлы с CDN, им 5-секундная пауза не нужна.
+        "DOWNLOAD_SLOTS": {"wb-cards": {"concurrency": 2, "delay": 0.5}},
         "PLAYWRIGHT_PROCESS_REQUEST_HEADERS": None,
         "PLAYWRIGHT_BROWSER_TYPE": "chromium",
         "PLAYWRIGHT_DEFAULT_NAVIGATION_TIMEOUT": 60_000,
@@ -189,7 +273,7 @@ class EcommerceSpider(scrapy.Spider):
         request_url = url
         methods = []
         if store in WARMUP_URL and page == 1:
-            # Прогрев: сначала главная страница, потом каталог (как делает живой пользователь).
+            # Прогрев: сначала главная страница, потом каталог.
             request_url = WARMUP_URL[store]
             methods += [
                 PageMethod("wait_for_timeout", 4000),
@@ -199,7 +283,7 @@ class EcommerceSpider(scrapy.Spider):
             ]
         methods += [
             PageMethod("wait_for_load_state", "domcontentloaded"),
-            # Ждём карточки до 60 сек. Если появилась проверка, пройдите её вручную в окне.
+            # Ждём карточки до 60 сек, до появления карточек
             PageMethod("wait_for_selector", READY_SELECTOR[store], timeout=60_000),
         ]
         # Несколько прокруток, чтобы подгрузились все карточки (ленивая загрузка).
@@ -260,7 +344,9 @@ class EcommerceSpider(scrapy.Spider):
             self.seen_urls.add(url)
             self.collected[store] += 1
             new_count += 1
-            yield ProductItem(**item)
+            item["brand"] = item.get("brand") or ""
+            item["description"] = ""
+            yield self.detail_request(store, item)
 
         self.logger.info(
             "[%s] page=%d parsed=%d new=%d total=%d/%d",
@@ -297,11 +383,11 @@ class EcommerceSpider(scrapy.Spider):
                 or self.price_from_text(card)
             )
             rating = self.first_text(card, ["[class*='rating']::text", "[class*='product-card__rating']::text"])
-            description = self.first_text(card, [".product-card__brand::text", "[class*='brand']::text"])
+            brand = self.first_text(card, [".product-card__brand::text", "[class*='brand']::text"])
             if title and href:
                 yield {
-                    "title": title, "price": price, "rating": rating,
-                    "description": description or "", "url": response.urljoin(href), "source": "Wildberries"
+                    "title": title, "price": price, "rating": rating, "brand": brand or "",
+                    "url": response.urljoin(href).split("?")[0], "source": "Wildberries"
                 }
 
     def parse_ozon(self, response):
@@ -333,11 +419,10 @@ class EcommerceSpider(scrapy.Spider):
                 self.first_text(card, ["[class*='rating']::text", "[class*='stars']::text"])
                 or self.rating_from_text(card)
             )
-            description = " ".join(visible_texts(card)).strip()[:500]
             if title and len(title) >= 5:
                 yield {
                     "title": title, "price": price, "rating": rating,
-                    "description": description, "url": url, "source": "Ozon"
+                    "url": url, "source": "Ozon"
                 }
 
     BADGE_WORDS = (
@@ -423,7 +508,6 @@ class EcommerceSpider(scrapy.Spider):
                     "title": title,
                     "price": next((self.price_from_string(x) for x in lines if "₽" in x), None),
                     "rating": rating,
-                    "description": " ".join(lines)[:500],
                     "url": response.urljoin(row["url"]),
                     "source": "Yandex Market",
                 }
@@ -456,11 +540,10 @@ class EcommerceSpider(scrapy.Spider):
                 self.first_text(card, ["[data-auto='rating-badge'] ::text", "[data-auto='reviews'] ::text"])
                 or self.rating_from_text(card)
             )
-            description = " ".join(visible_texts(card)).strip()[:500]
             if title and len(title) >= 5:
                 yield {
                     "title": title, "price": price, "rating": rating,
-                    "description": description, "url": url, "source": "Yandex Market"
+                    "url": url, "source": "Yandex Market"
                 }
 
     @staticmethod
@@ -483,6 +566,91 @@ class EcommerceSpider(scrapy.Spider):
                     return value
         return None
 
+    # --- Страница товара: описание и бренд ---------------------------------------
+
+    def detail_request(self, store, item):
+        if store == "wildberries":
+            match = WB_ID_RE.search(item["url"])
+            if not match:
+                return ProductItem(**item)
+            return self.wb_card_request(item, int(match.group(1)), 0)
+
+        methods = [
+            PageMethod("wait_for_load_state", "domcontentloaded"),
+            PageMethod("wait_for_function", DETAIL_READY_JS[store], timeout=DETAIL_TIMEOUT[store]),
+            # Блок описания на Маркете подгружается при прокрутке.
+            PageMethod("evaluate", "window.scrollBy(0, document.body.scrollHeight / 2)"),
+            PageMethod("wait_for_timeout", 1500),
+        ]
+        return scrapy.Request(
+            item["url"],
+            callback=self.parse_detail,
+            errback=self.errback_detail,
+            dont_filter=True,
+            meta={"playwright": True, "playwright_page_methods": methods, "store": store},
+            cb_kwargs={"item": item},
+        )
+
+    def wb_card_request(self, item, nm_id, attempt):
+        vol, part = nm_id // 100000, nm_id // 1000
+        url = f"{WB_CARD_HOSTS[attempt]}/vol{vol}/part{part}/{nm_id}/info/ru/card.json"
+        return scrapy.Request(
+            url,
+            callback=self.parse_wb_card,
+            errback=self.errback_detail,
+            dont_filter=True,
+            meta={"store": "wildberries", "nm_id": nm_id, "attempt": attempt, "download_slot": "wb-cards"},
+            cb_kwargs={"item": item},
+        )
+
+    def parse_wb_card(self, response, item):
+        attempt = response.meta["attempt"]
+        if response.status != 200:
+            if attempt + 1 < len(WB_CARD_HOSTS):
+                yield self.wb_card_request(item, response.meta["nm_id"], attempt + 1)
+                return
+            self.logger.warning("[WB] нет карточки товара: %s", item["url"])
+            yield ProductItem(**item)
+            return
+
+        try:
+            data = response.json()
+        except ValueError:
+            data = {}
+        item["description"] = clean_description(data.get("description", ""))
+        item["brand"] = (data.get("selling") or {}).get("brand_name") or item.get("brand", "")
+        yield ProductItem(**item)
+
+    def parse_detail(self, response, item):
+        store = response.meta["store"]
+        product = ld_json_product(response)
+        if store == "yandexmarket":
+            description = clean_description(yandex_widget_description(response))
+        else:
+            description = clean_description(product.get("description", ""))
+
+        if not description:
+            for selector in DESCRIPTION_SELECTORS[store]:
+                node = response.css(selector)
+                if node:
+                    description = clean_description(" ".join(visible_texts(node[0])))
+                    if description:
+                        break
+
+        if not description:
+            self.logger.warning("[%s] описание не найдено: %s", store.upper(), item["url"])
+
+        item["description"] = description
+        item["brand"] = brand_name(product.get("brand")) or item.get("brand", "")
+        yield ProductItem(**item)
+
+    def errback_detail(self, failure):
+        item = failure.request.cb_kwargs["item"]
+        store = failure.request.meta.get("store", "?")
+        self.logger.warning("[%s] страница товара не загрузилась (%s): %s",
+                            store.upper(), failure.value, item["url"])
+        yield ProductItem(**item)
+
     def errback_marketplace(self, failure):
         request = failure.request
         store = request.meta.get("store", "?")
@@ -490,7 +658,7 @@ class EcommerceSpider(scrapy.Spider):
         self.logger.error("[%s] page=%s request failed: %s", store.upper(), page, failure.value)
 
         # Одна упавшая страница (таймаут, капча) не должна обрывать весь магазин:
-        # пробуем следующую страницу, но не больше 2 неудач подряд.
+        # проверка следующей страницы, но не больше 2 неудач.
         if store not in self.collected:
             return
         self.failures[store] += 1
