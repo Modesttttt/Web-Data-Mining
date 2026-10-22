@@ -1,0 +1,235 @@
+{
+  "cities": [
+    "Пермь",
+    "Кунгур",
+    "Казань",
+    "Уфа",
+    "Москва",
+    "Санкт-Петербург",
+    "Новосибирск",
+    "Хабаровск",
+    "Петрозаводск"
+  ],
+  "sites_per_city": {
+    "Пермь": 4,
+    "Кунгур": 3,
+    "Казань": 3,
+    "Уфа": 4,
+    "Москва": 3,
+    "Санкт-Петербург": 2,
+    "Новосибирск": 3,
+    "Хабаровск": 4,
+    "Петрозаводск": 3
+  },
+  "n_dishes": 186,
+  "excluded_common_dishes": [
+    "пельмени",
+    "пироги",
+    "чай"
+  ],
+  "k": 4,
+  "k_selection": [
+    {
+      "k": 2,
+      "inertia": 5.8636,
+      "silhouette": 0.0949
+    },
+    {
+      "k": 3,
+      "inertia": 4.6728,
+      "silhouette": 0.1531
+    },
+    {
+      "k": 4,
+      "inertia": 3.6823,
+      "silhouette": 0.1601
+    },
+    {
+      "k": 5,
+      "inertia": 2.7977,
+      "silhouette": 0.1492
+    },
+    {
+      "k": 6,
+      "inertia": 1.9389,
+      "silhouette": 0.1475
+    }
+  ],
+  "silhouette": {
+    "kmeans": 0.1601,
+    "hier": 0.1601,
+    "spectral": 0.1601
+  },
+  "ari": {
+    "kmeans_vs_hier": 1.0,
+    "kmeans_vs_spectral": 1.0,
+    "hier_vs_spectral": 1.0
+  },
+  "clusters": [
+    {
+      "cluster": 1,
+      "cities": [
+        "Казань",
+        "Уфа"
+      ],
+      "top_dishes": [
+        {
+          "dish": "бешбармак",
+          "mean_norm_freq": 1.0
+        },
+        {
+          "dish": "токмач",
+          "mean_norm_freq": 0.625
+        },
+        {
+          "dish": "эчпочмак",
+          "mean_norm_freq": 0.625
+        },
+        {
+          "dish": "чак-чак",
+          "mean_norm_freq": 0.583
+        },
+        {
+          "dish": "конина",
+          "mean_norm_freq": 0.542
+        },
+        {
+          "dish": "кыстыбый",
+          "mean_norm_freq": 0.458
+        },
+        {
+          "dish": "кофе",
+          "mean_norm_freq": 0.417
+        },
+        {
+          "dish": "бэлиш",
+          "mean_norm_freq": 0.417
+        }
+      ]
+    },
+    {
+      "cluster": 2,
+      "cities": [
+        "Новосибирск",
+        "Хабаровск",
+        "Петрозаводск"
+      ],
+      "top_dishes": [
+        {
+          "dish": "оленина",
+          "mean_norm_freq": 0.528
+        },
+        {
+          "dish": "лосятина",
+          "mean_norm_freq": 0.528
+        },
+        {
+          "dish": "медвежатина",
+          "mean_norm_freq": 0.444
+        },
+        {
+          "dish": "брусника",
+          "mean_norm_freq": 0.417
+        },
+        {
+          "dish": "морошка",
+          "mean_norm_freq": 0.417
+        },
+        {
+          "dish": "грибы",
+          "mean_norm_freq": 0.417
+        },
+        {
+          "dish": "икра",
+          "mean_norm_freq": 0.389
+        },
+        {
+          "dish": "мороженое",
+          "mean_norm_freq": 0.333
+        }
+      ]
+    },
+    {
+      "cluster": 3,
+      "cities": [
+        "Пермь",
+        "Кунгур"
+      ],
+      "top_dishes": [
+        {
+          "dish": "вязовские пряники",
+          "mean_norm_freq": 0.625
+        },
+        {
+          "dish": "посикунчики",
+          "mean_norm_freq": 0.5
+        },
+        {
+          "dish": "пирожки",
+          "mean_norm_freq": 0.25
+        },
+        {
+          "dish": "сур",
+          "mean_norm_freq": 0.25
+        },
+        {
+          "dish": "черинянь",
+          "mean_norm_freq": 0.25
+        },
+        {
+          "dish": "кунгурский лимонад",
+          "mean_norm_freq": 0.167
+        },
+        {
+          "dish": "колбасные изделия",
+          "mean_norm_freq": 0.167
+        },
+        {
+          "dish": "грибы",
+          "mean_norm_freq": 0.167
+        }
+      ]
+    },
+    {
+      "cluster": 4,
+      "cities": [
+        "Москва",
+        "Санкт-Петербург"
+      ],
+      "top_dishes": [
+        {
+          "dish": "блины",
+          "mean_norm_freq": 0.667
+        },
+        {
+          "dish": "торты",
+          "mean_norm_freq": 0.667
+        },
+        {
+          "dish": "уха",
+          "mean_norm_freq": 0.583
+        },
+        {
+          "dish": "кофе",
+          "mean_norm_freq": 0.583
+        },
+        {
+          "dish": "пирожные",
+          "mean_norm_freq": 0.5
+        },
+        {
+          "dish": "сдоба",
+          "mean_norm_freq": 0.5
+        },
+        {
+          "dish": "пышки",
+          "mean_norm_freq": 0.5
+        },
+        {
+          "dish": "корюшка",
+          "mean_norm_freq": 0.5
+        }
+      ]
+    }
+  ]
+}

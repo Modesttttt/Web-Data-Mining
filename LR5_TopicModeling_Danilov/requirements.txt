@@ -1,0 +1,9 @@
+numpy>=1.26
+scipy>=1.11
+scikit-learn>=1.4
+matplotlib>=3.8
+requests>=2.31
+parsel>=1.8
+pymorphy3>=2.0
+# gensim>=4.3  (необязательно, см. README)
+wordcloud>=1.9

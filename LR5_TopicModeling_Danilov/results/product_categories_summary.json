@@ -1,0 +1,21 @@
+{
+  "created": "2026-10-22T11:58:42",
+  "dataset": "products",
+  "sources": [
+    "data\\products.json"
+  ],
+  "documents": 207,
+  "vocabulary": 1000,
+  "normalizer": "lemma",
+  "coherence_history": {},
+  "results": {
+    "nmf": {
+      "method": "nmf",
+      "k": 15,
+      "coherence": 0.9241,
+      "coherence_backend": "own",
+      "overlap": 0.0021,
+      "fit_seconds": 0.015
+    }
+  }
+}

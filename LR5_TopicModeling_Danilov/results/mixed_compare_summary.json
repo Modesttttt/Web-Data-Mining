@@ -1,0 +1,30 @@
+{
+  "created": "2026-10-22T11:58:55",
+  "dataset": "mixed",
+  "sources": [
+    "data\\news.json",
+    "data\\products.json"
+  ],
+  "documents": 427,
+  "vocabulary": 1000,
+  "normalizer": "lemma",
+  "coherence_history": {},
+  "results": {
+    "lda": {
+      "method": "lda",
+      "k": 10,
+      "coherence": 0.6262,
+      "coherence_backend": "own",
+      "overlap": 0.055,
+      "fit_seconds": 3.096
+    },
+    "nmf": {
+      "method": "nmf",
+      "k": 10,
+      "coherence": 0.7982,
+      "coherence_backend": "own",
+      "overlap": 0.0094,
+      "fit_seconds": 0.02
+    }
+  }
+}

@@ -1,0 +1,874 @@
+[
+{
+  "title": "Имаго для больших компаний",
+  "normalized_title": "имаго для больших компаний",
+  "summary": "",
+  "date": "2026-09-29T18:58:01.000Z",
+  "url": "https://habr.com/ru/articles/1088296/",
+  "source": "Habr"
+},
+{
+  "title": "Фронтенд и бэкенд работают отдельно. Как я связал их задачи через OpenSpec",
+  "normalized_title": "фронтенд и бэкенд работают отдельно. как я связал их задачи через openspec",
+  "summary": "",
+  "date": "2026-09-29T18:37:05.000Z",
+  "url": "https://habr.com/ru/articles/1088292/",
+  "source": "Habr"
+},
+{
+  "title": "Агента нельзя засудить: почему последняя миля ИИ - это человек",
+  "normalized_title": "агента нельзя засудить: почему последняя миля ии - это человек",
+  "summary": "",
+  "date": "2026-09-29T17:56:45.000Z",
+  "url": "https://habr.com/ru/articles/1088290/",
+  "source": "Habr"
+},
+{
+  "title": "Один успех и серия успехов: анатомия карьеры выдающегося венчурного инвестора",
+  "normalized_title": "один успех и серия успехов: анатомия карьеры выдающегося венчурного инвестора",
+  "summary": "",
+  "date": "2026-09-29T17:53:09.000Z",
+  "url": "https://habr.com/ru/articles/1081082/",
+  "source": "Habr"
+},
+{
+  "title": "GPT-6 Astra за 10 часов расшифровала сообщение Enigma, над которым бились с 2005 года",
+  "normalized_title": "gpt-6 astra за 10 часов расшифровала сообщение enigma, над которым бились с 2005 года",
+  "summary": "",
+  "date": "2026-09-29T17:42:57.000Z",
+  "url": "https://habr.com/ru/companies/syntx_ai/articles/1088284/",
+  "source": "Habr"
+},
+{
+  "title": "SMART говорит, что с SSD все в порядке. Он при этом пишет 22 МБ/с",
+  "normalized_title": "smart говорит, что с ssd все в порядке. он при этом пишет 22 мб/с",
+  "summary": "",
+  "date": "2026-09-29T17:32:38.000Z",
+  "url": "https://habr.com/ru/articles/1087482/",
+  "source": "Habr"
+},
+{
+  "title": "Английский я не слышу двадцать лет. Португальский услышал за два…",
+  "normalized_title": "английский я не слышу двадцать лет. португальский услышал за два…",
+  "summary": "",
+  "date": "2026-09-29T17:26:56.000Z",
+  "url": "https://habr.com/ru/articles/1088278/",
+  "source": "Habr"
+},
+{
+  "title": "Как отделить сквозные ссылки от контекстных, не парся вёрстку",
+  "normalized_title": "как отделить сквозные ссылки от контекстных, не парся вёрстку",
+  "summary": "",
+  "date": "2026-09-29T17:26:07.000Z",
+  "url": "https://habr.com/ru/articles/1088276/",
+  "source": "Habr"
+},
+{
+  "title": "Как выбрать преподавателя/репетитора",
+  "normalized_title": "как выбрать преподавателя/репетитора",
+  "summary": "",
+  "date": "2026-09-29T17:08:28.000Z",
+  "url": "https://habr.com/ru/articles/1088270/",
+  "source": "Habr"
+},
+{
+  "title": "ИИ есть, но есть ли преимущество? Что изменилось для маркетинга и PR",
+  "normalized_title": "ии есть, но есть ли преимущество? что изменилось для маркетинга и pr",
+  "summary": "",
+  "date": "2026-09-29T16:58:59.000Z",
+  "url": "https://habr.com/ru/articles/1085724/",
+  "source": "Habr"
+},
+{
+  "title": "Симулятор микропроцессоров: запускаем BASIC и не только",
+  "normalized_title": "симулятор микропроцессоров: запускаем basic и не только",
+  "summary": "",
+  "date": "2026-09-29T16:39:17.000Z",
+  "url": "https://habr.com/ru/articles/1088258/",
+  "source": "Habr"
+},
+{
+  "title": "Архитектура управления доступом в базы данных через Trino в масштабах всей компании",
+  "normalized_title": "архитектура управления доступом в базы данных через trino в масштабах всей компании",
+  "summary": "",
+  "date": "2026-09-29T16:07:01.000Z",
+  "url": "https://habr.com/ru/companies/rwb/articles/1085216/",
+  "source": "Habr"
+},
+{
+  "title": "Как теплотехник в 50 лет стер границу между КИПиА и IT: пишем универсальный Android‑SCADA движок на Flutter",
+  "normalized_title": "как теплотехник в 50 лет стер границу между кипиа и it: пишем универсальный android‑scada движок на flutter",
+  "summary": "",
+  "date": "2026-09-29T15:59:07.000Z",
+  "url": "https://habr.com/ru/articles/1088248/",
+  "source": "Habr"
+},
+{
+  "title": "8000 рублей ради пяти долларов: как я оплачивал аккаунт в Chrome Web Store",
+  "normalized_title": "8000 рублей ради пяти долларов: как я оплачивал аккаунт в chrome web store",
+  "summary": "",
+  "date": "2026-09-29T15:58:53.000Z",
+  "url": "https://habr.com/ru/articles/1088246/",
+  "source": "Habr"
+},
+{
+  "title": "xk6-sip: проверка качества звука в нагрузочных и автоматизированных функциональных тестах VoIP/SIP",
+  "normalized_title": "xk6-sip: проверка качества звука в нагрузочных и автоматизированных функциональных тестах voip/sip",
+  "summary": "",
+  "date": "2026-09-29T15:25:22.000Z",
+  "url": "https://habr.com/ru/articles/1088230/",
+  "source": "Habr"
+},
+{
+  "title": "Локальный speech-to-text сервер, или как избавиться от SpeechKit",
+  "normalized_title": "локальный speech-to-text сервер, или как избавиться от speechkit",
+  "summary": "",
+  "date": "2026-09-29T15:25:10.000Z",
+  "url": "https://habr.com/ru/articles/1088214/",
+  "source": "Habr"
+},
+{
+  "title": "0.0000008 Мбит/с при оценке A+: как тихий 403 от Cloudflare сломал половину теста bufferbloat",
+  "normalized_title": "0.0000008 мбит/с при оценке a+: как тихий 403 от cloudflare сломал половину теста bufferbloat",
+  "summary": "",
+  "date": "2026-09-29T15:23:47.000Z",
+  "url": "https://habr.com/ru/articles/1088228/",
+  "source": "Habr"
+},
+{
+  "title": "Как надёжно передавать управление между ИИ-агентом и человеком без гонок состояний",
+  "normalized_title": "как надёжно передавать управление между ии-агентом и человеком без гонок состояний",
+  "summary": "",
+  "date": "2026-09-29T15:05:56.000Z",
+  "url": "https://habr.com/ru/companies/otus/articles/1085500/",
+  "source": "Habr"
+},
+{
+  "title": "Понятно о распределённых системах. Анонс книги Доминика Торнова",
+  "normalized_title": "понятно о распределённых системах. анонс книги доминика торнова",
+  "summary": "",
+  "date": "2026-09-29T15:05:45.000Z",
+  "url": "https://habr.com/ru/companies/bhv_publishing/articles/1088218/",
+  "source": "Habr"
+},
+{
+  "title": "Ложка мёда в бочке уязвимостей: разбираем цепочку SSRF → IAM → RCE + бонус",
+  "normalized_title": "ложка мёда в бочке уязвимостей: разбираем цепочку ssrf → iam → rce + бонус",
+  "summary": "",
+  "date": "2026-09-29T14:58:17.000Z",
+  "url": "https://habr.com/ru/companies/avito/articles/1087662/",
+  "source": "Habr"
+},
+{
+  "title": "cKEV Index: успеть до полуночи",
+  "normalized_title": "ckev index: успеть до полуночи",
+  "summary": "",
+  "date": "2026-09-29T14:47:54.000Z",
+  "url": "https://habr.com/ru/articles/1088206/",
+  "source": "Habr"
+},
+{
+  "title": "Автоэнкодер как динамическая система, латентное векторное поле, его аттракторы и другие красивые слова",
+  "normalized_title": "автоэнкодер как динамическая система, латентное векторное поле, его аттракторы и другие красивые слова",
+  "summary": "",
+  "date": "2026-09-29T14:41:23.000Z",
+  "url": "https://habr.com/ru/articles/1087240/",
+  "source": "Habr"
+},
+{
+  "title": "Как аналитики в Циане помогают рекомендовать квартиры и находить фейки",
+  "normalized_title": "как аналитики в циане помогают рекомендовать квартиры и находить фейки",
+  "summary": "",
+  "date": "2026-09-29T14:25:33.000Z",
+  "url": "https://habr.com/ru/companies/cian/articles/1087358/",
+  "source": "Habr"
+},
+{
+  "title": "BB изнутри: как устроена открытая IDE для Claude Code и Codex, которая обновляет себя без перезапуска",
+  "normalized_title": "bb изнутри: как устроена открытая ide для claude code и codex, которая обновляет себя без перезапуска",
+  "summary": "",
+  "date": "2026-09-29T13:50:02.000Z",
+  "url": "https://habr.com/ru/articles/1088186/",
+  "source": "Habr"
+},
+{
+  "title": "Криптовалюта в законе: что меняется для инвесторов и бизнеса с новым регулированием",
+  "normalized_title": "криптовалюта в законе: что меняется для инвесторов и бизнеса с новым регулированием",
+  "summary": "",
+  "date": "2026-09-29T13:28:50.000Z",
+  "url": "https://habr.com/ru/articles/1088174/",
+  "source": "Habr"
+},
+{
+  "title": "Что скрывают в себе меры расстояния: от kNN и k‑means до стилометрии",
+  "normalized_title": "что скрывают в себе меры расстояния: от knn и k‑means до стилометрии",
+  "summary": "",
+  "date": "2026-09-29T13:07:48.000Z",
+  "url": "https://habr.com/ru/articles/1088162/",
+  "source": "Habr"
+},
+{
+  "title": "Hello World для STM32",
+  "normalized_title": "hello world для stm32",
+  "summary": "",
+  "date": "2026-09-29T13:01:48.000Z",
+  "url": "https://habr.com/ru/companies/ruvds/articles/1083826/",
+  "source": "Habr"
+},
+{
+  "title": "От 3000 сессий в месяц до 100 в секунду: как LLM заменила ручную оценку ботов поддержки",
+  "normalized_title": "от 3000 сессий в месяц до 100 в секунду: как llm заменила ручную оценку ботов поддержки",
+  "summary": "",
+  "date": "2026-09-29T13:01:20.000Z",
+  "url": "https://habr.com/ru/companies/mts_ai/articles/1087852/",
+  "source": "Habr"
+},
+{
+  "title": "От одной маленькой идеи до 20 000 пользователей: как я делаю плагины для Figma",
+  "normalized_title": "от одной маленькой идеи до 20 000 пользователей: как я делаю плагины для figma",
+  "summary": "",
+  "date": "2026-09-29T12:42:10.000Z",
+  "url": "https://habr.com/ru/articles/1088150/",
+  "source": "Habr"
+},
+{
+  "title": "В вайбкодинге агент почти не читает документацию без ссылки: 57 файлов из 88 он не открыл ни разу",
+  "normalized_title": "в вайбкодинге агент почти не читает документацию без ссылки: 57 файлов из 88 он не открыл ни разу",
+  "summary": "",
+  "date": "2026-09-29T12:33:20.000Z",
+  "url": "https://habr.com/ru/articles/1088144/",
+  "source": "Habr"
+},
+{
+  "title": "Тайна чисел‑близнецов",
+  "normalized_title": "тайна чисел‑близнецов",
+  "summary": "",
+  "date": "2026-09-29T12:31:12.000Z",
+  "url": "https://habr.com/ru/articles/1088142/",
+  "source": "Habr"
+},
+{
+  "title": "Экспорт коллекции API‑запросов в файлы для git - и как мы чуть не отправили токены в открытом виде",
+  "normalized_title": "экспорт коллекции api‑запросов в файлы для git - и как мы чуть не отправили токены в открытом виде",
+  "summary": "",
+  "date": "2026-09-29T12:13:44.000Z",
+  "url": "https://habr.com/ru/articles/1088128/",
+  "source": "Habr"
+},
+{
+  "title": "Разбор популярного тестового задания с упором на системный дизайн",
+  "normalized_title": "разбор популярного тестового задания с упором на системный дизайн",
+  "summary": "",
+  "date": "2026-09-29T12:13:28.000Z",
+  "url": "https://habr.com/ru/articles/1088126/",
+  "source": "Habr"
+},
+{
+  "title": "Режим планирования мёртв",
+  "normalized_title": "режим планирования мёртв",
+  "summary": "",
+  "date": "2026-09-29T12:12:30.000Z",
+  "url": "https://habr.com/ru/companies/haulmont/articles/1087664/",
+  "source": "Habr"
+},
+{
+  "title": "Сравнительный анализ рамановских усилителей от РТК‑Сервис. Вендор Nokia",
+  "normalized_title": "сравнительный анализ рамановских усилителей от ртк‑сервис. вендор nokia",
+  "summary": "",
+  "date": "2026-09-29T12:09:21.000Z",
+  "url": "https://habr.com/ru/companies/rtk_service/articles/1088122/",
+  "source": "Habr"
+},
+{
+  "title": "Как мы сделали школу айтишников внутри Росатома",
+  "normalized_title": "как мы сделали школу айтишников внутри росатома",
+  "summary": "",
+  "date": "2026-09-29T12:00:25.000Z",
+  "url": "https://habr.com/ru/companies/greenatom/articles/1087986/",
+  "source": "Habr"
+},
+{
+  "title": "Два дня искали баг в Telegram-боте и нашли",
+  "normalized_title": "два дня искали баг в telegram-боте и нашли",
+  "summary": "",
+  "date": "2026-09-29T11:56:57.000Z",
+  "url": "https://habr.com/ru/articles/1088102/",
+  "source": "Habr"
+},
+{
+  "title": "Аналоги OpenAI API в 2026 году: Claude, Gemini, Grok, DeepSeek и другие",
+  "normalized_title": "аналоги openai api в 2026 году: claude, gemini, grok, deepseek и другие",
+  "summary": "",
+  "date": "2026-09-29T11:55:23.000Z",
+  "url": "https://habr.com/ru/articles/1088108/",
+  "source": "Habr"
+},
+{
+  "title": "Формирование атрибутивного состава в нормализации НСИ: незаменимый этап, от которого зависит качество данных",
+  "normalized_title": "формирование атрибутивного состава в нормализации нси: незаменимый этап, от которого зависит качество данных",
+  "summary": "",
+  "date": "2026-09-29T11:54:36.000Z",
+  "url": "https://habr.com/ru/companies/sofros/articles/1088104/",
+  "source": "Habr"
+},
+{
+  "title": "Вебхук, в котором нельзя работать",
+  "normalized_title": "вебхук, в котором нельзя работать",
+  "summary": "",
+  "date": "2026-09-29T11:26:18.000Z",
+  "url": "https://habr.com/ru/articles/1084650/",
+  "source": "Habr"
+},
+{
+  "title": "COMConnection: ноль сеансов в консоли не снимает эксклюзивный режим",
+  "normalized_title": "comconnection: ноль сеансов в консоли не снимает эксклюзивный режим",
+  "summary": "",
+  "date": "2026-09-29T11:21:40.000Z",
+  "url": "https://habr.com/ru/articles/1088070/",
+  "source": "Habr"
+},
+{
+  "title": "Локальный анализ звонков без GPU. Что происходит на пути от аудио до резюме",
+  "normalized_title": "локальный анализ звонков без gpu. что происходит на пути от аудио до резюме",
+  "summary": "",
+  "date": "2026-09-29T11:16:27.000Z",
+  "url": "https://habr.com/ru/articles/1088060/",
+  "source": "Habr"
+},
+{
+  "title": "Пишем трассировщик лучей на Brainfuck",
+  "normalized_title": "пишем трассировщик лучей на brainfuck",
+  "summary": "",
+  "date": "2026-09-29T11:10:27.000Z",
+  "url": "https://habr.com/ru/articles/1088058/",
+  "source": "Habr"
+},
+{
+  "title": "«Железо» под давлением: как протестировать тысячи плат для базовых станций",
+  "normalized_title": "«железо» под давлением: как протестировать тысячи плат для базовых станций",
+  "summary": "",
+  "date": "2026-09-29T11:09:22.000Z",
+  "url": "https://habr.com/ru/companies/yadro/articles/1085562/",
+  "source": "Habr"
+},
+{
+  "title": "Почему друзья и довольные клиенты не рекламируют вас - и как это изменить?",
+  "normalized_title": "почему друзья и довольные клиенты не рекламируют вас - и как это изменить?",
+  "summary": "",
+  "date": "2026-09-29T11:05:43.000Z",
+  "url": "https://habr.com/ru/articles/1088054/",
+  "source": "Habr"
+},
+{
+  "title": "Агент не справляется с аудитом кода? Просто добавь графы",
+  "normalized_title": "агент не справляется с аудитом кода? просто добавь графы",
+  "summary": "",
+  "date": "2026-09-29T11:04:38.000Z",
+  "url": "https://habr.com/ru/companies/pt/articles/1084780/",
+  "source": "Habr"
+},
+{
+  "title": "Экспресс-лаборатория внутри комбайна: как научить технику оценивать зерно каждые 6 секунд",
+  "normalized_title": "экспресс-лаборатория внутри комбайна: как научить технику оценивать зерно каждые 6 секунд",
+  "summary": "",
+  "date": "2026-09-29T11:03:38.000Z",
+  "url": "https://habr.com/ru/articles/1087390/",
+  "source": "Habr"
+},
+{
+  "title": "Как мы научили OVN зеркалировать трафик виртуальных машин в облаке",
+  "normalized_title": "как мы научили ovn зеркалировать трафик виртуальных машин в облаке",
+  "summary": "",
+  "date": "2026-09-29T10:53:30.000Z",
+  "url": "https://habr.com/ru/companies/pt/articles/1088040/",
+  "source": "Habr"
+},
+{
+  "title": "«Интернета нет - а сайт работает»: как мы учили PWA замечать авиарежим на iPhone",
+  "normalized_title": "«интернета нет - а сайт работает»: как мы учили pwa замечать авиарежим на iphone",
+  "summary": "",
+  "date": "2026-09-29T10:51:05.000Z",
+  "url": "https://habr.com/ru/articles/1088032/",
+  "source": "Habr"
+},
+{
+  "title": "Типы корпоративных каталогов и их особенности",
+  "normalized_title": "типы корпоративных каталогов и их особенности",
+  "summary": "",
+  "date": "2026-09-29T10:47:57.000Z",
+  "url": "https://habr.com/ru/articles/1088038/",
+  "source": "Habr"
+},
+{
+  "title": "Как системному аналитику работать с запросами, в которых ничего не понятно",
+  "normalized_title": "как системному аналитику работать с запросами, в которых ничего не понятно",
+  "summary": "",
+  "date": "2026-09-29T10:44:48.000Z",
+  "url": "https://habr.com/ru/companies/skbkontur/articles/1086690/",
+  "source": "Habr"
+},
+{
+  "title": "Товарные рекомендации во ВКонтакте: как мы научили Ленту отличать интерес к контенту от намерения купить",
+  "normalized_title": "товарные рекомендации во вконтакте: как мы научили ленту отличать интерес к контенту от намерения купить",
+  "summary": "",
+  "date": "2026-09-29T10:43:11.000Z",
+  "url": "https://habr.com/ru/companies/vk/articles/1088034/",
+  "source": "Habr"
+},
+{
+  "title": "Как найти причину ошибок AI-фичи и проверить её с помощью тестового оракула",
+  "normalized_title": "как найти причину ошибок ai-фичи и проверить её с помощью тестового оракула",
+  "summary": "",
+  "date": "2026-09-29T10:41:57.000Z",
+  "url": "https://habr.com/ru/companies/otus/articles/1087130/",
+  "source": "Habr"
+},
+{
+  "title": "Распродажа в издательстве «Питер»",
+  "normalized_title": "распродажа в издательстве «питер»",
+  "summary": "",
+  "date": "2026-09-29T10:41:23.000Z",
+  "url": "https://habr.com/ru/companies/piter/articles/1087954/",
+  "source": "Habr"
+},
+{
+  "title": "Стоя на плечах гигантов. Ретроинструменты на фоне некоторых современных библиографических менеджеров",
+  "normalized_title": "стоя на плечах гигантов. ретроинструменты на фоне некоторых современных библиографических менеджеров",
+  "summary": "",
+  "date": "2026-09-29T10:41:19.000Z",
+  "url": "https://habr.com/ru/companies/stc_spb/articles/1088030/",
+  "source": "Habr"
+},
+{
+  "title": "Windows 11 будет переустанавливаться из облака. Зачем теперь нужна загрузочная флешка",
+  "normalized_title": "windows 11 будет переустанавливаться из облака. зачем теперь нужна загрузочная флешка",
+  "summary": "",
+  "date": "2026-09-29T10:37:43.000Z",
+  "url": "https://habr.com/ru/companies/x-com/articles/1088024/",
+  "source": "Habr"
+},
+{
+  "title": "Не завис, а считал: как две нейросети ускорили каталог Archicad с минут до секунд",
+  "normalized_title": "не завис, а считал: как две нейросети ускорили каталог archicad с минут до секунд",
+  "summary": "",
+  "date": "2026-09-29T10:35:10.000Z",
+  "url": "https://habr.com/ru/articles/1088022/",
+  "source": "Habr"
+},
+{
+  "title": "Как не потерять связь между требованиями и тестами: матрица трассировки на практике",
+  "normalized_title": "как не потерять связь между требованиями и тестами: матрица трассировки на практике",
+  "summary": "",
+  "date": "2026-09-29T10:31:17.000Z",
+  "url": "https://habr.com/ru/articles/1088020/",
+  "source": "Habr"
+},
+{
+  "title": "Я написал свой музыкальный плеер со своим стримингом: Android, Windows, Linux и сервер на Rust",
+  "normalized_title": "я написал свой музыкальный плеер со своим стримингом: android, windows, linux и сервер на rust",
+  "summary": "",
+  "date": "2026-09-29T10:30:55.000Z",
+  "url": "https://habr.com/ru/articles/1088018/",
+  "source": "Habr"
+},
+{
+  "title": "Новая отечественная Figma - Linia",
+  "normalized_title": "новая отечественная figma - linia",
+  "summary": "",
+  "date": "2026-09-29T10:28:10.000Z",
+  "url": "https://habr.com/ru/articles/1088014/",
+  "source": "Habr"
+},
+{
+  "title": "Штрафы от Роскомнадзора и ФАС за нарушения, допускаемые на сайте",
+  "normalized_title": "штрафы от роскомнадзора и фас за нарушения, допускаемые на сайте",
+  "summary": "",
+  "date": "2026-09-29T10:25:51.000Z",
+  "url": "https://habr.com/ru/articles/1088012/",
+  "source": "Habr"
+},
+{
+  "title": "OSINT для ленивых - постскриптум к 18-й части. Wayback Machine для поиска по Telegram",
+  "normalized_title": "osint для ленивых - постскриптум к 18-й части. wayback machine для поиска по telegram",
+  "summary": "",
+  "date": "2026-09-29T10:25:03.000Z",
+  "url": "https://habr.com/ru/articles/1088008/",
+  "source": "Habr"
+},
+{
+  "title": "Образование vs ИИ с точки зрения преподавателя",
+  "normalized_title": "образование vs ии с точки зрения преподавателя",
+  "summary": "",
+  "date": "2026-09-29T10:24:32.000Z",
+  "url": "https://habr.com/ru/articles/1088006/",
+  "source": "Habr"
+},
+{
+  "title": "Почти спидран по настройке весов Rongta",
+  "normalized_title": "почти спидран по настройке весов rongta",
+  "summary": "",
+  "date": "2026-09-29T10:21:30.000Z",
+  "url": "https://habr.com/ru/articles/1088004/",
+  "source": "Habr"
+},
+{
+  "title": "Я собрал себе курс по Linux (но сначала получился курс по .sh)",
+  "normalized_title": "я собрал себе курс по linux (но сначала получился курс по .sh)",
+  "summary": "",
+  "date": "2026-09-29T10:00:53.000Z",
+  "url": "https://habr.com/ru/articles/1087168/",
+  "source": "Habr"
+},
+{
+  "title": "Как разработать шаблон дашборда для разных подразделений",
+  "normalized_title": "как разработать шаблон дашборда для разных подразделений",
+  "summary": "",
+  "date": "2026-09-29T09:56:53.000Z",
+  "url": "https://habr.com/ru/articles/1087764/",
+  "source": "Habr"
+},
+{
+  "title": "Продуктовый дизайнер, Claude Code и месяц соло‑разработки: что пришлось построить вокруг AI, чтобы проект не развалился",
+  "normalized_title": "продуктовый дизайнер, claude code и месяц соло‑разработки: что пришлось построить вокруг ai, чтобы проект не развалился",
+  "summary": "",
+  "date": "2026-09-29T09:55:18.000Z",
+  "url": "https://habr.com/ru/articles/1087984/",
+  "source": "Habr"
+},
+{
+  "title": "Когда быстрый чип ждет данные: где России искать место в гонке ИИ‑ускорителей",
+  "normalized_title": "когда быстрый чип ждет данные: где россии искать место в гонке ии‑ускорителей",
+  "summary": "",
+  "date": "2026-09-29T09:52:53.000Z",
+  "url": "https://habr.com/ru/companies/riscvalliance/articles/1087982/",
+  "source": "Habr"
+},
+{
+  "title": "Говорящие часы для слабовидящего пожилого человека",
+  "normalized_title": "говорящие часы для слабовидящего пожилого человека",
+  "summary": "",
+  "date": "2026-09-29T09:47:03.000Z",
+  "url": "https://habr.com/ru/articles/1087980/",
+  "source": "Habr"
+},
+{
+  "title": "Как я пыталась разобраться в Claude Code, а в итоге сделала плагин для Figma",
+  "normalized_title": "как я пыталась разобраться в claude code, а в итоге сделала плагин для figma",
+  "summary": "",
+  "date": "2026-09-29T09:45:51.000Z",
+  "url": "https://habr.com/ru/articles/1087976/",
+  "source": "Habr"
+},
+{
+  "title": "«Баба‑яга» на крючке: новая активность Mimbrob нацелена на российский ВПК и IT‑компании",
+  "normalized_title": "«баба‑яга» на крючке: новая активность mimbrob нацелена на российский впк и it‑компании",
+  "summary": "",
+  "date": "2026-09-29T09:38:58.000Z",
+  "url": "https://habr.com/ru/companies/F6/articles/1087974/",
+  "source": "Habr"
+},
+{
+  "title": "Как проверить готовность команды к новой стратегии: карта дефицита компетенций",
+  "normalized_title": "как проверить готовность команды к новой стратегии: карта дефицита компетенций",
+  "summary": "",
+  "date": "2026-09-29T09:28:20.000Z",
+  "url": "https://habr.com/ru/articles/1087970/",
+  "source": "Habr"
+},
+{
+  "title": "Обзор шины данных DataHUB",
+  "normalized_title": "обзор шины данных datahub",
+  "summary": "",
+  "date": "2026-09-29T09:26:55.000Z",
+  "url": "https://habr.com/ru/companies/w_code/articles/1087968/",
+  "source": "Habr"
+},
+{
+  "title": "Сделал себе тренера на Claude Code и выложил его в open source",
+  "normalized_title": "сделал себе тренера на claude code и выложил его в open source",
+  "summary": "",
+  "date": "2026-09-29T09:25:49.000Z",
+  "url": "https://habr.com/ru/articles/1087966/",
+  "source": "Habr"
+},
+{
+  "title": "RCE из одного XML‑тега: разбираем небезопасную десериализацию XmlSerializer с нуля",
+  "normalized_title": "rce из одного xml‑тега: разбираем небезопасную десериализацию xmlserializer с нуля",
+  "summary": "",
+  "date": "2026-09-29T09:22:46.000Z",
+  "url": "https://habr.com/ru/companies/abp2b/articles/1087964/",
+  "source": "Habr"
+},
+{
+  "title": "Как слизень ищет укрытие: от наивного решения к стратегии",
+  "normalized_title": "как слизень ищет укрытие: от наивного решения к стратегии",
+  "summary": "",
+  "date": "2026-09-29T09:16:48.000Z",
+  "url": "https://habr.com/ru/articles/1087956/",
+  "source": "Habr"
+},
+{
+  "title": "Как проверить Telegram‑канал перед рекламой и не принять обычный рост за накрутку",
+  "normalized_title": "как проверить telegram‑канал перед рекламой и не принять обычный рост за накрутку",
+  "summary": "",
+  "date": "2026-09-29T09:15:48.000Z",
+  "url": "https://habr.com/ru/articles/1087156/",
+  "source": "Habr"
+},
+{
+  "title": "Модульная надстройка для JasperReports: коллекции, рантайм и границы подхода. Часть 4",
+  "normalized_title": "модульная надстройка для jasperreports: коллекции, рантайм и границы подхода. часть 4",
+  "summary": "",
+  "date": "2026-09-29T09:14:02.000Z",
+  "url": "https://habr.com/ru/articles/1087952/",
+  "source": "Habr"
+},
+{
+  "title": "Странный мозг гонщика «Формулы-1»",
+  "normalized_title": "странный мозг гонщика «формулы-1»",
+  "summary": "",
+  "date": "2026-09-29T09:10:48.000Z",
+  "url": "https://habr.com/ru/articles/1087762/",
+  "source": "Habr"
+},
+{
+  "title": "WebPageBench: веб-среда для оценки агентов",
+  "normalized_title": "webpagebench: веб-среда для оценки агентов",
+  "summary": "",
+  "date": "2026-09-29T09:10:00.000Z",
+  "url": "https://habr.com/ru/companies/sberbank/articles/1087532/",
+  "source": "Habr"
+},
+{
+  "title": "Как проба пера с ИИ превратилась в проект удалённого доступа",
+  "normalized_title": "как проба пера с ии превратилась в проект удалённого доступа",
+  "summary": "",
+  "date": "2026-09-29T09:05:47.000Z",
+  "url": "https://habr.com/ru/articles/1087946/",
+  "source": "Habr"
+},
+{
+  "title": "HTML и CSS помогут вам сделать ужасный интерфейс для пользователя",
+  "normalized_title": "html и css помогут вам сделать ужасный интерфейс для пользователя",
+  "summary": "",
+  "date": "2026-09-29T09:01:47.000Z",
+  "url": "https://habr.com/ru/companies/ruvds/articles/1085660/",
+  "source": "Habr"
+},
+{
+  "title": "Границы универсального, или Интеграция протокола Matter over Wi-Fi в интеллектуальные колонки Сбер",
+  "normalized_title": "границы универсального, или интеграция протокола matter over wi-fi в интеллектуальные колонки сбер",
+  "summary": "",
+  "date": "2026-09-29T09:00:46.000Z",
+  "url": "https://habr.com/ru/companies/sberdevices/articles/1085744/",
+  "source": "Habr"
+},
+{
+  "title": "Почему AI не заменит разработчика",
+  "normalized_title": "почему ai не заменит разработчика",
+  "summary": "",
+  "date": "2026-09-29T09:00:46.000Z",
+  "url": "https://habr.com/ru/articles/1087792/",
+  "source": "Habr"
+},
+{
+  "title": "ИИ таро или гадание на токенах: может ли ИИ заменить таролога?",
+  "normalized_title": "ии таро или гадание на токенах: может ли ии заменить таролога?",
+  "summary": "",
+  "date": "2026-09-29T08:51:45.000Z",
+  "url": "https://habr.com/ru/companies/bothub/articles/1087866/",
+  "source": "Habr"
+},
+{
+  "title": "Синхронизация камер по звуку без хлопушки: что я понял, пока делал плагин для Premiere Pro с нейросетью",
+  "normalized_title": "синхронизация камер по звуку без хлопушки: что я понял, пока делал плагин для premiere pro с нейросетью",
+  "summary": "",
+  "date": "2026-09-29T08:42:44.000Z",
+  "url": "https://habr.com/ru/articles/1087942/",
+  "source": "Habr"
+},
+{
+  "title": "ROI в корпоративном обучении: когда расчет превращается в манипуляцию и подгонку цифр",
+  "normalized_title": "roi в корпоративном обучении: когда расчет превращается в манипуляцию и подгонку цифр",
+  "summary": "",
+  "date": "2026-09-29T08:41:55.000Z",
+  "url": "https://habr.com/ru/articles/1087918/",
+  "source": "Habr"
+},
+{
+  "title": "Почему мы не стали делать еще одну большую СЭД",
+  "normalized_title": "почему мы не стали делать еще одну большую сэд",
+  "summary": "",
+  "date": "2026-09-29T08:35:54.000Z",
+  "url": "https://habr.com/ru/companies/diasoft_company/articles/1087936/",
+  "source": "Habr"
+},
+{
+  "title": "Программируемые калькуляторы. Часть 5.1 Wyle Scientific WS-01 / WS-02",
+  "normalized_title": "программируемые калькуляторы. часть 5.1 wyle scientific ws-01 / ws-02",
+  "summary": "",
+  "date": "2026-09-29T08:31:43.000Z",
+  "url": "https://habr.com/ru/articles/1087870/",
+  "source": "Habr"
+},
+{
+  "title": "«Руководитель - это профессия, и она мстит за любительство»: Александр Фридман о контроле, делегировании и увольнениях",
+  "normalized_title": "«руководитель - это профессия, и она мстит за любительство»: александр фридман о контроле, делегировании и увольнениях",
+  "summary": "",
+  "date": "2026-09-29T08:30:38.000Z",
+  "url": "https://habr.com/ru/articles/1087932/",
+  "source": "Habr"
+},
+{
+  "title": "Палеокомпьютинг, часть 1: процессор Вирта, проект Оберон, новая архитектура в Qemu и KubeVirt и запуск в Cozystack и K8s",
+  "normalized_title": "палеокомпьютинг, часть 1: процессор вирта, проект оберон, новая архитектура в qemu и kubevirt и запуск в cozystack и k8s",
+  "summary": "",
+  "date": "2026-09-29T08:27:43.000Z",
+  "url": "https://habr.com/ru/articles/1087928/",
+  "source": "Habr"
+},
+{
+  "title": "Guardrails для ИИ-агента на Go: от инструкций к автоматическим проверкам",
+  "normalized_title": "guardrails для ии-агента на go: от инструкций к автоматическим проверкам",
+  "summary": "",
+  "date": "2026-09-29T08:25:30.000Z",
+  "url": "https://habr.com/ru/articles/1087322/",
+  "source": "Habr"
+},
+{
+  "title": "Несколько SIEM‑систем в одной инфраструктуре: когда разделять задачи, а когда объединять функции",
+  "normalized_title": "несколько siem‑систем в одной инфраструктуре: когда разделять задачи, а когда объединять функции",
+  "summary": "",
+  "date": "2026-09-29T08:25:20.000Z",
+  "url": "https://habr.com/ru/companies/solarsecurity/articles/1087926/",
+  "source": "Habr"
+},
+{
+  "title": "Почему игры на MacBook дёргаются даже при 100+ fps - и как я сделал кадры ровными",
+  "normalized_title": "почему игры на macbook дёргаются даже при 100+ fps - и как я сделал кадры ровными",
+  "summary": "",
+  "date": "2026-09-29T08:21:04.000Z",
+  "url": "https://habr.com/ru/articles/1087922/",
+  "source": "Habr"
+},
+{
+  "title": "Дрозофила в Doom: как научный прорыв превратился в игрушку для программистов",
+  "normalized_title": "дрозофила в doom: как научный прорыв превратился в игрушку для программистов",
+  "summary": "",
+  "date": "2026-09-29T08:17:27.000Z",
+  "url": "https://habr.com/ru/companies/ru_mts/articles/1087628/",
+  "source": "Habr"
+},
+{
+  "title": "Собираем полигон для пилота - или тестовая среда для РЕД АДМ в песочнице",
+  "normalized_title": "собираем полигон для пилота - или тестовая среда для ред адм в песочнице",
+  "summary": "",
+  "date": "2026-09-29T08:09:58.000Z",
+  "url": "https://habr.com/ru/companies/redsoft/articles/1087912/",
+  "source": "Habr"
+},
+{
+  "title": "Модель: этап × окружение × проверка",
+  "normalized_title": "модель: этап × окружение × проверка",
+  "summary": "",
+  "date": "2026-09-29T08:08:08.000Z",
+  "url": "https://habr.com/ru/articles/1087910/",
+  "source": "Habr"
+},
+{
+  "title": "Вам не нужен ещё один Claude Code: зачем Pi оставляет сборку агента пользователю",
+  "normalized_title": "вам не нужен ещё один claude code: зачем pi оставляет сборку агента пользователю",
+  "summary": "",
+  "date": "2026-09-29T08:07:01.000Z",
+  "url": "https://habr.com/ru/companies/first/articles/1087842/",
+  "source": "Habr"
+},
+{
+  "title": "Все, что вы не знали о киберпанке - как появился, что с ним стало и наконец - что он такое на самом деле. Часть 5",
+  "normalized_title": "все, что вы не знали о киберпанке - как появился, что с ним стало и наконец - что он такое на самом деле. часть 5",
+  "summary": "",
+  "date": "2026-09-29T08:04:24.000Z",
+  "url": "https://habr.com/ru/articles/1087908/",
+  "source": "Habr"
+},
+{
+  "title": "Как патенты на промышленный образец помогают IT-компаниям (и не только им)",
+  "normalized_title": "как патенты на промышленный образец помогают it-компаниям (и не только им)",
+  "summary": "",
+  "date": "2026-09-29T08:02:56.000Z",
+  "url": "https://habr.com/ru/companies/onlinepatent/articles/1087906/",
+  "source": "Habr"
+},
+{
+  "title": "От чата c LLM к полноценному AI-агенту: пошаговая настройка OpenCode",
+  "normalized_title": "от чата c llm к полноценному ai-агенту: пошаговая настройка opencode",
+  "summary": "",
+  "date": "2026-09-29T08:00:41.000Z",
+  "url": "https://habr.com/ru/companies/selectel/articles/1087524/",
+  "source": "Habr"
+},
+{
+  "title": "Возвращаем трассировку логов Quartz-задач после перехода на Spring Boot 3+",
+  "normalized_title": "возвращаем трассировку логов quartz-задач после перехода на spring boot 3+",
+  "summary": "",
+  "date": "2026-09-29T08:00:40.000Z",
+  "url": "https://habr.com/ru/companies/domclick/articles/1080082/",
+  "source": "Habr"
+},
+{
+  "title": "Почти 6 тысяч просмотров и ни одного клиента: как я ищу пользователей для конструктора ботов",
+  "normalized_title": "почти 6 тысяч просмотров и ни одного клиента: как я ищу пользователей для конструктора ботов",
+  "summary": "",
+  "date": "2026-09-29T07:49:24.000Z",
+  "url": "https://habr.com/ru/articles/1087900/",
+  "source": "Habr"
+},
+{
+  "title": "Согласие на обработку ПДн требуется гораздо реже, чем думает бизнес",
+  "normalized_title": "согласие на обработку пдн требуется гораздо реже, чем думает бизнес",
+  "summary": "",
+  "date": "2026-09-29T07:49:14.000Z",
+  "url": "https://habr.com/ru/articles/1087892/",
+  "source": "Habr"
+},
+{
+  "title": "Как построить сервис с нуля самому. ПО ШАГАМ",
+  "normalized_title": "как построить сервис с нуля самому. по шагам",
+  "summary": "",
+  "date": "2026-09-29T07:39:33.000Z",
+  "url": "https://habr.com/ru/articles/1086992/",
+  "source": "Habr"
+},
+{
+  "title": "Я выучил 623 английских слова за 1,5 года почти не тратя на это время. Вот как это повторить",
+  "normalized_title": "я выучил 623 английских слова за 1,5 года почти не тратя на это время. вот как это повторить",
+  "summary": "",
+  "date": "2026-09-29T07:37:34.000Z",
+  "url": "https://habr.com/ru/articles/1087894/",
+  "source": "Habr"
+},
+{
+  "title": "Как хаотичные подсети убивают масштабируемость",
+  "normalized_title": "как хаотичные подсети убивают масштабируемость",
+  "summary": "",
+  "date": "2026-09-29T07:27:39.000Z",
+  "url": "https://habr.com/ru/companies/otus/articles/1084400/",
+  "source": "Habr"
+},
+{
+  "title": "Rust для микроконтроллеров: что он даёт по сравнению с С",
+  "normalized_title": "rust для микроконтроллеров: что он даёт по сравнению с с",
+  "summary": "",
+  "date": "2026-09-29T07:21:38.000Z",
+  "url": "https://habr.com/ru/articles/1087878/",
+  "source": "Habr"
+},
+{
+  "title": "Пробуем прокачать сеть между цодами",
+  "normalized_title": "пробуем прокачать сеть между цодами",
+  "summary": "",
+  "date": "2026-09-29T07:17:27.000Z",
+  "url": "https://habr.com/ru/articles/1087874/",
+  "source": "Habr"
+}
+]
