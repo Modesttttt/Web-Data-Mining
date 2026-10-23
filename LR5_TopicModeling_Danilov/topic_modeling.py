@@ -1,5 +1,5 @@
 """
-Лабораторная работа №5. Тематическое моделирование веб-данных (LDA и NMF).
+Тематическое моделирование веб-данных (LDA и NMF).
 
 Примеры запуска (из задания):
     python topic_modeling.py --dataset news --method lda --topics auto --output news_topics
