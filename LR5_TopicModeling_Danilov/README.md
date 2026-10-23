@@ -77,7 +77,7 @@ python .\collect_data.py --dataset all
 .\run.ps1
 ```
 
-Или по отдельности, как в задании:
+Можно по отдельности:
 
 ```powershell
 python .\topic_modeling.py --dataset news --method both --topics auto --output news_topics
