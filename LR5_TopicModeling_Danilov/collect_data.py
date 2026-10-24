@@ -67,7 +67,7 @@ def get_json(session, url, params=None, timeout=15, retries=3):
     return None
 
 
-# --------------------------------------------------------------------------- Habr
+# Habr
 
 def habr_api_page(session, page):
     data = get_json(
@@ -178,12 +178,7 @@ def collect_news(max_items, delay):
     return collected[:max_items]
 
 
-# --------------------------------------------------------------------- Wildberries
-#
-# Поиск WB закрыт антибот-защитой (wbaas) и без браузерной сессии отвечает 403,
-# поэтому ID товаров берутся пауком EcommerceSpider из ЛР4 (Playwright открывает
-# обычные страницы поиска). Карточки товаров (card.json) и отзывы отдаются
-# публичными CDN/API и загружаются обычными HTTP-запросами.
+# Wildberries
 
 LR4_DIR = BASE_DIR.parent / "LR4_Scrapy_TwoSpiders_Danilov"
 WB_SEARCH_DIR = DATA_DIR / "wb_search"

@@ -38,7 +38,7 @@ LR4_OUTPUT = BASE_DIR.parent / "LR4_Scrapy_TwoSpiders_Danilov" / "output"
 RANDOM_STATE = 42
 
 
-# ------------------------------------------------------------------ загрузка данных
+# загрузка данных
 
 def first_existing(*paths):
     for path in paths:
@@ -115,7 +115,7 @@ def load_dataset(name, data_dir):
     return news + products, [str(p1), str(p2)]
 
 
-# ------------------------------------------------------------------ coherence c_v
+# coherence c_v
 
 def coherence_cv_own(topics, token_docs, window=110, eps=1e-12):
     """c_v по Röder et al. (2015): булево скользящее окно, NPMI, косвенное
@@ -185,7 +185,7 @@ def coherence_cv(topics, token_docs, backend="auto"):
     return mean, per_topic, "own"
 
 
-# ------------------------------------------------------------------ модели
+# модели
 
 class TopicPipeline:
     def __init__(self, token_docs, n_features, min_df, max_df):
@@ -237,7 +237,7 @@ def select_k(pipeline, method, k_min, k_max, n_top, backend):
     return best_k, history
 
 
-# ------------------------------------------------------------------ визуализация
+# визуализация
 
 def plot_top_words(model, feature_names, n_top_words, title, path, display):
     n = model.components_.shape[0]
@@ -391,7 +391,7 @@ def plot_compare(results, title, path):
     plt.close(fig)
 
 
-# ------------------------------------------------------------------ основной сценарий
+# основной сценарий
 
 def mean_jaccard_overlap(topics):
     sets = [set(w for w, _ in t) for t in topics]
