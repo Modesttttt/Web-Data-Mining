@@ -118,8 +118,6 @@ def load_dataset(name, data_dir):
 # coherence c_v
 
 def coherence_cv_own(topics, token_docs, window=110, eps=1e-12):
-    """c_v по Röder et al. (2015): булево скользящее окно, NPMI, косвенное
-    подтверждение через косинусную меру. Повторяет схему gensim CoherenceModel."""
     vocab = sorted({w for topic in topics for w in topic})
     index = {w: i for i, w in enumerate(vocab)}
     n = len(vocab)
