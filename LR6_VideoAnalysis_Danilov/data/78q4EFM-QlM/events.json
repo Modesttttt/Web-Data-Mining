@@ -1,0 +1,1630 @@
+[
+  {
+    "type": "chapter",
+    "label": "Загрузка CachyOS",
+    "start": 0.0,
+    "end": 55.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 0.0,
+    "end": 34.0,
+    "score": 0.579,
+    "frames": 18
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 0.0,
+    "end": 34.75,
+    "score": 0.654
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 14.5,
+    "end": 15.0,
+    "score": -25.8
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 26.0,
+    "end": 26.5,
+    "score": -26.8
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 27.42,
+    "end": 30.32,
+    "score": 1.0,
+    "text": "я вам сейчас покажу. Отлично справляется с драйверами"
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 30.32,
+    "end": 34.76,
+    "score": 1.0,
+    "text": "разных компаний, Nvidia, Intel AMD и чубу вас там не было."
+  },
+  {
+    "type": "mention",
+    "label": "AMD",
+    "group": "железо",
+    "start": 30.32,
+    "end": 34.76,
+    "score": 1.0,
+    "text": "разных компаний, Nvidia, Intel AMD и чубу вас там не было."
+  },
+  {
+    "type": "mention",
+    "label": "Intel",
+    "group": "железо",
+    "start": 30.32,
+    "end": 34.76,
+    "score": 1.0,
+    "text": "разных компаний, Nvidia, Intel AMD и чубу вас там не было."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 34.75,
+    "end": 34.75,
+    "score": 0.356
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 36.25,
+    "end": 38.25,
+    "score": 0.713,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 40.0,
+    "end": 44.0,
+    "score": 0.427
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 49.25,
+    "end": 61.75,
+    "score": 0.713,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 49.25,
+    "end": 49.25,
+    "score": 0.796
+  },
+  {
+    "type": "chapter",
+    "label": "Установка CachyOS",
+    "start": 55.0,
+    "end": 134.0,
+    "score": 1.0
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 58.5,
+    "end": 59.0,
+    "score": -26.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 59.5,
+    "end": 59.5,
+    "score": 0.949
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 59.75,
+    "end": 69.75,
+    "score": 0.421
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 60.5,
+    "end": 61.0,
+    "score": -27.3
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 71.5,
+    "end": 101.5,
+    "score": 0.633
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 75.0,
+    "end": 76.0,
+    "score": -24.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 75.0,
+    "end": 75.0,
+    "score": 0.39
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 84.0,
+    "end": 84.0,
+    "score": 0.362
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 86.0,
+    "end": 86.5,
+    "score": -27.1
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 93.5,
+    "end": 93.5,
+    "score": 0.391
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 97.75,
+    "end": 97.75,
+    "score": 0.444
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 101.5,
+    "end": 101.5,
+    "score": 0.869
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 103.5,
+    "end": 112.0,
+    "score": 0.713,
+    "frames": 7
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 103.5,
+    "end": 108.0,
+    "score": 0.362
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 103.5,
+    "end": 103.5,
+    "score": 0.379
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 109.5,
+    "end": 109.5,
+    "score": 0.394
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 112.0,
+    "end": 116.5,
+    "score": 0.513
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 123.75,
+    "end": 211.0,
+    "score": 0.713,
+    "frames": 49
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 126.5,
+    "end": 130.5,
+    "score": 0.582
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 126.5,
+    "end": 126.5,
+    "score": 0.374
+  },
+  {
+    "type": "chapter",
+    "label": "Установка рядом с Windows",
+    "start": 134.0,
+    "end": 340.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 137.94,
+    "end": 141.3,
+    "score": 1.0,
+    "text": "тот или иной дистрибутив рядом с вашей Windows, или что"
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 165.0,
+    "end": 191.25,
+    "score": 0.523
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 170.6,
+    "end": 177.88,
+    "score": 1.0,
+    "text": "окружении мы можем выбрать. Это Plasma, GNOME, XFS E4. Кто не знает, что такое окружение,"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 170.6,
+    "end": 177.88,
+    "score": 1.0,
+    "text": "окружении мы можем выбрать. Это Plasma, GNOME, XFS E4. Кто не знает, что такое окружение,"
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 182.64,
+    "end": 188.08,
+    "score": 1.0,
+    "text": "сколько будет потреблять ресурсов система на вашем компьютере. Например, Plasma и GNOME они"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 182.64,
+    "end": 188.08,
+    "score": 1.0,
+    "text": "сколько будет потреблять ресурсов система на вашем компьютере. Например, Plasma и GNOME они"
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 193.0,
+    "end": 193.5,
+    "score": -27.1
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 195.4,
+    "end": 199.52,
+    "score": 1.0,
+    "text": "кто не видел обзор на Ubuntu Budge смотрите ссылка будет в описании."
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 199.52,
+    "end": 206.02,
+    "score": 1.0,
+    "text": "Есть Cynomon, как во всеми любимом Linux Mint. Есть Cosmic и кстати насколько я знаю он то ли в"
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 206.02,
+    "end": 213.48,
+    "score": 1.0,
+    "text": "Beta то ли в Alpha разработки не самый найдёжный. Есть i3 Windows Manager, Hyperland, очень красиво,"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 209.0,
+    "end": 230.0,
+    "score": 0.504
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 211.5,
+    "end": 221.5,
+    "score": 0.579,
+    "frames": 6
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 211.5,
+    "end": 229.5,
+    "score": 0.809,
+    "frames": 10
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 218.96,
+    "end": 224.4,
+    "score": 1.0,
+    "text": "появляется вот такой шикарный рабочий стол и терминал. И когда я нажимаю хоть одну любую"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 230.0,
+    "end": 253.5,
+    "score": 0.713,
+    "frames": 15
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 240.25,
+    "end": 240.25,
+    "score": 0.35
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 240.75,
+    "end": 244.75,
+    "score": 0.809,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 240.75,
+    "end": 244.75,
+    "score": 0.677
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 245.5,
+    "end": 253.5,
+    "score": 0.548
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 255.5,
+    "end": 255.5,
+    "score": 0.359
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 259.5,
+    "end": 271.5,
+    "score": 0.713,
+    "frames": 12
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 260.74,
+    "end": 264.06,
+    "score": 1.0,
+    "text": "Окей, я буду себе устанавливать плазму, потому что я эту"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 261.25,
+    "end": 261.25,
+    "score": 0.377
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 262.5,
+    "end": 271.5,
+    "score": 0.524
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 270.3,
+    "end": 271.3,
+    "score": 1.0,
+    "text": "плазма."
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 272.5,
+    "end": 276.5,
+    "score": 0.429
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 284.5,
+    "end": 309.25,
+    "score": 0.535
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 301.25,
+    "end": 317.25,
+    "score": 0.713,
+    "frames": 9
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 311.25,
+    "end": 318.5,
+    "score": 0.467
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 318.5,
+    "end": 318.5,
+    "score": 0.47
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 319.75,
+    "end": 340.5,
+    "score": 0.546
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 319.75,
+    "end": 319.75,
+    "score": 0.463
+  },
+  {
+    "type": "chapter",
+    "label": "Первое включение и обзор",
+    "start": 340.0,
+    "end": 482.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 340.5,
+    "end": 342.5,
+    "score": 0.579,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 340.5,
+    "end": 340.5,
+    "score": 0.864
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 350.52,
+    "end": 353.0,
+    "score": 1.0,
+    "text": "еще терминал, открываем его."
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 352.5,
+    "end": 382.5,
+    "score": 0.849
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 356.76,
+    "end": 362.94,
+    "score": 1.0,
+    "text": "Это Core i5 и 13 поколения Nvidia RTX 3050 и 16 ГБ оперативной"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 365.88,
+    "end": 369.12,
+    "score": 1.0,
+    "text": "Мне было самому интересно драйвера, и кстати, видите,"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 375.78,
+    "end": 378.9,
+    "score": 1.0,
+    "text": "у меня установлен самый новый драйвер на видеокарту,"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 381.88,
+    "end": 384.12,
+    "score": 1.0,
+    "text": "и это просто офигенно, когда все драйвера работают"
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 396.5,
+    "end": 448.5,
+    "score": 0.576
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 398.5,
+    "end": 406.5,
+    "score": 0.809,
+    "frames": 5
+  },
+  {
+    "type": "mention",
+    "label": "pacman",
+    "group": "пакеты",
+    "start": 410.16,
+    "end": 413.56,
+    "score": 1.0,
+    "text": "удалить файл блокировки базы данных Pacman, очистить"
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 424.16,
+    "end": 428.4,
+    "score": 1.0,
+    "text": "Что вам нужно для игр, туда входит и Steam, и Lutris, и"
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 428.4,
+    "end": 433.64,
+    "score": 1.0,
+    "text": "Wine, поддержка X86, Vulkan и еще много-много чего."
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 430.5,
+    "end": 432.5,
+    "score": 0.809,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "Snap",
+    "group": "пакеты",
+    "start": 440.24,
+    "end": 443.24,
+    "score": 1.0,
+    "text": "Также тут можно установить поддержку снапер, ранжировать"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 450.5,
+    "end": 460.5,
+    "score": 0.464
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 458.5,
+    "end": 472.5,
+    "score": 0.713,
+    "frames": 8
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 459.0,
+    "end": 459.5,
+    "score": -26.9
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 464.5,
+    "end": 472.5,
+    "score": 0.418
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 468.5,
+    "end": 470.5,
+    "score": 0.579,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 474.5,
+    "end": 484.0,
+    "score": 0.505
+  },
+  {
+    "type": "chapter",
+    "label": "Всё готово",
+    "start": 482.0,
+    "end": 720.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 484.0,
+    "end": 494.0,
+    "score": 0.809,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 486.0,
+    "end": 513.5,
+    "score": 0.734
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 492.04,
+    "end": 494.64,
+    "score": 1.0,
+    "text": "никакие драйвера, ничего подкручивать."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 494.5,
+    "end": 494.5,
+    "score": 0.385
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 509.5,
+    "end": 516.0,
+    "score": 0.809,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 509.5,
+    "end": 509.5,
+    "score": 0.394
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 513.75,
+    "end": 513.75,
+    "score": 0.435
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 518.0,
+    "end": 536.25,
+    "score": 0.656
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 518.0,
+    "end": 518.0,
+    "score": 0.365
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 525.25,
+    "end": 556.25,
+    "score": 0.809,
+    "frames": 17
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 525.25,
+    "end": 525.25,
+    "score": 0.37
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 541.44,
+    "end": 547.44,
+    "score": 1.0,
+    "text": "Lutris, Steam, Internet. Есть Firefox, есть cache-browser. Давайте"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 542.25,
+    "end": 550.25,
+    "score": 0.601
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 556.5,
+    "end": 556.5,
+    "score": 0.623
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 556.75,
+    "end": 563.0,
+    "score": 0.513
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 559.75,
+    "end": 570.0,
+    "score": 0.713,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 559.75,
+    "end": 559.75,
+    "score": 0.676
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 564.0,
+    "end": 564.0,
+    "score": 0.374
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 566.0,
+    "end": 585.25,
+    "score": 0.676
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 570.25,
+    "end": 570.25,
+    "score": 0.622
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 571.25,
+    "end": 575.5,
+    "score": 0.579,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 571.25,
+    "end": 571.25,
+    "score": 0.636
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 577.5,
+    "end": 577.5,
+    "score": 0.393
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 580.0,
+    "end": 580.0,
+    "score": 0.365
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 582.75,
+    "end": 584.25,
+    "score": 0.713,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 586.75,
+    "end": 624.5,
+    "score": 0.809,
+    "frames": 23
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 587.25,
+    "end": 612.5,
+    "score": 0.56
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 587.25,
+    "end": 587.25,
+    "score": 0.619
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 589.64,
+    "end": 593.0,
+    "score": 1.0,
+    "text": "Здесь уже предустановлен KDE Connect, можете подключать"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 598.88,
+    "end": 601.66,
+    "score": 1.0,
+    "text": "Кстати, если интересно, я тоже могу записать про KDE-коннекта"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 612.75,
+    "end": 612.75,
+    "score": 0.374
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 616.0,
+    "end": 616.0,
+    "score": 0.406
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 616.5,
+    "end": 636.5,
+    "score": 0.848
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 628.98,
+    "end": 632.58,
+    "score": 1.0,
+    "text": "Здесь кстати KDE больше оптимизирован чем FIDORI."
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 632.58,
+    "end": 636.7,
+    "score": 1.0,
+    "text": "Фидори у меня на простой KDE берет примерно 2.5, хотя"
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 638.5,
+    "end": 656.25,
+    "score": 0.809,
+    "frames": 10
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 638.5,
+    "end": 656.25,
+    "score": 0.639
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 657.0,
+    "end": 657.0,
+    "score": 0.418
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 659.0,
+    "end": 695.0,
+    "score": 0.623
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 669.0,
+    "end": 681.0,
+    "score": 0.713,
+    "frames": 9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 672.75,
+    "end": 672.75,
+    "score": 0.354
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 674.0,
+    "end": 674.0,
+    "score": 0.352
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 680.0,
+    "end": 680.0,
+    "score": 0.385
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 690.1,
+    "end": 694.34,
+    "score": 1.0,
+    "text": "И не только софт, и драйвера, и окружение, и вообще все-все-все,"
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 695.75,
+    "end": 698.5,
+    "score": 0.809,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 695.75,
+    "end": 695.75,
+    "score": 0.432
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 696.5,
+    "end": 719.25,
+    "score": 0.654
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 699.0,
+    "end": 699.0,
+    "score": 0.37
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 700.78,
+    "end": 704.42,
+    "score": 1.0,
+    "text": "А это обычная страничка KDE, которую я уже показывал."
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 702.75,
+    "end": 741.75,
+    "score": 0.809,
+    "frames": 23
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 702.75,
+    "end": 702.75,
+    "score": 0.355
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 704.42,
+    "end": 705.42,
+    "score": 1.0,
+    "text": "Протон Tricks."
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 713.82,
+    "end": 717.3,
+    "score": 1.0,
+    "text": "Также у меня было установлено параметры NVidia Xserver,"
+  },
+  {
+    "type": "chapter",
+    "label": "Почему CachyOS",
+    "start": 720.0,
+    "end": 888.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 725.94,
+    "end": 729.38,
+    "score": 1.0,
+    "text": "искать, устанавливать, пользоваться терминалом вообще не нужно."
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 737.1,
+    "end": 739.18,
+    "score": 1.0,
+    "text": "Давайте мы сейчас еще Steam проверим."
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 739.18,
+    "end": 746.58,
+    "score": 1.0,
+    "text": "в Steam я вообще никаких настроек не делал, только поменял язык и подключил библиотеку с другой ва-диска"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 739.25,
+    "end": 739.25,
+    "score": 0.464
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 743.75,
+    "end": 751.25,
+    "score": 0.713,
+    "frames": 5
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 746.75,
+    "end": 758.5,
+    "score": 0.629
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 746.75,
+    "end": 746.75,
+    "score": 0.395
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 749.0,
+    "end": 749.0,
+    "score": 0.413
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 749.25,
+    "end": 751.25,
+    "score": 0.809,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 752.5,
+    "end": 752.5,
+    "score": 0.392
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 754.5,
+    "end": 758.5,
+    "score": 0.713,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 754.5,
+    "end": 754.5,
+    "score": 0.576
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 758.94,
+    "end": 764.22,
+    "score": 1.0,
+    "text": "в последнем обновлении Steam они там все исправили, теперь не нужно вручную включать поддержку"
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 759.0,
+    "end": 764.75,
+    "score": 0.494
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 759.0,
+    "end": 759.0,
+    "score": 0.974
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 765.0,
+    "end": 765.0,
+    "score": 0.983
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 765.25,
+    "end": 776.25,
+    "score": 0.809,
+    "frames": 15
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 767.0,
+    "end": 767.0,
+    "score": 0.88
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 768.0,
+    "end": 768.0,
+    "score": 0.384
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 769.0,
+    "end": 769.0,
+    "score": 0.551
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 771.5,
+    "end": 771.5,
+    "score": 0.87
+  },
+  {
+    "type": "object",
+    "label": "растение",
+    "class": "potted plant",
+    "start": 771.75,
+    "end": 772.25,
+    "score": 0.697,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 772.75,
+    "end": 772.75,
+    "score": 0.371
+  },
+  {
+    "type": "object",
+    "label": "машина",
+    "class": "car",
+    "start": 773.75,
+    "end": 799.75,
+    "score": 0.806,
+    "frames": 47
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 775.75,
+    "end": 803.75,
+    "score": 0.764
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 784.0,
+    "end": 784.5,
+    "score": 0.809,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 786.0,
+    "end": 786.0,
+    "score": 0.354
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 788.0,
+    "end": 791.0,
+    "score": -81.9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 789.0,
+    "end": 789.0,
+    "score": 0.363
+  },
+  {
+    "type": "object",
+    "label": "traffic light",
+    "class": "traffic light",
+    "start": 790.0,
+    "end": 792.0,
+    "score": 0.638,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 790.75,
+    "end": 790.75,
+    "score": 0.391
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 792.5,
+    "end": 792.5,
+    "score": 0.363
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 798.25,
+    "end": 799.75,
+    "score": 0.809,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 798.5,
+    "end": 798.5,
+    "score": 0.432
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 798.5,
+    "end": 801.5,
+    "score": -82.9
+  },
+  {
+    "type": "object",
+    "label": "растение",
+    "class": "potted plant",
+    "start": 798.75,
+    "end": 802.75,
+    "score": 0.697,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 799.5,
+    "end": 799.5,
+    "score": 0.44
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 803.75,
+    "end": 803.75,
+    "score": 0.461
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 804.75,
+    "end": 806.75,
+    "score": 0.713,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 804.75,
+    "end": 807.25,
+    "score": 0.809,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 804.75,
+    "end": 804.75,
+    "score": 0.955
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 807.0,
+    "end": 807.0,
+    "score": 0.533
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 807.75,
+    "end": 815.25,
+    "score": 0.652
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 810.75,
+    "end": 810.75,
+    "score": 0.44
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 819.75,
+    "end": 821.75,
+    "score": 0.579,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 819.75,
+    "end": 822.75,
+    "score": 0.809,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 819.75,
+    "end": 819.75,
+    "score": 0.733
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 822.0,
+    "end": 822.0,
+    "score": 0.639
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 824.25,
+    "end": 824.25,
+    "score": 0.648
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 826.0,
+    "end": 826.0,
+    "score": 0.436
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 829.86,
+    "end": 830.5,
+    "score": 1.0,
+    "text": "из Steam."
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 830.5,
+    "end": 846.5,
+    "score": 0.809,
+    "frames": 11
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 830.5,
+    "end": 830.5,
+    "score": 0.888
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 832.9,
+    "end": 835.78,
+    "score": 1.0,
+    "text": "Также для Windows, игр и программ здесь установлен"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 836.5,
+    "end": 846.5,
+    "score": 0.723
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 840.34,
+    "end": 841.46,
+    "score": 1.0,
+    "text": "протоны,"
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 852.46,
+    "end": 856.62,
+    "score": 1.0,
+    "text": "можете сюда установить порт протон, про который у меня тоже есть видео на канале,"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 852.5,
+    "end": 860.5,
+    "score": 0.71
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 856.62,
+    "end": 860.94,
+    "score": 1.0,
+    "text": "где вы сможете запускать Windows игры, программы, но вот собственно и все,"
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 858.5,
+    "end": 865.0,
+    "score": 0.809,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 863.5,
+    "end": 869.5,
+    "score": 0.762
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 865.0,
+    "end": 865.0,
+    "score": 0.688
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 868.25,
+    "end": 868.25,
+    "score": 0.857
+  }
+]

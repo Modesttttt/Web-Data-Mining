@@ -1,0 +1,58 @@
+{
+  "KDE Plasma": {
+    "count": 9,
+    "group": "окружение"
+  },
+  "Драйверы": {
+    "count": 6,
+    "group": "программы"
+  },
+  "Steam": {
+    "count": 6,
+    "group": "программы"
+  },
+  "Windows": {
+    "count": 4,
+    "group": "дистрибутив"
+  },
+  "Proton/Wine": {
+    "count": 4,
+    "group": "программы"
+  },
+  "NVIDIA": {
+    "count": 3,
+    "group": "железо"
+  },
+  "Терминал": {
+    "count": 3,
+    "group": "программы"
+  },
+  "GNOME": {
+    "count": 2,
+    "group": "окружение"
+  },
+  "AMD": {
+    "count": 1,
+    "group": "железо"
+  },
+  "Intel": {
+    "count": 1,
+    "group": "железо"
+  },
+  "Ubuntu": {
+    "count": 1,
+    "group": "дистрибутив"
+  },
+  "Linux Mint": {
+    "count": 1,
+    "group": "дистрибутив"
+  },
+  "pacman": {
+    "count": 1,
+    "group": "пакеты"
+  },
+  "Snap": {
+    "count": 1,
+    "group": "пакеты"
+  }
+}

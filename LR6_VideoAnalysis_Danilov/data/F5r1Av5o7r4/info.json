@@ -1,0 +1,96 @@
+{
+  "id": "F5r1Av5o7r4",
+  "title": "Мой опыт с ARCH LINUX: Новый уровень УДОБСТВА и ПРОДУКТИВНОСТИ!",
+  "uploader": "ZProger [ IT ]",
+  "channel": "ZProger [ IT ]",
+  "upload_date": "20241127",
+  "duration": 752,
+  "view_count": 319787,
+  "like_count": 7451,
+  "comment_count": 1200,
+  "tags": [
+    "arch linux",
+    "linux",
+    "arch linux experience",
+    "arch linux опыт",
+    "мой опыт с arch linux",
+    "мой опыт arch linux",
+    "линукс",
+    "линукс для новичков",
+    "arch linux portproton",
+    "arch linux bspwm",
+    "bspwm",
+    "zproger",
+    "zproger it",
+    "опыт arch linux",
+    "arch linux hyprland"
+  ],
+  "categories": [
+    "Education"
+  ],
+  "description": "⭐ Курс ООП и Приват канал: https://zproger-school.com/?utm_source=archexperience&utm_medium=video&utm_campaign=youtube\n⭐ Телеграм канал: https://t.me/+mImI2vGPOhY3ZjIx\n\nВ данном видео расскажу про свой опыт работы с Arch Linux на протяжении целого года. В нем вы узнаете о всех фишках и инструментах, которые удалось найти за это время. Помимо этого существует много мифов, в которые люди верят, поэтому в данном ролике я разберу каждый из них.\n\nЯ расскажу о драйверах на видеокарту и о других компонентах для работы с системой. Покажу каким образом можно запускать игры на Linux и работать с графической оболочкой.\n\n⭐ Для более глубокого изучения Linux советую эти видео:\nhttps://youtu.be/YRwlK3cVjbI?si=sZNQBW3OUkYftiUk\nhttps://youtu.be/fF4DXK1dpzA?si=K6hh-wp3DLr0tJye\nhttps://youtu.be/9zewiGf7j-A?si=fSxGATcPz-oLfo8h\n\n📁 Github: https://github.com/Zproger\n📁 Все плейлисты с уроками: https://bit.ly/39GaY89\n📁 Связаться со мной: zproger777@gmail.com\n📁 Поддержать канал: https://github.com/Zproger/donate\n\nТайм-коды:\n00:00 - Почему Arch Linux это круто?\n1:10 - Топовые фишки с пакетами в Arch Linux\n2:45 - Насколько стабилен Arch Linux?\n3:48 - Как запускать игры на Arch Linux?\n5:13 - Топовые конфиги и настройки окружения\n7:08 - Изучаем Arch Linux в разы быстрее\n7:49 - Как искать топовые приложения в Arch Linux?\n9:10 - Как Arch Linux спасает от багов?\n9:27 - Много красивых окружений в Arch Linux\n10:27 - Драйвера на видеокарту ставятся из коробки\n11:25 - Драйвера на оборудование по дефолту",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Почему Arch Linux это круто?",
+      "end_time": 70
+    },
+    {
+      "start_time": 70,
+      "title": "Топовые фишки с пакетами в Arch Linux",
+      "end_time": 165
+    },
+    {
+      "start_time": 165,
+      "title": "Насколько стабилен Arch Linux?",
+      "end_time": 228
+    },
+    {
+      "start_time": 228,
+      "title": "Как запускать игры на Arch Linux?",
+      "end_time": 313
+    },
+    {
+      "start_time": 313,
+      "title": "Топовые конфиги и настройки окружения",
+      "end_time": 428
+    },
+    {
+      "start_time": 428,
+      "title": "Изучаем Arch Linux в разы быстрее",
+      "end_time": 469
+    },
+    {
+      "start_time": 469,
+      "title": "Как искать топовые приложения в Arch Linux?",
+      "end_time": 550
+    },
+    {
+      "start_time": 550,
+      "title": "Как Arch Linux спасает от багов?",
+      "end_time": 567
+    },
+    {
+      "start_time": 567,
+      "title": "Много красивых окружений в Arch Linux",
+      "end_time": 627
+    },
+    {
+      "start_time": 627,
+      "title": "Драйвера на видеокарту ставятся из коробки",
+      "end_time": 685
+    },
+    {
+      "start_time": 685,
+      "title": "Драйвера на оборудование по дефолту",
+      "end_time": 752
+    }
+  ],
+  "webpage_url": "https://www.youtube.com/watch?v=F5r1Av5o7r4",
+  "width": 1280,
+  "height": 720,
+  "fps": 60,
+  "language": "ru",
+  "distro": "Arch Linux",
+  "source": "https://www.youtube.com/watch?v=F5r1Av5o7r4"
+}

@@ -1,0 +1,81 @@
+{
+  "id": "zh2aS5ORfH4",
+  "title": "Обзор Астра Линукс 2024. Обучение для чайников (настройка, установка программ и т.д.)",
+  "uploader": "IT-спец. Денис Курец",
+  "channel": "IT-спец. Денис Курец",
+  "upload_date": "20231229",
+  "duration": 1185,
+  "view_count": 68708,
+  "like_count": 1935,
+  "comment_count": 336,
+  "tags": [
+    "Денис Курец",
+    "it-спец",
+    "Астра линукс",
+    "astra linux",
+    "astra linux обзор",
+    "astra linux установка",
+    "astra linux обучение",
+    "astra linux special edition",
+    "astra linux установка virtualbox",
+    "astra linux установка программ",
+    "astra linux игры",
+    "astra linux настройка сети",
+    "astra linux common edition",
+    "astra linux special edition установка",
+    "astra linux администрирование",
+    "astra linux аудит",
+    "astra linux активация root",
+    "astra linux автоматическое монтирование флешки",
+    "astra linux 2023",
+    "Astra linux 2024"
+  ],
+  "categories": [
+    "Education"
+  ],
+  "description": "Представляю обзор российского дистрибутива Astra Linux SE 1.7.5.9. Обзор будет в большей степени обучающим и с акцентом на функционал операционной системы.\n\nAstra Linux Special Edition - сертифицированная ОС со встроенными средствами защиты информации (СЗИ) для стабильной и безопасной работы ИТ-инфраструктур любого масштаба и обработки информации различной степени конфиденциальности.\n\nУспешно прошла комплекс испытаний в системе сертификации СЗИ ФСТЭК России по первому, высочайшему, уровню доверия. Единственная в стране имеет набор сертификатов регуляторов.\n\nЕсли движуха с Астрой вам интересна – то обязательно поставьте лайк и тогда я сниму полноценный сюжет про комплекс средств защиты информации. \n\nНоутбук ICL Raybook S1411 G2R - https://icl-techno.ru/catalog/mobile/noutbuk-raybook-s1411-g2r/?ysclid=lqoy1fje69903067250\n\nДоступные ресурсы по Astra Linux:\nСайт https://clck.ru/37Keus\nTelegram https://t.me/+rToxIaenFmI0YzBi\nVK https://vk.com/gruppa_astra\n\nРеклама. ООО «РУСБИТЕХ-АСТРА», ИНН 7726388700. Erid:LjN8KLSz7\n\nКупить футболку, как у Денчика:\nOzon: https://www.ozon.ru/brand/involta-100358362/\nWildberries: https://www.wildberries.ru/brands/involta\n\nПродвинутые обучающие курсы и материалы от автора:\nhttps://kurets.ru/infoprodukty\n\n•••••••••••••••••••••••••••••••••••••••••\n\nЗадонатить Денчику на Bзл0м Пентагона: \nhttps://kurets.ru/donate\nПродвинутые обучающие курсы и материалы от автора:\nhttps://kurets.ru/infoprodukty\nПодписка на наш паблик в Телеге:\nhttps://Kurets.Ru/Telegram\n\n•••••••••••••••••••••••••••••••••••••••••\n\nТаймкоды:\n2:52 Интерфейс FLY\n4:23 Менеджер файлов\n8:53 Меню Пуск\n11:32 Установка программного обеспечения\n15:33 Панель управления\n18:08 Особенности безопасности\n\n•••••••••••••••••••••••••••••••••••••••••\n\nРекламодателям и сочувствующим камрадам:\n● Помочь каналу копеечкой: https://kurets.ru/donate\n● Реклама на канале: https://kurets.ru/reklama\n\n•••••••••••••••••••••••••••••••••••••••••\n\nДенчик социальный:\n✓ YouTube канал: https://Kurets.Ru/YouTube\n✓ Подкасты в iTunes: https://Kurets.Ru/iTunes\n✓ VK: https://Kurets.Ru/VK\n✓ INSTAGRAM: https://Kurets.Ru/Instagram\n✓ ODNOKLASSNIKI: https://Kurets.Ru/OK\n✓ TELEGRAM: https://Kurets.Ru/Telegram\n✓ TWITTER: https://kurets.ru/Twitter\n✓ TikTok: https://kurets.ru/TikTok\n\n•••••••••••••••••••••••••••••••••••••••••\n\n#astra #linux #обзор #настройка #обучение",
+  "chapters": [
+    {
+      "start_time": 0,
+      "end_time": 172,
+      "title": "<Untitled Chapter 1>"
+    },
+    {
+      "start_time": 172,
+      "title": "Интерфейс FLY",
+      "end_time": 263
+    },
+    {
+      "start_time": 263,
+      "title": "Менеджер файлов",
+      "end_time": 533
+    },
+    {
+      "start_time": 533,
+      "title": "Меню Пуск",
+      "end_time": 692
+    },
+    {
+      "start_time": 692,
+      "title": "Установка программного обеспечения",
+      "end_time": 933
+    },
+    {
+      "start_time": 933,
+      "title": "Панель управления",
+      "end_time": 1088
+    },
+    {
+      "start_time": 1088,
+      "title": "Особенности безопасности",
+      "end_time": 1185
+    }
+  ],
+  "webpage_url": "https://www.youtube.com/watch?v=zh2aS5ORfH4",
+  "width": 1280,
+  "height": 720,
+  "fps": 25,
+  "language": "ru",
+  "distro": "Astra Linux",
+  "source": "https://www.youtube.com/watch?v=zh2aS5ORfH4"
+}

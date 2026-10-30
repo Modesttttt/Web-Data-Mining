@@ -1,0 +1,34 @@
+{
+  "Fedora": {
+    "count": 10,
+    "group": "дистрибутив"
+  },
+  "GNOME": {
+    "count": 5,
+    "group": "окружение"
+  },
+  "KDE Plasma": {
+    "count": 3,
+    "group": "окружение"
+  },
+  "Cinnamon": {
+    "count": 1,
+    "group": "окружение"
+  },
+  "macOS": {
+    "count": 1,
+    "group": "дистрибутив"
+  },
+  "Терминал": {
+    "count": 1,
+    "group": "программы"
+  },
+  "dnf": {
+    "count": 1,
+    "group": "пакеты"
+  },
+  "Windows": {
+    "count": 1,
+    "group": "дистрибутив"
+  }
+}

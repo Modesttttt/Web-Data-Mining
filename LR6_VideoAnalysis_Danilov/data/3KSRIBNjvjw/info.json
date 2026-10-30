@@ -1,0 +1,73 @@
+{
+  "id": "3KSRIBNjvjw",
+  "title": "FEDORA LINUX: Большой обзор и установка",
+  "uploader": "StarsLinux",
+  "channel": "StarsLinux",
+  "upload_date": "20240624",
+  "duration": 543,
+  "view_count": 63087,
+  "like_count": 1129,
+  "comment_count": 132,
+  "tags": [
+    "fedora",
+    "обзор fedora",
+    "linux",
+    "что такое fedora",
+    "Fedora Linux",
+    "GNOME",
+    "полный обзор fedora"
+  ],
+  "categories": [
+    "Science & Technology"
+  ],
+  "description": "Fedora - это очень популярный дистрибутив Linux. Он известен своими самыми передовыми технологиями и регулярными обновлениями. Здесь используется стандартная версия GNOME, поэтому данный дистрибутив элегантен, прост и удобен, а также нацелен на полное погружение в работу. Смотрите это видео до конца, чтобы узнать больше о Fedora и понять, подойдёт ли вам такая система.\n\nГлавы:\n00:00 - Начало\n00:24 - История\n01:39 - Общий обзор Fedora\n04:02 - Установка\n06:10 - Интерфейс и обзор\n07:41 - Расширения GNOME\n08:40 - Итог\n08:54 - Заключение\n\nПодписывайтесь на соц. сети проекта по ссылкам в шапке профиля или по QR-кодам в конце этого видео. До новых встреч!\n\nФинансовая поддержка (донаты): https://dzen.ru/starslinux?donate=true\n\n#linux #fedora #technology #gnome",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Начало",
+      "end_time": 24
+    },
+    {
+      "start_time": 24,
+      "title": "История",
+      "end_time": 99
+    },
+    {
+      "start_time": 99,
+      "title": "Общий обзор Fedora",
+      "end_time": 242
+    },
+    {
+      "start_time": 242,
+      "title": "Установка",
+      "end_time": 370
+    },
+    {
+      "start_time": 370,
+      "title": "Интерфейс и обзор",
+      "end_time": 461
+    },
+    {
+      "start_time": 461,
+      "title": "Расширения GNOME",
+      "end_time": 520
+    },
+    {
+      "start_time": 520,
+      "title": "Итог",
+      "end_time": 534
+    },
+    {
+      "start_time": 534,
+      "title": "Заключение",
+      "end_time": 543
+    }
+  ],
+  "webpage_url": "https://www.youtube.com/watch?v=3KSRIBNjvjw",
+  "width": 1280,
+  "height": 720,
+  "fps": 60,
+  "language": "ru",
+  "distro": "Fedora",
+  "source": "https://www.youtube.com/watch?v=3KSRIBNjvjw"
+}

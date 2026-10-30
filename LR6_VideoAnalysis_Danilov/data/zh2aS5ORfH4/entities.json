@@ -1,0 +1,34 @@
+{
+  "Astra Linux": {
+    "count": 6,
+    "group": "дистрибутив"
+  },
+  "Windows": {
+    "count": 3,
+    "group": "дистрибутив"
+  },
+  "Debian": {
+    "count": 3,
+    "group": "дистрибутив"
+  },
+  "Fly": {
+    "count": 2,
+    "group": "окружение"
+  },
+  "SteamOS": {
+    "count": 1,
+    "group": "дистрибутив"
+  },
+  "Драйверы": {
+    "count": 1,
+    "group": "программы"
+  },
+  "NVIDIA": {
+    "count": 1,
+    "group": "железо"
+  },
+  "AMD": {
+    "count": 1,
+    "group": "железо"
+  }
+}

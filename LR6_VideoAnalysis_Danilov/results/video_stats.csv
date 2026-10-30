@@ -1,0 +1,11 @@
+﻿distro;id;duration_min;frames;frames_per_min;scene_cuts;cuts_per_min;top_objects;main_scene;main_scene_share;words;words_per_min;speech_share;transcript_empty;silence_share;loud_peaks;top_entities;events
+Ubuntu;LApsH9CJH9U;11.2;440;39.3;56;5.01;пульт 44%, ноутбук 14%, клавиатура 8%;установщик ОС;0.22;1190;106;0.94;False;0.156;4;Ubuntu, Windows, Драйверы, NVIDIA, Snap;222
+Linux Mint;xL91zG0Sy4o;14.8;450;30.5;24;1.63;монитор 50%, ноутбук 21%;рабочий стол;0.64;1949;132;0.99;False;0.061;24;Драйверы, Linux Mint, Windows, NVIDIA, РЕД ОС;121
+Debian;2p-4dcCgahY;17.6;953;54.0;164;9.3;человек 38%, ноутбук 22%, монитор 19%;установщик ОС;0.18;1773;100;0.97;False;0.096;7;Debian, Ubuntu, Steam, Драйверы, Proton/Wine;483
+Fedora;3KSRIBNjvjw;9.0;429;47.4;115;12.71;человек 9%, ноутбук 8%, монитор 7%;установщик ОС;0.24;1191;132;1.0;False;0.054;2;Fedora, GNOME, KDE Plasma, Cinnamon, macOS;217
+Arch Linux;F5r1Av5o7r4;12.5;639;51.0;179;14.29;ноутбук 45%, человек 8%, кошка 5%;терминал;0.29;2574;205;0.99;False;0.007;2;Arch Linux, Драйверы, AMD, Ubuntu, AUR;372
+Kali Linux;KRWYagopA28;13.9;450;32.4;26;1.87;ноутбук 14%, монитор 13%, телефон 2%;терминал;0.57;1217;88;0.91;False;0.046;3;Kali Linux, GNOME, Debian, KDE Plasma, Windows;97
+Astra Linux;zh2aS5ORfH4;19.7;645;32.7;65;3.29;ноутбук 37%, монитор 25%, sports ball 22%;рабочий стол;0.44;2726;138;0.98;False;0.037;9;Astra Linux, Windows, Debian, Fly, SteamOS;234
+РЕД ОС;DZXzBtnuyLo;15.0;595;39.7;63;4.2;человек 45%, ноутбук 23%, стул 13%;человек в кадре;0.39;1923;128;0.98;False;0.067;9;РЕД ОС, Драйверы, Arch Linux, KDE Plasma, Snap;187
+CachyOS;78q4EFM-QlM;14.8;565;38.2;68;4.59;человек 27%, ноутбук 26%, машина 8%;рабочий стол;0.28;2223;150;1.0;False;0.032;8;KDE Plasma, Драйверы, Steam, Windows, Proton/Wine;208
+Bazzite;0_qCMtHT_IA;14.7;918;62.2;219;14.85;ноутбук 32%, человек 8%, монитор 7%;игра;0.45;1132;77;0.87;False;0.526;21;NVIDIA, KDE Plasma, Steam, Терминал, Proton/Wine;438

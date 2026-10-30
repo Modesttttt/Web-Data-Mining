@@ -1,0 +1,38 @@
+{
+  "Ubuntu": {
+    "count": 15,
+    "group": "дистрибутив"
+  },
+  "Windows": {
+    "count": 10,
+    "group": "дистрибутив"
+  },
+  "Драйверы": {
+    "count": 7,
+    "group": "программы"
+  },
+  "NVIDIA": {
+    "count": 4,
+    "group": "железо"
+  },
+  "Snap": {
+    "count": 1,
+    "group": "пакеты"
+  },
+  "Fedora": {
+    "count": 1,
+    "group": "дистрибутив"
+  },
+  "SteamOS": {
+    "count": 1,
+    "group": "дистрибутив"
+  },
+  "Steam": {
+    "count": 1,
+    "group": "программы"
+  },
+  "Proton/Wine": {
+    "count": 1,
+    "group": "программы"
+  }
+}

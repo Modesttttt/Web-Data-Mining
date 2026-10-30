@@ -1,0 +1,30 @@
+{
+  "Драйверы": {
+    "count": 8,
+    "group": "программы"
+  },
+  "Linux Mint": {
+    "count": 6,
+    "group": "дистрибутив"
+  },
+  "Windows": {
+    "count": 6,
+    "group": "дистрибутив"
+  },
+  "NVIDIA": {
+    "count": 3,
+    "group": "железо"
+  },
+  "РЕД ОС": {
+    "count": 3,
+    "group": "дистрибутив"
+  },
+  "KDE Plasma": {
+    "count": 2,
+    "group": "окружение"
+  },
+  "Arch Linux": {
+    "count": 1,
+    "group": "дистрибутив"
+  }
+}

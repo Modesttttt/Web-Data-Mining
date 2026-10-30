@@ -1,0 +1,84 @@
+{
+  "id": "0_qCMtHT_IA",
+  "title": "Я Попробовал Лучший Дистрибутив Для Геймера -  Bazzite Linux",
+  "uploader": "pluseight",
+  "channel": "pluseight",
+  "upload_date": "20260210",
+  "duration": 885,
+  "view_count": 10143,
+  "like_count": 179,
+  "comment_count": 55,
+  "tags": [
+    "linux",
+    "bazzite",
+    "linuxgaming",
+    "gaming",
+    "cachyos",
+    "vrchat",
+    "cs2",
+    "fragpunk"
+  ],
+  "categories": [
+    "Science & Technology"
+  ],
+  "description": "В этом видео я покажу дистрибутив - Bazzite\n\nМой Канал в Телеграм - @pluseightlinux\n\nТаймкодики:\n0:00 - Начало видео\n0:20 - Установка\n2:31 - Подробнее про дистрибутив\n3:13 - Плюсы и минусы за день использования\n5:05 - Тестируем CS2\n6:47 - Тестируем FragPunk\n9:06 - Тестируем Ikarus Parkour\n10:43 - Настройка ADB\n12:56 - Тест VRChat (VR)\n14:28 - Конец! Спасибо за просмотр.\n\n#linux #bazzite #linuxgaming",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Начало видео",
+      "end_time": 20
+    },
+    {
+      "start_time": 20,
+      "title": "Установка",
+      "end_time": 151
+    },
+    {
+      "start_time": 151,
+      "title": "Подробнее про дистрибутив",
+      "end_time": 193
+    },
+    {
+      "start_time": 193,
+      "title": "Плюсы и минусы за день использования",
+      "end_time": 305
+    },
+    {
+      "start_time": 305,
+      "title": "Тестируем CS2",
+      "end_time": 407
+    },
+    {
+      "start_time": 407,
+      "title": "Тестируем FragPunk",
+      "end_time": 546
+    },
+    {
+      "start_time": 546,
+      "title": "Тестируем Ikarus Parkour",
+      "end_time": 643
+    },
+    {
+      "start_time": 643,
+      "title": "Настройка ADB",
+      "end_time": 776
+    },
+    {
+      "start_time": 776,
+      "title": "Тест VRChat (VR)",
+      "end_time": 868
+    },
+    {
+      "start_time": 868,
+      "title": "Конец! Спасибо за просмотр.",
+      "end_time": 885
+    }
+  ],
+  "webpage_url": "https://www.youtube.com/watch?v=0_qCMtHT_IA",
+  "width": 1280,
+  "height": 720,
+  "fps": 60,
+  "language": "ru",
+  "distro": "Bazzite",
+  "source": "https://www.youtube.com/watch?v=0_qCMtHT_IA"
+}

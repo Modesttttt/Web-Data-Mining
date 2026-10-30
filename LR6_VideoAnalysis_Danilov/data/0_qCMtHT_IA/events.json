@@ -1,0 +1,3200 @@
+[
+  {
+    "type": "chapter",
+    "label": "Начало видео",
+    "start": 0.0,
+    "end": 20.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 0.25,
+    "end": 0.25,
+    "score": 0.865
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 0.5,
+    "end": 15.75,
+    "score": 0.785
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1.25,
+    "end": 1.25,
+    "score": 0.531
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 2.25,
+    "end": 2.25,
+    "score": 0.351
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 4.0,
+    "end": 4.0,
+    "score": 0.354
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 6.5,
+    "end": 6.5,
+    "score": 0.405
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 7.75,
+    "end": 7.75,
+    "score": 0.398
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 10.5,
+    "end": 10.5,
+    "score": 0.352
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 11.5,
+    "end": 11.5,
+    "score": 0.375
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 14.5,
+    "end": 14.5,
+    "score": 0.355
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 15.75,
+    "end": 15.75,
+    "score": 0.435
+  },
+  {
+    "type": "chapter",
+    "label": "Установка",
+    "start": 20.0,
+    "end": 151.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 20.0,
+    "end": 35.25,
+    "score": 0.771,
+    "frames": 11
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 20.0,
+    "end": 25.75,
+    "score": 0.424
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 20.0,
+    "end": 20.0,
+    "score": 0.946
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 23.0,
+    "end": 26.0,
+    "score": -47.9
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 28.0,
+    "end": 30.5,
+    "score": -66.9
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 29.25,
+    "end": 35.75,
+    "score": 0.454
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 31.5,
+    "end": 34.0,
+    "score": -47.5
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 34.5,
+    "end": 39.0,
+    "score": -95.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 35.5,
+    "end": 35.5,
+    "score": 0.947
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 37.0,
+    "end": 37.0,
+    "score": 0.875
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 39.25,
+    "end": 39.25,
+    "score": 0.451
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 39.5,
+    "end": 43.0,
+    "score": -59.4
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 43.25,
+    "end": 82.75,
+    "score": 0.606
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 43.25,
+    "end": 43.25,
+    "score": 0.823
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 43.5,
+    "end": 46.5,
+    "score": -68.0
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 43.75,
+    "end": 92.75,
+    "score": 0.771,
+    "frames": 31
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 47.0,
+    "end": 50.5,
+    "score": -69.4
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 48.5,
+    "end": 49.75,
+    "score": 0.547,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 51.0,
+    "end": 51.0,
+    "score": 0.866
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 51.0,
+    "end": 53.0,
+    "score": -81.6
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 53.5,
+    "end": 56.0,
+    "score": -51.3
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 57.0,
+    "end": 63.0,
+    "score": -55.7
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 65.0,
+    "end": 71.5,
+    "score": -62.9
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 72.0,
+    "end": 74.0,
+    "score": -49.8
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 78.5,
+    "end": 81.5,
+    "score": -56.6
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 80.8,
+    "end": 83.8,
+    "score": 1.0,
+    "text": "тут modrgpunvidia в моем случае"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 83.8,
+    "end": 87.8,
+    "score": 1.0,
+    "text": "и вот дескоп environment kde"
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 85.5,
+    "end": 91.5,
+    "score": -54.9
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 87.8,
+    "end": 90.8,
+    "score": 1.0,
+    "text": "хотите steam gaming mod?"
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 94.5,
+    "end": 96.5,
+    "score": -88.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 94.75,
+    "end": 94.75,
+    "score": 0.918
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 96.0,
+    "end": 148.5,
+    "score": 0.771,
+    "frames": 28
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 96.0,
+    "end": 96.0,
+    "score": 0.913
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 98.0,
+    "end": 101.5,
+    "score": -54.4
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 104.0,
+    "end": 107.5,
+    "score": -52.5
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 107.66,
+    "end": 116.22,
+    "score": 1.0,
+    "text": "И смотрите, там есть баг, из-за которого Nvidia не могут установить..."
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 108.0,
+    "end": 116.0,
+    "score": 0.449
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 110.0,
+    "end": 112.0,
+    "score": -79.5
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 114.0,
+    "end": 116.0,
+    "score": -53.3
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 116.22,
+    "end": 122.86,
+    "score": 1.0,
+    "text": "Короче, Nvidia пользователи не могут установить Bazaid, если скачают вот эту версию."
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 124.0,
+    "end": 139.5,
+    "score": 0.417
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 126.06,
+    "end": 129.3,
+    "score": 1.0,
+    "text": "Думаю, он Bazaid Nvidia Ocon Legacy ESO."
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 136.5,
+    "end": 139.0,
+    "score": -55.9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 139.5,
+    "end": 139.5,
+    "score": 0.749
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 139.5,
+    "end": 141.5,
+    "score": -58.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 140.5,
+    "end": 140.5,
+    "score": 0.744
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 142.5,
+    "end": 151.5,
+    "score": -68.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 149.5,
+    "end": 149.5,
+    "score": 0.9
+  },
+  {
+    "type": "chapter",
+    "label": "Подробнее про дистрибутив",
+    "start": 151.0,
+    "end": 193.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "кровать",
+    "class": "bed",
+    "start": 151.5,
+    "end": 154.0,
+    "score": 0.697,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 151.5,
+    "end": 151.5,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 152.5,
+    "end": 152.5,
+    "score": 0.404
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 153.0,
+    "end": 165.0,
+    "score": 0.827
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 153.5,
+    "end": 153.5,
+    "score": 0.41
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 154.5,
+    "end": 154.5,
+    "score": 0.437
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 155.5,
+    "end": 155.5,
+    "score": 0.54
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 157.25,
+    "end": 157.25,
+    "score": 0.385
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 158.75,
+    "end": 158.75,
+    "score": 0.399
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 159.75,
+    "end": 159.75,
+    "score": 0.431
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 160.5,
+    "end": 163.0,
+    "score": 0.663,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 161.0,
+    "end": 161.0,
+    "score": 0.396
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 161.78,
+    "end": 165.74,
+    "score": 1.0,
+    "text": "компьютер или портативную консоль в подобии Steam Deck."
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 161.78,
+    "end": 165.74,
+    "score": 1.0,
+    "text": "компьютер или портативную консоль в подобии Steam Deck."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 162.0,
+    "end": 162.0,
+    "score": 0.356
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 163.0,
+    "end": 163.0,
+    "score": 0.481
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 164.5,
+    "end": 164.5,
+    "score": 0.412
+  },
+  {
+    "type": "object",
+    "label": "кровать",
+    "class": "bed",
+    "start": 167.0,
+    "end": 168.0,
+    "score": 0.697,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 167.0,
+    "end": 173.5,
+    "score": 0.748
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 167.0,
+    "end": 167.0,
+    "score": 0.996
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 168.0,
+    "end": 168.0,
+    "score": 0.471
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 170.0,
+    "end": 170.0,
+    "score": 0.362
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 171.5,
+    "end": 171.5,
+    "score": 0.419
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 172.75,
+    "end": 172.75,
+    "score": 0.461
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 173.75,
+    "end": 173.75,
+    "score": 0.679
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 176.5,
+    "end": 176.5,
+    "score": 0.428
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 178.25,
+    "end": 178.25,
+    "score": 0.432
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 179.5,
+    "end": 188.0,
+    "score": 0.699
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 180.5,
+    "end": 180.5,
+    "score": 0.359
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 181.5,
+    "end": 181.5,
+    "score": 0.564
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 182.5,
+    "end": 182.5,
+    "score": 0.451
+  },
+  {
+    "type": "object",
+    "label": "bench",
+    "class": "bench",
+    "start": 183.0,
+    "end": 184.0,
+    "score": 0.694,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 183.75,
+    "end": 183.75,
+    "score": 0.405
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 185.0,
+    "end": 185.0,
+    "score": 0.367
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 186.5,
+    "end": 186.5,
+    "score": 0.71
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 188.25,
+    "end": 188.25,
+    "score": 0.996
+  },
+  {
+    "type": "chapter",
+    "label": "Плюсы и минусы за день использования",
+    "start": 193.0,
+    "end": 305.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 193.75,
+    "end": 224.75,
+    "score": 0.771,
+    "frames": 24
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 193.75,
+    "end": 197.75,
+    "score": 0.583,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 193.75,
+    "end": 223.5,
+    "score": 0.582
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 193.75,
+    "end": 193.75,
+    "score": 0.942
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 195.5,
+    "end": 196.0,
+    "score": -32.9
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 199.98,
+    "end": 209.22,
+    "score": 1.0,
+    "text": "Короче, база этот как будто бы лучший дистрибутив, потому что тут во-первых, Steam изначально стоит"
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 200.0,
+    "end": 203.5,
+    "score": -73.1
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 202.75,
+    "end": 224.0,
+    "score": 0.583,
+    "frames": 14
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 209.22,
+    "end": 215.42,
+    "score": 1.0,
+    "text": "протон плас изначально стоит. Все приложения с плач-пака, но это конечно же имеется и,"
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 224.75,
+    "end": 238.75,
+    "score": 0.853
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 224.75,
+    "end": 224.75,
+    "score": 0.917
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 228.75,
+    "end": 242.25,
+    "score": 0.771,
+    "frames": 9
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 230.0,
+    "end": 232.0,
+    "score": -76.0
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 230.62,
+    "end": 258.78,
+    "score": 1.0,
+    "text": "и еще вот тут вот так вот дописать. Почему? Потому что если вы зайдете с Spotify и будете вот так вот туда сюда курсурмотать, он просто будет у вас даже не тот который в KDE по умолчанию стоит, он у вас будет как адвайтовский, который в гноме,"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 230.62,
+    "end": 258.78,
+    "score": 1.0,
+    "text": "и еще вот тут вот так вот дописать. Почему? Потому что если вы зайдете с Spotify и будете вот так вот туда сюда курсурмотать, он просто будет у вас даже не тот который в KDE по умолчанию стоит, он у вас будет как адвайтовский, который в гноме,"
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 238.0,
+    "end": 239.0,
+    "score": -30.1
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 239.75,
+    "end": 239.75,
+    "score": 0.88
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 242.0,
+    "end": 242.0,
+    "score": 0.653
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 242.5,
+    "end": 245.0,
+    "score": -56.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 243.5,
+    "end": 243.5,
+    "score": 0.353
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 246.0,
+    "end": 248.5,
+    "score": -75.5
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 248.25,
+    "end": 254.25,
+    "score": 0.771,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 258.25,
+    "end": 340.5,
+    "score": 0.771,
+    "frames": 51
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 259.0,
+    "end": 261.0,
+    "score": -56.1
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 266.0,
+    "end": 268.0,
+    "score": -69.1
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 271.0,
+    "end": 271.5,
+    "score": -33.3
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 275.0,
+    "end": 283.75,
+    "score": 0.619
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 275.0,
+    "end": 275.0,
+    "score": 0.85
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 275.5,
+    "end": 276.5,
+    "score": -30.1
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 278.0,
+    "end": 280.0,
+    "score": -73.7
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 278.02,
+    "end": 289.86,
+    "score": 1.0,
+    "text": "в принципе вся система работает стабильно как бы это xyad 43 nvidia eddish"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 281.5,
+    "end": 282.5,
+    "score": 0.583,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 284.5,
+    "end": 284.5,
+    "score": 0.874
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 288.5,
+    "end": 298.5,
+    "score": 0.462
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 289.86,
+    "end": 295.72,
+    "score": 1.0,
+    "text": "как бы это nvidia nvidia это nvidia eddish и все идеально работает последний"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 295.72,
+    "end": 300.94,
+    "score": 1.0,
+    "text": "версии kd plasma все обновляется очень часто все как будто бы прям идеальный"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 299.75,
+    "end": 307.5,
+    "score": 0.421
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 299.75,
+    "end": 299.75,
+    "score": 0.814
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 300.25,
+    "end": 305.75,
+    "score": 0.583,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 303.0,
+    "end": 303.0,
+    "score": 0.938
+  },
+  {
+    "type": "chapter",
+    "label": "Тестируем CS2",
+    "start": 305.0,
+    "end": 407.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 306.25,
+    "end": 306.25,
+    "score": 0.851
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 307.5,
+    "end": 307.5,
+    "score": 0.794
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 314.5,
+    "end": 316.5,
+    "score": -71.7
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 321.5,
+    "end": 335.5,
+    "score": 0.55
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 321.5,
+    "end": 321.5,
+    "score": 0.792
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 327.5,
+    "end": 335.5,
+    "score": 0.583,
+    "frames": 5
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 335.5,
+    "end": 338.5,
+    "score": -65.2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 335.75,
+    "end": 335.75,
+    "score": 0.798
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 336.0,
+    "end": 340.0,
+    "score": 0.439
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 340.5,
+    "end": 340.5,
+    "score": 0.778
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 341.0,
+    "end": 352.5,
+    "score": 0.853
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 345.0,
+    "end": 349.0,
+    "score": -90.9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 347.75,
+    "end": 347.75,
+    "score": 1.0
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 349.5,
+    "end": 351.5,
+    "score": -52.9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 350.75,
+    "end": 350.75,
+    "score": 0.948
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 351.75,
+    "end": 351.75,
+    "score": 0.9
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 352.0,
+    "end": 353.5,
+    "score": 0.663,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 353.5,
+    "end": 358.0,
+    "score": 0.688
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 353.75,
+    "end": 353.75,
+    "score": 0.59
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 358.75,
+    "end": 358.75,
+    "score": 0.781
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 359.0,
+    "end": 364.5,
+    "score": -59.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 361.25,
+    "end": 361.25,
+    "score": 0.545
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 361.75,
+    "end": 366.5,
+    "score": 0.865
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 364.75,
+    "end": 364.75,
+    "score": 0.461
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 365.0,
+    "end": 365.5,
+    "score": 0.663,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "часы",
+    "class": "clock",
+    "start": 365.0,
+    "end": 365.5,
+    "score": 0.589,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "motorcycle",
+    "class": "motorcycle",
+    "start": 366.5,
+    "end": 367.25,
+    "score": 0.628,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 366.5,
+    "end": 366.5,
+    "score": 0.786
+  },
+  {
+    "type": "object",
+    "label": "растение",
+    "class": "potted plant",
+    "start": 367.75,
+    "end": 368.25,
+    "score": 0.694,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 367.75,
+    "end": 367.75,
+    "score": 0.599
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 371.25,
+    "end": 376.75,
+    "score": 0.622
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 372.5,
+    "end": 372.5,
+    "score": 0.357
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 373.75,
+    "end": 373.75,
+    "score": 0.387
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 374.75,
+    "end": 376.25,
+    "score": 0.663,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 376.25,
+    "end": 376.25,
+    "score": 0.912
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 379.0,
+    "end": 406.0,
+    "score": 0.791
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 379.0,
+    "end": 379.0,
+    "score": 0.992
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 379.5,
+    "end": 380.0,
+    "score": -32.2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 380.0,
+    "end": 380.0,
+    "score": 0.491
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 382.0,
+    "end": 385.25,
+    "score": 0.663,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 383.25,
+    "end": 383.25,
+    "score": 0.457
+  },
+  {
+    "type": "object",
+    "label": "часы",
+    "class": "clock",
+    "start": 384.75,
+    "end": 388.5,
+    "score": 0.589,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 385.0,
+    "end": 385.0,
+    "score": 0.405
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 386.0,
+    "end": 386.0,
+    "score": 0.463
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 386.5,
+    "end": 389.0,
+    "score": -58.6
+  },
+  {
+    "type": "object",
+    "label": "растение",
+    "class": "potted plant",
+    "start": 388.5,
+    "end": 389.5,
+    "score": 0.694,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 389.0,
+    "end": 389.0,
+    "score": 0.375
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 389.5,
+    "end": 394.5,
+    "score": -55.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 391.75,
+    "end": 391.75,
+    "score": 0.403
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 393.25,
+    "end": 393.25,
+    "score": 0.422
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 394.0,
+    "end": 396.0,
+    "score": 0.663,
+    "frames": 2
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 396.0,
+    "end": 399.0,
+    "score": -53.2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 397.25,
+    "end": 397.25,
+    "score": 0.502
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 399.75,
+    "end": 399.75,
+    "score": 0.512
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 401.25,
+    "end": 401.75,
+    "score": 0.663,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 406.0,
+    "end": 406.0,
+    "score": 0.994
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 406.0,
+    "end": 413.0,
+    "score": -74.8
+  },
+  {
+    "type": "chapter",
+    "label": "Тестируем FragPunk",
+    "start": 407.0,
+    "end": 546.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 407.25,
+    "end": 416.0,
+    "score": 0.638
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 407.25,
+    "end": 407.25,
+    "score": 0.979
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 408.5,
+    "end": 408.5,
+    "score": 0.696
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 410.0,
+    "end": 410.0,
+    "score": 0.611
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 412.5,
+    "end": 412.5,
+    "score": 0.743
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 414.5,
+    "end": 421.0,
+    "score": 0.663,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 414.5,
+    "end": 414.5,
+    "score": 0.383
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 416.0,
+    "end": 416.0,
+    "score": 0.559
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 416.0,
+    "end": 421.5,
+    "score": -57.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 418.0,
+    "end": 418.0,
+    "score": 0.904
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 419.0,
+    "end": 419.0,
+    "score": 0.875
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 421.25,
+    "end": 421.25,
+    "score": 0.886
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 421.5,
+    "end": 450.75,
+    "score": 0.771,
+    "frames": 23
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 421.5,
+    "end": 451.25,
+    "score": 0.918
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 428.0,
+    "end": 430.0,
+    "score": -54.6
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 446.0,
+    "end": 448.0,
+    "score": -69.2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 451.25,
+    "end": 451.25,
+    "score": 0.81
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 452.25,
+    "end": 452.25,
+    "score": 0.622
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 453.25,
+    "end": 463.25,
+    "score": 0.735
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 453.25,
+    "end": 453.25,
+    "score": 0.753
+  },
+  {
+    "type": "object",
+    "label": "airplane",
+    "class": "airplane",
+    "start": 453.75,
+    "end": 455.75,
+    "score": 0.665,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 456.0,
+    "end": 456.0,
+    "score": 0.829
+  },
+  {
+    "type": "object",
+    "label": "часы",
+    "class": "clock",
+    "start": 456.25,
+    "end": 458.25,
+    "score": 0.589,
+    "frames": 2
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 457.5,
+    "end": 462.5,
+    "score": -92.9
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 460.25,
+    "end": 473.25,
+    "score": 0.663,
+    "frames": 13
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 460.25,
+    "end": 460.25,
+    "score": 0.923
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 461.75,
+    "end": 461.75,
+    "score": 0.855
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 463.75,
+    "end": 463.75,
+    "score": 0.88
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 465.75,
+    "end": 465.75,
+    "score": 0.92
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 466.75,
+    "end": 466.75,
+    "score": 0.896
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 468.5,
+    "end": 468.5,
+    "score": 0.899
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 469.5,
+    "end": 469.5,
+    "score": 0.812
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 470.5,
+    "end": 473.0,
+    "score": -60.2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 473.25,
+    "end": 473.25,
+    "score": 0.671
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 474.25,
+    "end": 490.5,
+    "score": 0.771,
+    "frames": 11
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 474.25,
+    "end": 491.75,
+    "score": 0.83
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 474.25,
+    "end": 474.25,
+    "score": 0.896
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 475.0,
+    "end": 477.0,
+    "score": -79.0
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 480.0,
+    "end": 485.0,
+    "score": -84.7
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 487.5,
+    "end": 488.0,
+    "score": -33.6
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 488.5,
+    "end": 490.5,
+    "score": -82.4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 491.5,
+    "end": 491.5,
+    "score": 0.942
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 491.75,
+    "end": 494.25,
+    "score": 0.663,
+    "frames": 3
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 493.0,
+    "end": 493.5,
+    "score": -32.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 493.75,
+    "end": 493.75,
+    "score": 0.427
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 494.5,
+    "end": 498.5,
+    "score": -72.1
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 495.0,
+    "end": 495.0,
+    "score": 0.988
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 495.5,
+    "end": 581.25,
+    "score": 0.884
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 506.0,
+    "end": 508.0,
+    "score": -62.8
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 507.0,
+    "end": 514.0,
+    "score": 0.663,
+    "frames": 5
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 511.0,
+    "end": 513.0,
+    "score": -51.1
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 518.0,
+    "end": 531.0,
+    "score": 0.663,
+    "frames": 15
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 521.5,
+    "end": 523.5,
+    "score": -52.8
+  },
+  {
+    "type": "object",
+    "label": "motorcycle",
+    "class": "motorcycle",
+    "start": 521.75,
+    "end": 523.25,
+    "score": 0.628,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 522.75,
+    "end": 522.75,
+    "score": 0.531
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 525.5,
+    "end": 525.5,
+    "score": 0.363
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 527.75,
+    "end": 527.75,
+    "score": 0.437
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 529.5,
+    "end": 529.5,
+    "score": 0.371
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 532.0,
+    "end": 532.0,
+    "score": 0.374
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 533.0,
+    "end": 533.0,
+    "score": 0.544
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 534.25,
+    "end": 534.25,
+    "score": 0.417
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 536.25,
+    "end": 536.25,
+    "score": 0.355
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 537.75,
+    "end": 537.75,
+    "score": 0.402
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 539.0,
+    "end": 539.0,
+    "score": 0.445
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 540.25,
+    "end": 540.25,
+    "score": 0.378
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 542.25,
+    "end": 542.25,
+    "score": 0.489
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 542.5,
+    "end": 545.25,
+    "score": 0.663,
+    "frames": 3
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 542.5,
+    "end": 544.5,
+    "score": -63.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 543.5,
+    "end": 543.5,
+    "score": 0.361
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 545.0,
+    "end": 548.0,
+    "score": -72.3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 545.75,
+    "end": 545.75,
+    "score": 0.992
+  },
+  {
+    "type": "chapter",
+    "label": "Тестируем Ikarus Parkour",
+    "start": 546.0,
+    "end": 643.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 547.25,
+    "end": 547.25,
+    "score": 0.996
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 548.5,
+    "end": 548.5,
+    "score": 0.431
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 549.0,
+    "end": 551.5,
+    "score": -48.4
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 549.25,
+    "end": 549.75,
+    "score": 0.663,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 549.5,
+    "end": 549.5,
+    "score": 0.381
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 550.75,
+    "end": 550.75,
+    "score": 0.459
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 551.75,
+    "end": 551.75,
+    "score": 0.784
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 552.0,
+    "end": 554.5,
+    "score": -48.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 554.0,
+    "end": 554.0,
+    "score": 0.623
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 556.0,
+    "end": 558.0,
+    "score": -49.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 557.25,
+    "end": 557.25,
+    "score": 0.428
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 558.25,
+    "end": 558.25,
+    "score": 0.4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 559.5,
+    "end": 559.5,
+    "score": 0.415
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 560.75,
+    "end": 560.75,
+    "score": 0.353
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 561.5,
+    "end": 572.5,
+    "score": -49.1
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 561.75,
+    "end": 561.75,
+    "score": 0.553
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 562.75,
+    "end": 562.75,
+    "score": 0.365
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 564.5,
+    "end": 564.5,
+    "score": 0.542
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 566.75,
+    "end": 566.75,
+    "score": 0.383
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 568.25,
+    "end": 568.25,
+    "score": 0.535
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 569.25,
+    "end": 569.25,
+    "score": 0.73
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 570.25,
+    "end": 570.25,
+    "score": 0.507
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 571.5,
+    "end": 571.5,
+    "score": 0.512
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 574.0,
+    "end": 577.0,
+    "score": -49.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 577.25,
+    "end": 577.25,
+    "score": 0.505
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 577.5,
+    "end": 600.5,
+    "score": -24.3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 578.5,
+    "end": 578.5,
+    "score": 0.91
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 579.5,
+    "end": 579.5,
+    "score": 0.533
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 580.5,
+    "end": 580.5,
+    "score": 0.619
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 581.5,
+    "end": 581.5,
+    "score": 0.463
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 582.5,
+    "end": 582.5,
+    "score": 0.621
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 583.5,
+    "end": 583.5,
+    "score": 0.755
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 584.5,
+    "end": 584.5,
+    "score": 0.495
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 585.5,
+    "end": 585.5,
+    "score": 0.493
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 586.5,
+    "end": 586.5,
+    "score": 0.608
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 586.75,
+    "end": 598.75,
+    "score": 0.734
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 587.5,
+    "end": 587.5,
+    "score": 0.507
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 588.5,
+    "end": 588.5,
+    "score": 0.575
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 589.5,
+    "end": 589.5,
+    "score": 0.433
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 590.75,
+    "end": 590.75,
+    "score": 0.506
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 591.75,
+    "end": 591.75,
+    "score": 0.566
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 592.75,
+    "end": 592.75,
+    "score": 0.453
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 593.75,
+    "end": 593.75,
+    "score": 0.407
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 594.75,
+    "end": 594.75,
+    "score": 0.63
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 595.75,
+    "end": 595.75,
+    "score": 0.681
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 596.75,
+    "end": 596.75,
+    "score": 0.809
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 597.75,
+    "end": 597.75,
+    "score": 0.642
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 598.75,
+    "end": 598.75,
+    "score": 0.438
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 599.25,
+    "end": 641.5,
+    "score": 0.95
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 599.75,
+    "end": 599.75,
+    "score": 0.361
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 601.0,
+    "end": 603.0,
+    "score": -49.3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 601.5,
+    "end": 601.5,
+    "score": 0.571
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 602.75,
+    "end": 602.75,
+    "score": 0.519
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 610.0,
+    "end": 610.0,
+    "score": 0.4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 613.0,
+    "end": 613.0,
+    "score": 0.356
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 613.5,
+    "end": 622.5,
+    "score": -50.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 614.0,
+    "end": 614.0,
+    "score": 0.351
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 623.0,
+    "end": 643.5,
+    "score": -54.2
+  },
+  {
+    "type": "object",
+    "label": "кровать",
+    "class": "bed",
+    "start": 626.25,
+    "end": 627.25,
+    "score": 0.697,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 633.25,
+    "end": 633.75,
+    "score": 0.583,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 635.75,
+    "end": 635.75,
+    "score": 0.447
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 641.75,
+    "end": 641.75,
+    "score": 1.0
+  },
+  {
+    "type": "chapter",
+    "label": "Настройка ADB",
+    "start": 643.0,
+    "end": 776.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 643.5,
+    "end": 755.0,
+    "score": 0.771,
+    "frames": 74
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 643.5,
+    "end": 643.5,
+    "score": 0.975
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 645.0,
+    "end": 645.0,
+    "score": 0.4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 652.0,
+    "end": 652.0,
+    "score": 0.821
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 653.25,
+    "end": 653.25,
+    "score": 0.916
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 654.0,
+    "end": 656.0,
+    "score": -68.1
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 655.0,
+    "end": 655.5,
+    "score": 0.583,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 655.0,
+    "end": 655.0,
+    "score": 0.899
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 656.0,
+    "end": 656.0,
+    "score": 0.773
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 656.5,
+    "end": 658.5,
+    "score": -95.1
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 658.0,
+    "end": 658.0,
+    "score": 0.546
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 661.5,
+    "end": 664.0,
+    "score": -83.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 662.75,
+    "end": 662.75,
+    "score": 0.661
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 664.5,
+    "end": 664.5,
+    "score": 0.665
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 668.75,
+    "end": 681.0,
+    "score": 0.722
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 670.25,
+    "end": 670.25,
+    "score": 0.71
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 672.0,
+    "end": 672.0,
+    "score": 0.553
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 673.5,
+    "end": 673.5,
+    "score": 0.64
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 676.0,
+    "end": 678.0,
+    "score": -58.5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 681.0,
+    "end": 681.0,
+    "score": 0.523
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 681.5,
+    "end": 693.25,
+    "score": 0.583,
+    "frames": 9
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 681.5,
+    "end": 693.75,
+    "score": 0.629
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 683.0,
+    "end": 685.5,
+    "score": -50.1
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 686.0,
+    "end": 693.0,
+    "score": -77.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 693.75,
+    "end": 693.75,
+    "score": 0.715
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 694.25,
+    "end": 700.25,
+    "score": 0.704
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 700.25,
+    "end": 700.25,
+    "score": 0.783
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 702.25,
+    "end": 709.0,
+    "score": 0.341
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 706.0,
+    "end": 709.5,
+    "score": -72.5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 709.0,
+    "end": 709.0,
+    "score": 0.493
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 709.5,
+    "end": 755.0,
+    "score": 0.932
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 710.5,
+    "end": 710.5,
+    "score": 0.929
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 713.0,
+    "end": 715.0,
+    "score": -76.5
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 723.5,
+    "end": 727.0,
+    "score": -92.4
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 727.5,
+    "end": 730.0,
+    "score": -49.7
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 730.5,
+    "end": 732.5,
+    "score": -69.5
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 734.5,
+    "end": 737.0,
+    "score": -72.9
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 740.0,
+    "end": 743.5,
+    "score": -72.6
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 752.5,
+    "end": 755.0,
+    "score": -52.9
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 755.5,
+    "end": 759.0,
+    "score": -107.2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 756.0,
+    "end": 756.0,
+    "score": 0.968
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 758.25,
+    "end": 758.25,
+    "score": 0.939
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 758.5,
+    "end": 774.0,
+    "score": 0.771,
+    "frames": 13
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 758.5,
+    "end": 761.0,
+    "score": 0.583,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 761.75,
+    "end": 761.75,
+    "score": 0.661
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 762.0,
+    "end": 773.5,
+    "score": 0.654
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 763.5,
+    "end": 768.5,
+    "score": -49.8
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 769.0,
+    "end": 771.5,
+    "score": -62.7
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 773.0,
+    "end": 778.0,
+    "score": -84.9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 773.75,
+    "end": 773.75,
+    "score": 0.848
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 775.25,
+    "end": 775.25,
+    "score": 0.942
+  },
+  {
+    "type": "chapter",
+    "label": "Тест VRChat (VR)",
+    "start": 776.0,
+    "end": 868.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 777.5,
+    "end": 777.5,
+    "score": 0.629
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 777.75,
+    "end": 805.75,
+    "score": 0.771,
+    "frames": 15
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 780.0,
+    "end": 780.5,
+    "score": -31.2
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 782.0,
+    "end": 782.5,
+    "score": -33.6
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 786.5,
+    "end": 787.0,
+    "score": -32.5
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 789.75,
+    "end": 799.75,
+    "score": 0.417
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 791.0,
+    "end": 791.5,
+    "score": -33.6
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 793.5,
+    "end": 794.0,
+    "score": -33.6
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 797.5,
+    "end": 798.0,
+    "score": -33.5
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 799.0,
+    "end": 800.5,
+    "score": -32.4
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 802.5,
+    "end": 803.0,
+    "score": -33.6
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 805.5,
+    "end": 806.0,
+    "score": -31.8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 806.75,
+    "end": 806.75,
+    "score": 0.968
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 808.75,
+    "end": 808.75,
+    "score": 0.991
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 810.75,
+    "end": 817.25,
+    "score": 0.739
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 810.75,
+    "end": 810.75,
+    "score": 0.959
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 814.5,
+    "end": 815.0,
+    "score": -31.4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 817.25,
+    "end": 817.25,
+    "score": 0.453
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 820.5,
+    "end": 820.5,
+    "score": 0.359
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 824.0,
+    "end": 833.5,
+    "score": -78.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 825.0,
+    "end": 825.0,
+    "score": 0.967
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 826.5,
+    "end": 826.5,
+    "score": 0.396
+  },
+  {
+    "type": "object",
+    "label": "bench",
+    "class": "bench",
+    "start": 827.0,
+    "end": 832.75,
+    "score": 0.694,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 827.0,
+    "end": 863.25,
+    "score": 0.804
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 827.5,
+    "end": 827.5,
+    "score": 0.361
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 835.0,
+    "end": 835.0,
+    "score": 0.372
+  },
+  {
+    "type": "object",
+    "label": "bird",
+    "class": "bird",
+    "start": 836.0,
+    "end": 837.5,
+    "score": 0.678,
+    "frames": 3
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 837.0,
+    "end": 837.5,
+    "score": -33.6
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 839.5,
+    "end": 840.0,
+    "score": -32.9
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 843.5,
+    "end": 845.5,
+    "score": -90.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 844.0,
+    "end": 844.0,
+    "score": 0.382
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 846.0,
+    "end": 846.5,
+    "score": -31.6
+  },
+  {
+    "type": "object",
+    "label": "машина",
+    "class": "car",
+    "start": 847.5,
+    "end": 849.75,
+    "score": 0.698,
+    "frames": 5
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 850.0,
+    "end": 861.5,
+    "score": -82.8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 851.0,
+    "end": 851.0,
+    "score": 0.416
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 855.0,
+    "end": 855.0,
+    "score": 0.378
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 856.25,
+    "end": 856.25,
+    "score": 0.366
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 857.5,
+    "end": 857.5,
+    "score": 0.373
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 859.25,
+    "end": 859.25,
+    "score": 0.437
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 866.0,
+    "end": 868.5,
+    "score": -96.2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 867.0,
+    "end": 867.0,
+    "score": 0.948
+  },
+  {
+    "type": "chapter",
+    "label": "Конец! Спасибо за просмотр.",
+    "start": 868.0,
+    "end": 885.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 868.5,
+    "end": 873.0,
+    "score": 0.758
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 868.5,
+    "end": 868.5,
+    "score": 0.991
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 870.75,
+    "end": 870.75,
+    "score": 0.366
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 871.5,
+    "end": 874.0,
+    "score": -69.1
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 872.5,
+    "end": 872.5,
+    "score": 0.496
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 876.0,
+    "end": 876.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 877.25,
+    "end": 877.25,
+    "score": 0.384
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 881.5,
+    "end": 881.5,
+    "score": 0.352
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 881.5,
+    "end": 884.5,
+    "score": -58.2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 882.75,
+    "end": 882.75,
+    "score": 0.416
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 884.0,
+    "end": 884.0,
+    "score": 0.577
+  }
+]

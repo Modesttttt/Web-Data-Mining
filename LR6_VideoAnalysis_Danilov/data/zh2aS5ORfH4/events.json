@@ -1,0 +1,1836 @@
+[
+  {
+    "type": "chapter",
+    "label": "<Untitled Chapter 1>",
+    "start": 0.0,
+    "end": 172.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 0.0,
+    "end": 46.08,
+    "score": 0.846,
+    "frames": 26
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 0.0,
+    "end": 16.56,
+    "score": 0.708,
+    "frames": 10
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 0.0,
+    "end": 18.0,
+    "score": 0.511
+  },
+  {
+    "type": "object",
+    "label": "галстук",
+    "class": "tie",
+    "start": 7.2,
+    "end": 16.56,
+    "score": 0.654,
+    "frames": 6
+  },
+  {
+    "type": "object",
+    "label": "книга",
+    "class": "book",
+    "start": 18.72,
+    "end": 31.68,
+    "score": 0.551,
+    "frames": 7
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 18.72,
+    "end": 45.36,
+    "score": 0.633
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 32.4,
+    "end": 58.56,
+    "score": 0.708,
+    "frames": 17
+  },
+  {
+    "type": "mention",
+    "label": "Astra Linux",
+    "group": "дистрибутив",
+    "start": 32.42,
+    "end": 34.76,
+    "score": 1.0,
+    "text": "И Astra в этом плане не исключение."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 45.6,
+    "end": 45.6,
+    "score": 0.559
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 48.48,
+    "end": 48.48,
+    "score": 0.404
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 57.84,
+    "end": 57.84,
+    "score": 0.401
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 59.28,
+    "end": 109.92,
+    "score": 0.846,
+    "frames": 25
+  },
+  {
+    "type": "object",
+    "label": "книга",
+    "class": "book",
+    "start": 59.28,
+    "end": 65.76,
+    "score": 0.551,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 59.28,
+    "end": 63.6,
+    "score": 0.657
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 67.68,
+    "end": 78.48,
+    "score": 0.708,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 76.32,
+    "end": 107.76,
+    "score": 0.624
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 94.8,
+    "end": 109.92,
+    "score": 0.708,
+    "frames": 8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 110.88,
+    "end": 110.88,
+    "score": 0.947
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 111.0,
+    "end": 112.5,
+    "score": -11.9
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 115.44,
+    "end": 148.32,
+    "score": 0.846,
+    "frames": 21
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 115.44,
+    "end": 124.08,
+    "score": 0.708,
+    "frames": 5
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 115.44,
+    "end": 119.76,
+    "score": 0.633
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 115.44,
+    "end": 115.44,
+    "score": 0.793
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 124.08,
+    "end": 135.12,
+    "score": 0.661
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 135.12,
+    "end": 136.56,
+    "score": 0.708,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 136.56,
+    "end": 136.56,
+    "score": 0.358
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 140.64,
+    "end": 140.64,
+    "score": 0.364
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 141.12,
+    "end": 148.32,
+    "score": 0.708,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 141.12,
+    "end": 146.16,
+    "score": 0.485
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 149.52,
+    "end": 154.8,
+    "score": 0.476
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 149.52,
+    "end": 149.52,
+    "score": 0.997
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 156.24,
+    "end": 156.24,
+    "score": 0.668
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 157.68,
+    "end": 159.12,
+    "score": 0.708,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 160.08,
+    "end": 169.44,
+    "score": 0.846,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 160.08,
+    "end": 164.4,
+    "score": 0.606
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 160.08,
+    "end": 160.08,
+    "score": 0.999
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 164.88,
+    "end": 164.88,
+    "score": 0.5
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 165.12,
+    "end": 169.44,
+    "score": 0.708,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 165.12,
+    "end": 172.32,
+    "score": 0.467
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 171.5,
+    "end": 172.5,
+    "score": -13.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 171.6,
+    "end": 171.6,
+    "score": 1.0
+  },
+  {
+    "type": "chapter",
+    "label": "Интерфейс FLY",
+    "start": 172.0,
+    "end": 263.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 173.52,
+    "end": 173.52,
+    "score": 0.993
+  },
+  {
+    "type": "mention",
+    "label": "Astra Linux",
+    "group": "дистрибутив",
+    "start": 176.26,
+    "end": 180.66,
+    "score": 1.0,
+    "text": "системы Astra это интерфейс Fly, который является, пожалуй,"
+  },
+  {
+    "type": "mention",
+    "label": "Fly",
+    "group": "окружение",
+    "start": 176.26,
+    "end": 180.66,
+    "score": 1.0,
+    "text": "системы Astra это интерфейс Fly, который является, пожалуй,"
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 183.0,
+    "end": 183.5,
+    "score": -18.1
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 201.36,
+    "end": 227.52,
+    "score": 0.736
+  },
+  {
+    "type": "mention",
+    "label": "Astra Linux",
+    "group": "дистрибутив",
+    "start": 203.22,
+    "end": 208.5,
+    "score": 1.0,
+    "text": "Для этого перейдем на вкладку темы, выберем Астро-Светлое."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 206.64,
+    "end": 206.64,
+    "score": 0.588
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 210.24,
+    "end": 210.24,
+    "score": 0.664
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 228.24,
+    "end": 237.6,
+    "score": 0.677
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 228.96,
+    "end": 244.08,
+    "score": 0.57,
+    "frames": 8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 228.96,
+    "end": 228.96,
+    "score": 0.5
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 239.76,
+    "end": 262.08,
+    "score": 0.48
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 254.16,
+    "end": 254.16,
+    "score": 0.534
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 257.04,
+    "end": 261.36,
+    "score": 0.708,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 257.04,
+    "end": 261.36,
+    "score": 0.57,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 261.6,
+    "end": 261.6,
+    "score": 0.998
+  },
+  {
+    "type": "chapter",
+    "label": "Менеджер файлов",
+    "start": 263.0,
+    "end": 533.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 263.52,
+    "end": 277.2,
+    "score": 0.746
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 263.52,
+    "end": 263.52,
+    "score": 0.992
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 270.0,
+    "end": 276.48,
+    "score": 0.57,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 276.72,
+    "end": 276.72,
+    "score": 0.556
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 277.2,
+    "end": 331.92,
+    "score": 0.687,
+    "frames": 27
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 277.92,
+    "end": 301.68,
+    "score": 0.708,
+    "frames": 12
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 277.92,
+    "end": 299.52,
+    "score": 0.732
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 284.5,
+    "end": 287.78,
+    "score": 1.0,
+    "text": "Не виндов, конечно, но из линуксового опыта скажу,"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 306.0,
+    "end": 312.48,
+    "score": 0.708,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 310.32,
+    "end": 325.44,
+    "score": 0.615
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 316.8,
+    "end": 339.12,
+    "score": 0.708,
+    "frames": 12
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 327.6,
+    "end": 331.92,
+    "score": 0.516
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 333.6,
+    "end": 333.6,
+    "score": 0.989
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 336.96,
+    "end": 347.76,
+    "score": 0.731
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 342.48,
+    "end": 347.76,
+    "score": 0.708,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 348.72,
+    "end": 353.76,
+    "score": 0.832
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 348.72,
+    "end": 348.72,
+    "score": 0.936
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 349.0,
+    "end": 349.5,
+    "score": -18.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 351.36,
+    "end": 351.36,
+    "score": 0.468
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 355.2,
+    "end": 445.44,
+    "score": 0.687,
+    "frames": 44
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 366.0,
+    "end": 370.08,
+    "score": 0.416
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 370.8,
+    "end": 372.96,
+    "score": 0.57,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 370.8,
+    "end": 392.4,
+    "score": 0.531
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 390.24,
+    "end": 392.4,
+    "score": 0.57,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 418.32,
+    "end": 445.44,
+    "score": 0.435
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 435.6,
+    "end": 439.92,
+    "score": 0.57,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 446.88,
+    "end": 500.88,
+    "score": 0.57,
+    "frames": 32
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 446.88,
+    "end": 502.8,
+    "score": 0.81
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 446.88,
+    "end": 446.88,
+    "score": 0.476
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 455.76,
+    "end": 461.52,
+    "score": 0.687,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 461.28,
+    "end": 461.28,
+    "score": 0.674
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 461.52,
+    "end": 470.88,
+    "score": 0.708,
+    "frames": 8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 468.0,
+    "end": 468.0,
+    "score": 0.676
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 468.72,
+    "end": 471.6,
+    "score": 0.846,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 470.88,
+    "end": 470.88,
+    "score": 0.417
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 471.6,
+    "end": 473.52,
+    "score": 0.687,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 473.52,
+    "end": 473.52,
+    "score": 0.67
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 502.8,
+    "end": 510.72,
+    "score": 0.687,
+    "frames": 8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 502.8,
+    "end": 502.8,
+    "score": 0.946
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 504.72,
+    "end": 504.72,
+    "score": 0.897
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 508.56,
+    "end": 654.48,
+    "score": 0.842
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 508.8,
+    "end": 508.8,
+    "score": 0.967
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 508.84,
+    "end": 516.78,
+    "score": 1.0,
+    "text": "Закрыть приложение можно либо нажав на крестик, либо вызвав системный монитор, являющийся аналогом диспетчер задач Windows."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 510.0,
+    "end": 510.0,
+    "score": 0.498
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 510.72,
+    "end": 531.6,
+    "score": 0.708,
+    "frames": 12
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 520.08,
+    "end": 531.6,
+    "score": 0.57,
+    "frames": 7
+  },
+  {
+    "type": "chapter",
+    "label": "Меню Пуск",
+    "start": 533.0,
+    "end": 692.0,
+    "score": 1.0
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 533.5,
+    "end": 534.0,
+    "score": -17.5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 533.52,
+    "end": 533.52,
+    "score": 0.961
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 535.2,
+    "end": 535.2,
+    "score": 0.986
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 539.52,
+    "end": 540.24,
+    "score": 0.57,
+    "frames": 2
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 543.5,
+    "end": 544.0,
+    "score": -17.4
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 546.72,
+    "end": 579.12,
+    "score": 0.57,
+    "frames": 16
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 585.6,
+    "end": 613.68,
+    "score": 0.57,
+    "frames": 14
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 620.16,
+    "end": 624.48,
+    "score": 0.57,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 635.28,
+    "end": 654.48,
+    "score": 0.57,
+    "frames": 11
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 654.48,
+    "end": 654.48,
+    "score": 0.373
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 655.2,
+    "end": 673.2,
+    "score": 0.708,
+    "frames": 9
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 655.2,
+    "end": 661.68,
+    "score": 0.687,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 662.16,
+    "end": 662.16,
+    "score": 0.437
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 664.56,
+    "end": 668.88,
+    "score": 0.45
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 673.44,
+    "end": 673.44,
+    "score": 0.452
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 673.92,
+    "end": 682.56,
+    "score": 0.687,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 678.24,
+    "end": 680.4,
+    "score": 0.708,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 678.24,
+    "end": 684.0,
+    "score": 0.574
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 684.0,
+    "end": 684.0,
+    "score": 0.835
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 684.72,
+    "end": 691.68,
+    "score": 0.537
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 686.4,
+    "end": 686.4,
+    "score": 0.534
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 691.68,
+    "end": 691.68,
+    "score": 1.0
+  },
+  {
+    "type": "chapter",
+    "label": "Установка программного обеспечения",
+    "start": 692.0,
+    "end": 933.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 693.6,
+    "end": 752.88,
+    "score": 0.743
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 693.6,
+    "end": 693.6,
+    "score": 0.988
+  },
+  {
+    "type": "object",
+    "label": "sports ball",
+    "class": "sports ball",
+    "start": 700.08,
+    "end": 751.44,
+    "score": 0.57,
+    "frames": 29
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 740.64,
+    "end": 740.64,
+    "score": 0.624
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 741.36,
+    "end": 752.88,
+    "score": 0.708,
+    "frames": 9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 742.8,
+    "end": 742.8,
+    "score": 0.556
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 745.68,
+    "end": 747.84,
+    "score": 0.846,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 748.56,
+    "end": 748.56,
+    "score": 0.577
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 752.88,
+    "end": 774.48,
+    "score": 0.687,
+    "frames": 12
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 752.88,
+    "end": 752.88,
+    "score": 0.491
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 755.04,
+    "end": 759.36,
+    "score": 0.685
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 761.52,
+    "end": 771.6,
+    "score": 0.451
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 770.16,
+    "end": 771.6,
+    "score": 0.708,
+    "frames": 2
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 772.0,
+    "end": 772.5,
+    "score": -18.3
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 774.48,
+    "end": 789.6,
+    "score": 0.611
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 776.64,
+    "end": 798.24,
+    "score": 0.708,
+    "frames": 11
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 783.12,
+    "end": 798.24,
+    "score": 0.687,
+    "frames": 8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 798.96,
+    "end": 798.96,
+    "score": 0.951
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 800.88,
+    "end": 800.88,
+    "score": 0.939
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 806.64,
+    "end": 806.64,
+    "score": 0.997
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 806.88,
+    "end": 819.84,
+    "score": 0.485
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 822.0,
+    "end": 837.84,
+    "score": 0.578
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 829.2,
+    "end": 854.4,
+    "score": 0.708,
+    "frames": 13
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 829.2,
+    "end": 829.2,
+    "score": 0.639
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 841.44,
+    "end": 841.44,
+    "score": 0.662
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 843.6,
+    "end": 850.08,
+    "score": 0.541
+  },
+  {
+    "type": "mention",
+    "label": "Astra Linux",
+    "group": "дистрибутив",
+    "start": 853.64,
+    "end": 861.12,
+    "score": 1.0,
+    "text": "это значит, что программа есть в репозиториях Астры. Выбираем пакет. Система подсказывает нам"
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 854.4,
+    "end": 860.88,
+    "score": 0.414
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 856.56,
+    "end": 858.72,
+    "score": 0.687,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 863.04,
+    "end": 867.36,
+    "score": 0.708,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 869.52,
+    "end": 873.84,
+    "score": 0.548
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 875.52,
+    "end": 882.0,
+    "score": 0.708,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 875.52,
+    "end": 884.4,
+    "score": 0.687,
+    "frames": 5
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 877.92,
+    "end": 882.92,
+    "score": 1.0,
+    "text": "так же, как вы привыкли это делать на Windows, а затем просто его проинсталить. К примеру,"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 882.0,
+    "end": 888.24,
+    "score": 0.686
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 882.48,
+    "end": 882.48,
+    "score": 0.824
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 884.4,
+    "end": 884.4,
+    "score": 0.429
+  },
+  {
+    "type": "mention",
+    "label": "Astra Linux",
+    "group": "дистрибутив",
+    "start": 887.92,
+    "end": 895.16,
+    "score": 1.0,
+    "text": "разработкой Astra. Для этого давайте скачаем его с официального сайта, выбираем тип операционной"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 888.24,
+    "end": 895.44,
+    "score": 0.708,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 888.24,
+    "end": 888.24,
+    "score": 0.585
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 888.96,
+    "end": 894.72,
+    "score": 0.672
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 895.16,
+    "end": 901.88,
+    "score": 1.0,
+    "text": "системы, а что является официальным дириативом Debian, поэтому выбираем Dab. После успешной"
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 895.44,
+    "end": 899.76,
+    "score": 0.534
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 901.2,
+    "end": 903.36,
+    "score": 0.708,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 901.2,
+    "end": 903.36,
+    "score": 0.687,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 901.2,
+    "end": 901.2,
+    "score": 0.967
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 905.52,
+    "end": 916.32,
+    "score": 0.452
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 908.72,
+    "end": 914.0,
+    "score": 1.0,
+    "text": "что этот пакет с расширением Debian и он соответственно может быть установлен на Debian"
+  },
+  {
+    "type": "mention",
+    "label": "Astra Linux",
+    "group": "дистрибутив",
+    "start": 917.18,
+    "end": 918.18,
+    "score": 1.0,
+    "text": "Astra."
+  },
+  {
+    "type": "mention",
+    "label": "SteamOS",
+    "group": "дистрибутив",
+    "start": 920.58,
+    "end": 923.64,
+    "score": 1.0,
+    "text": "Сейчас система будет проверять пакет на совместимость и"
+  },
+  {
+    "type": "object",
+    "label": "microwave",
+    "class": "microwave",
+    "start": 926.16,
+    "end": 929.04,
+    "score": 0.539,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 926.16,
+    "end": 931.92,
+    "score": 0.518
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 929.04,
+    "end": 931.2,
+    "score": 0.708,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 929.04,
+    "end": 931.2,
+    "score": 0.687,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 931.44,
+    "end": 931.44,
+    "score": 0.908
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 932.5,
+    "end": 933.0,
+    "score": -17.8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 932.64,
+    "end": 932.64,
+    "score": 0.995
+  },
+  {
+    "type": "chapter",
+    "label": "Панель управления",
+    "start": 933.0,
+    "end": 1088.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 934.32,
+    "end": 938.64,
+    "score": 0.315
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 934.32,
+    "end": 934.32,
+    "score": 0.999
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 940.32,
+    "end": 974.88,
+    "score": 0.85
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 940.32,
+    "end": 940.32,
+    "score": 0.641
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 942.48,
+    "end": 946.8,
+    "score": 0.708,
+    "frames": 3
+  },
+  {
+    "type": "mention",
+    "label": "Fly",
+    "group": "окружение",
+    "start": 949.6,
+    "end": 952.72,
+    "score": 1.0,
+    "text": "Например, можно посмотреть, какие сиси флай запущены."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 951.12,
+    "end": 974.88,
+    "score": 0.708,
+    "frames": 12
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 955.44,
+    "end": 994.32,
+    "score": 0.687,
+    "frames": 19
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 977.04,
+    "end": 983.52,
+    "score": 0.683
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 985.68,
+    "end": 990.0,
+    "score": 0.46
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 992.16,
+    "end": 1013.76,
+    "score": 0.748
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1000.8,
+    "end": 1013.76,
+    "score": 0.708,
+    "frames": 7
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 1001.52,
+    "end": 1007.24,
+    "score": 1.0,
+    "text": "работы с основной системой, уж простите за татологию, тут есть все для управления драйверами,"
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 1007.24,
+    "end": 1012.64,
+    "score": 1.0,
+    "text": "в том числе и графическими. Например, есть возможность установить перпиетарные дрова NVIDIA"
+  },
+  {
+    "type": "mention",
+    "label": "AMD",
+    "group": "железо",
+    "start": 1012.64,
+    "end": 1017.8,
+    "score": 1.0,
+    "text": "или AMD, если по каким-то причинам стандартные дрова не установились или функционала вам"
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 1014.72,
+    "end": 1019.04,
+    "score": 0.853
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 1019.76,
+    "end": 1032.48,
+    "score": 0.616
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1024.32,
+    "end": 1044.72,
+    "score": 0.708,
+    "frames": 11
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 1033.92,
+    "end": 1044.72,
+    "score": 0.65
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1033.92,
+    "end": 1033.92,
+    "score": 0.378
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 1046.88,
+    "end": 1086.96,
+    "score": 0.664
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1046.88,
+    "end": 1046.88,
+    "score": 0.406
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1053.12,
+    "end": 1059.6,
+    "score": 0.708,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1066.08,
+    "end": 1069.2,
+    "score": 0.708,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "microwave",
+    "class": "microwave",
+    "start": 1072.32,
+    "end": 1074.48,
+    "score": 0.539,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1086.96,
+    "end": 1086.96,
+    "score": 1.0
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 1087.0,
+    "end": 1087.5,
+    "score": -17.5
+  },
+  {
+    "type": "chapter",
+    "label": "Особенности безопасности",
+    "start": 1088.0,
+    "end": 1185.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 1088.88,
+    "end": 1114.8,
+    "score": 0.65
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1088.88,
+    "end": 1088.88,
+    "score": 0.987
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1091.04,
+    "end": 1093.2,
+    "score": 0.708,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 1112.64,
+    "end": 1114.8,
+    "score": 0.687,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 1116.96,
+    "end": 1133.76,
+    "score": 0.561
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1120.8,
+    "end": 1120.8,
+    "score": 0.922
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 1122.96,
+    "end": 1125.12,
+    "score": 0.687,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 1129.44,
+    "end": 1133.76,
+    "score": 0.687,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1134.0,
+    "end": 1134.0,
+    "score": 0.971
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 1134.48,
+    "end": 1164.96,
+    "score": 0.846,
+    "frames": 17
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1134.48,
+    "end": 1140.96,
+    "score": 0.708,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 1134.48,
+    "end": 1157.76,
+    "score": 0.564
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1156.56,
+    "end": 1158.48,
+    "score": 0.708,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 1158.48,
+    "end": 1162.8,
+    "score": 0.496
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1162.8,
+    "end": 1164.96,
+    "score": 0.708,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1165.92,
+    "end": 1165.92,
+    "score": 0.978
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 1166.64,
+    "end": 1181.76,
+    "score": 0.713
+  },
+  {
+    "type": "object",
+    "label": "train",
+    "class": "train",
+    "start": 1176.0,
+    "end": 1178.88,
+    "score": 0.675,
+    "frames": 2
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "NVIDIA": {
+    "count": 8,
+    "group": "железо"
+  },
+  "KDE Plasma": {
+    "count": 3,
+    "group": "окружение"
+  },
+  "Steam": {
+    "count": 3,
+    "group": "программы"
+  },
+  "Терминал": {
+    "count": 1,
+    "group": "программы"
+  },
+  "Proton/Wine": {
+    "count": 1,
+    "group": "программы"
+  },
+  "GNOME": {
+    "count": 1,
+    "group": "окружение"
+  }
+}

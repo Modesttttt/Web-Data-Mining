@@ -1,0 +1,14 @@
+# PyTorch с CUDA ставится отдельно (см. README):
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+yt-dlp[default]>=2025.11.12
+opencv-python>=4.9
+numpy>=1.26
+pillow>=10.0
+ultralytics>=8.3
+transformers>=4.44
+openai-whisper>=20250625
+scikit-learn>=1.4
+matplotlib>=3.8
+pandas>=2.0
+pymorphy3>=2.0
+gradio>=4.44

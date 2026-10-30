@@ -1,0 +1,773 @@
+[
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 0.0,
+    "end": 50.0,
+    "score": 0.591,
+    "frames": 26
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 0.0,
+    "end": 89.25,
+    "score": 0.814
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 5.7,
+    "end": 10.16,
+    "score": 1.0,
+    "text": "дистрибутив как Kali Linux. Что такое Kali Linux? Это дистрибутив для"
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 22.96,
+    "end": 29.52,
+    "score": 1.0,
+    "text": "насколько работоспособен наш сервер, можно отслеживать до DOS атаки. Kali Linux"
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 29.0,
+    "end": 29.5,
+    "score": -8.4
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 34.48,
+    "end": 42.36,
+    "score": 1.0,
+    "text": "И в 2013 году появился именно Kali Linux на свет. Почему можно сказать, что он"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 51.25,
+    "end": 51.25,
+    "score": 0.543
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 66.76,
+    "end": 73.4,
+    "score": 1.0,
+    "text": "непонятно для чего та или иная программа, но на их официальном сайте kali.org можно"
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 90.84,
+    "end": 99.48,
+    "score": 1.0,
+    "text": "тайльная команда. Конечно же, я старался пользоваться этой Kali Linux и исследовать,"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 109.25,
+    "end": 125.25,
+    "score": 0.549
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 126.25,
+    "end": 161.75,
+    "score": 0.829
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 126.25,
+    "end": 126.25,
+    "score": 0.892
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 142.72,
+    "end": 152.16,
+    "score": 1.0,
+    "text": "апреле месяц получил обновление. Заснова он использует Debian, но Debian тестовую ветку,"
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 147.5,
+    "end": 148.0,
+    "score": -9.2
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 152.16,
+    "end": 160.64,
+    "score": 1.0,
+    "text": "не стейбу, поэтому мы видим здесь новый гном 43, если посмотрим код и это здесь и код используется"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 161.75,
+    "end": 161.75,
+    "score": 0.859
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 163.5,
+    "end": 198.75,
+    "score": 0.471
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 181.52,
+    "end": 187.84,
+    "score": 1.0,
+    "text": "А уже остальные окружения такие как гном KDE, либо синамон, мате и тому подобное"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 181.52,
+    "end": 187.84,
+    "score": 1.0,
+    "text": "А уже остальные окружения такие как гном KDE, либо синамон, мате и тому подобное"
+  },
+  {
+    "type": "mention",
+    "label": "Cinnamon",
+    "group": "окружение",
+    "start": 181.52,
+    "end": 187.84,
+    "score": 1.0,
+    "text": "А уже остальные окружения такие как гном KDE, либо синамон, мате и тому подобное"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 187.84,
+    "end": 196.08,
+    "score": 1.0,
+    "text": "можно установить из репозитория. Давайте с вами посмотрим на KDE."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 197.75,
+    "end": 197.75,
+    "score": 0.908
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 198.75,
+    "end": 198.75,
+    "score": 0.427
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 200.5,
+    "end": 200.5,
+    "score": 0.966
+  },
+  {
+    "type": "object",
+    "label": "kite",
+    "class": "kite",
+    "start": 201.0,
+    "end": 204.0,
+    "score": 0.617,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 201.5,
+    "end": 201.5,
+    "score": 0.856
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 204.52,
+    "end": 209.82,
+    "score": 1.0,
+    "text": "Вот мы с вами загрузились в КДЕ, она установлена параллельно гном, что нравится"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 206.0,
+    "end": 216.0,
+    "score": 0.68
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 208.0,
+    "end": 208.0,
+    "score": 0.361
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 209.82,
+    "end": 217.8,
+    "score": 1.0,
+    "text": "нам с самой этой, этом окружении, как она настроена в Кали, то что когда мы заходим"
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 217.8,
+    "end": 226.64,
+    "score": 1.0,
+    "text": "в меню, то здесь разбита все по категориям. В гноме да, там все сумбурно лежит,"
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 218.0,
+    "end": 292.0,
+    "score": 0.516
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 222.0,
+    "end": 244.0,
+    "score": 0.621,
+    "frames": 12
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 248.0,
+    "end": 252.0,
+    "score": 0.621,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 264.0,
+    "end": 274.0,
+    "score": 0.621,
+    "frames": 6
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 294.0,
+    "end": 298.0,
+    "score": 0.621,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 298.0,
+    "end": 305.5,
+    "score": 0.402
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 305.5,
+    "end": 305.5,
+    "score": 0.361
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 306.0,
+    "end": 314.0,
+    "score": 0.622
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 308.7,
+    "end": 315.22,
+    "score": 1.0,
+    "text": "открывается терминал и приглашение для водокоманды."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 319.0,
+    "end": 319.0,
+    "score": 0.537
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 322.75,
+    "end": 326.75,
+    "score": 0.621,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 322.75,
+    "end": 326.75,
+    "score": 0.599
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 328.75,
+    "end": 333.25,
+    "score": 0.456
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 328.75,
+    "end": 328.75,
+    "score": 0.36
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 334.25,
+    "end": 342.25,
+    "score": 0.465
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 340.9,
+    "end": 350.94,
+    "score": 1.0,
+    "text": "Ну и некоторая особенность от разработчиков в Кали,"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 344.25,
+    "end": 396.0,
+    "score": 0.875
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 349.5,
+    "end": 349.5,
+    "score": 0.36
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 355.02,
+    "end": 364.3,
+    "score": 1.0,
+    "text": "в XFC. Это не Windows 10, это такая тема оформления"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 357.75,
+    "end": 357.75,
+    "score": 0.361
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 359.0,
+    "end": 359.0,
+    "score": 0.954
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 360.0,
+    "end": 360.0,
+    "score": 0.846
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 364.3,
+    "end": 371.9,
+    "score": 1.0,
+    "text": "в XFC, называется она Kali Undercover, что означает Kali под прикрытием."
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 371.9,
+    "end": 376.58,
+    "score": 1.0,
+    "text": "Если вы используете Kali в окружении и хотите не привлекать"
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 382.1,
+    "end": 388.74,
+    "score": 1.0,
+    "text": "используйте Kali Undercover. Это идеально подходит для того, чтобы не выделяться из толпы."
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 388.74,
+    "end": 394.58,
+    "score": 1.0,
+    "text": "Чтобы включить этот режим, например, вы загрузили себе Kali или в Live CD загрузились,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 393.5,
+    "end": 393.5,
+    "score": 0.401
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 394.0,
+    "end": 403.25,
+    "score": 0.591,
+    "frames": 6
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 394.58,
+    "end": 402.38,
+    "score": 1.0,
+    "text": "этот дистрибутив позволяет работать в Live CD, проводить разные тесты, то можно написать Kali"
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 397.25,
+    "end": 409.75,
+    "score": 0.792
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 400.5,
+    "end": 401.0,
+    "score": -9.1
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 402.38,
+    "end": 413.7,
+    "score": 1.0,
+    "text": "undercover и тогда ваша система переключится вот на эту тему похожая на windows 10 и можете"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 405.25,
+    "end": 405.25,
+    "score": 0.418
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 410.25,
+    "end": 426.0,
+    "score": 0.911
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 411.5,
+    "end": 411.5,
+    "score": 0.801
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 426.0,
+    "end": 426.0,
+    "score": 0.802
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 426.5,
+    "end": 751.25,
+    "score": 0.915
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 515.0,
+    "end": 525.5,
+    "score": -53.3
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 559.0,
+    "end": 567.0,
+    "score": 0.621,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 573.0,
+    "end": 575.0,
+    "score": 0.621,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 578.5,
+    "end": 584.5,
+    "score": 0.621,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 614.5,
+    "end": 616.5,
+    "score": 0.532,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 648.5,
+    "end": 650.5,
+    "score": 0.532,
+    "frames": 2
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 685.0,
+    "end": 688.5,
+    "score": -47.9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 687.25,
+    "end": 687.25,
+    "score": 0.549
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 687.75,
+    "end": 689.0,
+    "score": 0.621,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 692.25,
+    "end": 692.25,
+    "score": 0.651
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 693.25,
+    "end": 694.25,
+    "score": 0.621,
+    "frames": 3
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 695.0,
+    "end": 697.0,
+    "score": -50.9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 697.75,
+    "end": 697.75,
+    "score": 0.619
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 698.75,
+    "end": 698.75,
+    "score": 0.478
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 701.75,
+    "end": 703.75,
+    "score": 0.621,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 705.75,
+    "end": 709.75,
+    "score": 0.591,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 713.75,
+    "end": 727.75,
+    "score": 0.591,
+    "frames": 8
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 731.75,
+    "end": 733.75,
+    "score": 0.591,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 737.75,
+    "end": 745.75,
+    "score": 0.591,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 751.5,
+    "end": 751.5,
+    "score": 0.398
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 751.75,
+    "end": 767.25,
+    "score": 0.896
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 763.25,
+    "end": 763.25,
+    "score": 0.406
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 768.75,
+    "end": 780.75,
+    "score": 0.762
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 774.75,
+    "end": 778.75,
+    "score": 0.591,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 780.75,
+    "end": 790.75,
+    "score": 0.621,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 782.75,
+    "end": 790.75,
+    "score": 0.477
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 792.75,
+    "end": 794.25,
+    "score": 0.591,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 794.25,
+    "end": 794.25,
+    "score": 0.466
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 831.5,
+    "end": 834.0,
+    "score": -58.2
+  }
+]

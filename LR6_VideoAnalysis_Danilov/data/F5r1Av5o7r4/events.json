@@ -1,0 +1,2862 @@
+[
+  {
+    "type": "chapter",
+    "label": "Почему Arch Linux это круто?",
+    "start": 0.0,
+    "end": 70.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 0.0,
+    "end": 2.6,
+    "score": 1.0,
+    "text": "Арчи это, пожалуй, один из самых популярных дисрибутивов"
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 0.0,
+    "end": 8.75,
+    "score": 0.845
+  },
+  {
+    "type": "object",
+    "label": "книга",
+    "class": "book",
+    "start": 5.0,
+    "end": 7.5,
+    "score": 0.664,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 5.25,
+    "end": 5.25,
+    "score": 0.357
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 5.36,
+    "end": 6.84,
+    "score": 1.0,
+    "text": "пишут, что они используют Арчи."
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 5.5,
+    "end": 7.5,
+    "score": 0.693,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 9.0,
+    "end": 9.0,
+    "score": 0.544
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 9.25,
+    "end": 17.5,
+    "score": 0.79,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 10.75,
+    "end": 10.75,
+    "score": 0.368
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 12.84,
+    "end": 15.28,
+    "score": 1.0,
+    "text": "Юзеры Арча настолько любят этот дисрибутив, что"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 13.25,
+    "end": 13.25,
+    "score": 0.459
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 15.25,
+    "end": 15.25,
+    "score": 0.458
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 16.5,
+    "end": 16.5,
+    "score": 0.447
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 17.5,
+    "end": 17.5,
+    "score": 0.42
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 19.25,
+    "end": 38.5,
+    "score": 0.865
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 19.25,
+    "end": 19.25,
+    "score": 0.915
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 20.28,
+    "end": 22.04,
+    "score": 1.0,
+    "text": "как установить Арчи, почему это круто и как сделал"
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 25.84,
+    "end": 28.16,
+    "score": 1.0,
+    "text": "почему именно Арчи не убунту, фидора и так далее, и чем"
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 25.84,
+    "end": 28.16,
+    "score": 1.0,
+    "text": "почему именно Арчи не убунту, фидора и так далее, и чем"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 32.5,
+    "end": 34.5,
+    "score": 0.79,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 32.5,
+    "end": 32.5,
+    "score": 0.912
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 36.0,
+    "end": 36.0,
+    "score": 0.904
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 38.5,
+    "end": 43.5,
+    "score": 0.79,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 38.5,
+    "end": 38.5,
+    "score": 0.959
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 41.25,
+    "end": 41.25,
+    "score": 0.78
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 44.25,
+    "end": 44.25,
+    "score": 0.389
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 44.5,
+    "end": 55.5,
+    "score": 0.773
+  },
+  {
+    "type": "object",
+    "label": "truck",
+    "class": "truck",
+    "start": 47.25,
+    "end": 48.25,
+    "score": 0.735,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 49.75,
+    "end": 54.5,
+    "score": 0.776,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 49.75,
+    "end": 49.75,
+    "score": 0.981
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 51.25,
+    "end": 51.25,
+    "score": 0.408
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 53.75,
+    "end": 53.75,
+    "score": 0.413
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 56.5,
+    "end": 70.0,
+    "score": 0.79,
+    "frames": 9
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 56.5,
+    "end": 61.5,
+    "score": 0.598
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 56.5,
+    "end": 56.5,
+    "score": 0.969
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 58.5,
+    "end": 58.5,
+    "score": 0.886
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 59.0,
+    "end": 61.0,
+    "score": 0.693,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 59.0,
+    "end": 61.0,
+    "score": 0.628,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 59.0,
+    "end": 61.0,
+    "score": 0.553,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 61.25,
+    "end": 61.25,
+    "score": 0.778
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 63.5,
+    "end": 70.0,
+    "score": 0.552
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 64.0,
+    "end": 64.0,
+    "score": 0.846
+  },
+  {
+    "type": "chapter",
+    "label": "Топовые фишки с пакетами в Arch Linux",
+    "start": 70.0,
+    "end": 165.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 71.0,
+    "end": 75.0,
+    "score": 0.651,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 71.0,
+    "end": 75.0,
+    "score": 0.601
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 71.0,
+    "end": 71.0,
+    "score": 0.855
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 76.0,
+    "end": 82.0,
+    "score": 0.912
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 76.0,
+    "end": 76.0,
+    "score": 0.933
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 78.75,
+    "end": 78.75,
+    "score": 0.904
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 82.25,
+    "end": 82.25,
+    "score": 0.967
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 82.5,
+    "end": 88.5,
+    "score": 0.651,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 82.5,
+    "end": 88.5,
+    "score": 0.611
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 89.5,
+    "end": 93.5,
+    "score": 0.79,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 89.5,
+    "end": 93.5,
+    "score": 0.977
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 89.5,
+    "end": 89.5,
+    "score": 0.818
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 94.25,
+    "end": 96.25,
+    "score": 0.651,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 94.25,
+    "end": 94.25,
+    "score": 0.79
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 97.5,
+    "end": 109.75,
+    "score": 0.79,
+    "frames": 10
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 97.5,
+    "end": 97.5,
+    "score": 0.763
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 99.25,
+    "end": 99.25,
+    "score": 0.386
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 101.25,
+    "end": 105.25,
+    "score": 0.425
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 109.75,
+    "end": 116.75,
+    "score": 0.408
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 111.0,
+    "end": 111.0,
+    "score": 0.804
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 113.0,
+    "end": 171.75,
+    "score": 0.79,
+    "frames": 35
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 113.75,
+    "end": 113.75,
+    "score": 0.805
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 114.75,
+    "end": 114.75,
+    "score": 0.771
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 117.0,
+    "end": 117.0,
+    "score": 0.493
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 121.25,
+    "end": 123.25,
+    "score": 0.651,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 121.25,
+    "end": 125.25,
+    "score": 0.367
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 121.25,
+    "end": 121.25,
+    "score": 0.595
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 127.25,
+    "end": 155.25,
+    "score": 0.841
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 130.75,
+    "end": 130.75,
+    "score": 0.522
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 147.84,
+    "end": 150.08,
+    "score": 1.0,
+    "text": "Более того в арчи есть также аурпакета, если могут"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 155.25,
+    "end": 155.25,
+    "score": 0.823
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 155.76,
+    "end": 157.84,
+    "score": 1.0,
+    "text": "Если мы ищем Анки арч, то видим что он есть также"
+  },
+  {
+    "type": "mention",
+    "label": "AUR",
+    "group": "пакеты",
+    "start": 157.84,
+    "end": 158.84,
+    "score": 1.0,
+    "text": "в аур."
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 158.5,
+    "end": 169.25,
+    "score": 0.522
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 158.5,
+    "end": 158.5,
+    "score": 0.837
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 162.75,
+    "end": 162.75,
+    "score": 0.513
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 164.68,
+    "end": 167.32,
+    "score": 1.0,
+    "text": "Есть жёсткий миф, что на арчи всё ломается."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 164.75,
+    "end": 164.75,
+    "score": 0.509
+  },
+  {
+    "type": "chapter",
+    "label": "Насколько стабилен Arch Linux?",
+    "start": 165.0,
+    "end": 228.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 169.56,
+    "end": 171.12,
+    "score": 1.0,
+    "text": "на арчи у вас упадёт система."
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 169.75,
+    "end": 178.5,
+    "score": 0.939
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 170.0,
+    "end": 170.0,
+    "score": 0.453
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 171.0,
+    "end": 171.0,
+    "score": 0.466
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 171.12,
+    "end": 173.12,
+    "score": 1.0,
+    "text": "Опять же я использую арчи уже больше года и мне ни"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 172.75,
+    "end": 172.75,
+    "score": 0.659
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 174.5,
+    "end": 174.5,
+    "score": 0.666
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 176.0,
+    "end": 176.0,
+    "score": 0.675
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 176.5,
+    "end": 178.0,
+    "score": 0.79,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 177.0,
+    "end": 177.0,
+    "score": 0.687
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 178.25,
+    "end": 178.25,
+    "score": 0.743
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 178.88,
+    "end": 182.2,
+    "score": 1.0,
+    "text": "гном, я ставил полное обновление, скажем раз полгода."
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 179.5,
+    "end": 184.25,
+    "score": 0.536
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 179.5,
+    "end": 179.5,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 180.0,
+    "end": 182.0,
+    "score": 0.693,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 184.44,
+    "end": 187.24,
+    "score": 1.0,
+    "text": "Qt, стили гнома, также ломалась некоторая пово."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 188.75,
+    "end": 227.75,
+    "score": 0.79,
+    "frames": 21
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 188.75,
+    "end": 221.75,
+    "score": 0.658
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 188.75,
+    "end": 188.75,
+    "score": 0.988
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 190.0,
+    "end": 192.0,
+    "score": 1.0,
+    "text": "в арчи нельзя использовать частичное обновление."
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 206.0,
+    "end": 206.5,
+    "score": -17.5
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 209.2,
+    "end": 211.76,
+    "score": 1.0,
+    "text": "появляются проблемы на том же гноме, либо же крыски,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 218.0,
+    "end": 218.0,
+    "score": 0.528
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 219.75,
+    "end": 219.75,
+    "score": 0.547
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 223.75,
+    "end": 227.75,
+    "score": 0.685
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 223.75,
+    "end": 223.75,
+    "score": 0.554
+  },
+  {
+    "type": "chapter",
+    "label": "Как запускать игры на Arch Linux?",
+    "start": 228.0,
+    "end": 313.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 229.25,
+    "end": 232.75,
+    "score": 0.776,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 229.25,
+    "end": 238.5,
+    "score": 0.794
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 229.25,
+    "end": 229.25,
+    "score": 0.989
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 231.92,
+    "end": 234.68,
+    "score": 1.0,
+    "text": "игры, а тактика-то Арч, то здесь тем более нельзя."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 233.5,
+    "end": 233.5,
+    "score": 0.445
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 235.68,
+    "end": 238.08,
+    "score": 1.0,
+    "text": "Опять же так как в Арче идут новые версии библиотек,"
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 237.0,
+    "end": 239.0,
+    "score": 0.776,
+    "frames": 3
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 238.08,
+    "end": 240.8,
+    "score": 1.0,
+    "text": "разных пакетов и так далее, то здесь самые новые драйвера,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 238.5,
+    "end": 238.5,
+    "score": 0.456
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 241.75,
+    "end": 241.75,
+    "score": 0.387
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 242.75,
+    "end": 242.75,
+    "score": 0.715
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 243.6,
+    "end": 246.64,
+    "score": 1.0,
+    "text": "Итак изначально ставим Steam, нам нужен порт протон,"
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 243.6,
+    "end": 246.64,
+    "score": 1.0,
+    "text": "Итак изначально ставим Steam, нам нужен порт протон,"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 243.75,
+    "end": 245.75,
+    "score": 0.651,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 246.75,
+    "end": 252.0,
+    "score": 0.79,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 246.75,
+    "end": 246.75,
+    "score": 0.836
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 248.0,
+    "end": 261.0,
+    "score": 0.667
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 248.0,
+    "end": 248.0,
+    "score": 0.521
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 250.5,
+    "end": 250.5,
+    "score": 0.94
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 250.52,
+    "end": 251.84,
+    "score": 1.0,
+    "text": "Итак запускаем порт протон."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 252.0,
+    "end": 252.0,
+    "score": 0.861
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 253.75,
+    "end": 253.75,
+    "score": 0.413
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 255.44,
+    "end": 256.84,
+    "score": 1.0,
+    "text": "Нажимаем на стим и ставим его."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 255.5,
+    "end": 255.5,
+    "score": 0.41
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 256.84,
+    "end": 258.44,
+    "score": 1.0,
+    "text": "Нажимаем сюда и запускаем стим."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 257.0,
+    "end": 257.0,
+    "score": 0.553
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 262.75,
+    "end": 273.75,
+    "score": 0.644
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 262.75,
+    "end": 262.75,
+    "score": 0.804
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 266.0,
+    "end": 266.0,
+    "score": 0.43
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 267.0,
+    "end": 267.0,
+    "score": 0.429
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 270.25,
+    "end": 270.25,
+    "score": 0.419
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 271.75,
+    "end": 273.75,
+    "score": 0.79,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 271.75,
+    "end": 271.75,
+    "score": 0.402
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 275.0,
+    "end": 275.0,
+    "score": 0.959
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 276.25,
+    "end": 276.25,
+    "score": 0.971
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 276.5,
+    "end": 281.0,
+    "score": 0.703
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 277.75,
+    "end": 280.5,
+    "score": 0.693,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 277.75,
+    "end": 277.75,
+    "score": 0.715
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 279.75,
+    "end": 279.75,
+    "score": 0.445
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 280.75,
+    "end": 280.75,
+    "score": 0.987
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 282.25,
+    "end": 284.25,
+    "score": 0.651,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 282.25,
+    "end": 282.25,
+    "score": 0.701
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 286.5,
+    "end": 286.5,
+    "score": 0.818
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 286.75,
+    "end": 291.75,
+    "score": 0.693,
+    "frames": 6
+  },
+  {
+    "type": "object",
+    "label": "train",
+    "class": "train",
+    "start": 286.75,
+    "end": 292.75,
+    "score": 0.755,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 288.5,
+    "end": 288.5,
+    "score": 0.518
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 289.5,
+    "end": 289.5,
+    "score": 0.512
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 290.75,
+    "end": 290.75,
+    "score": 0.477
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 291.75,
+    "end": 291.75,
+    "score": 0.362
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 294.0,
+    "end": 294.0,
+    "score": 0.4
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 295.0,
+    "end": 299.75,
+    "score": 0.563
+  },
+  {
+    "type": "object",
+    "label": "motorcycle",
+    "class": "motorcycle",
+    "start": 296.0,
+    "end": 299.25,
+    "score": 0.662,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 297.25,
+    "end": 297.25,
+    "score": 0.415
+  },
+  {
+    "type": "object",
+    "label": "truck",
+    "class": "truck",
+    "start": 297.75,
+    "end": 301.0,
+    "score": 0.735,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 299.75,
+    "end": 299.75,
+    "score": 0.408
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 301.0,
+    "end": 306.5,
+    "score": 0.718
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 301.25,
+    "end": 301.25,
+    "score": 0.905
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 302.75,
+    "end": 302.75,
+    "score": 0.899
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 303.0,
+    "end": 305.36,
+    "score": 1.0,
+    "text": "Вот так же многие люди отмещали, что именно на арче."
+  },
+  {
+    "type": "object",
+    "label": "boat",
+    "class": "boat",
+    "start": 303.0,
+    "end": 305.5,
+    "score": 0.756,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 304.5,
+    "end": 304.5,
+    "score": 0.562
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 306.5,
+    "end": 306.5,
+    "score": 0.856
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 307.75,
+    "end": 307.75,
+    "score": 0.852
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 308.75,
+    "end": 315.0,
+    "score": 0.671
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 309.25,
+    "end": 309.25,
+    "score": 0.649
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 310.5,
+    "end": 310.5,
+    "score": 0.457
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 312.0,
+    "end": 312.0,
+    "score": 0.443
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 312.25,
+    "end": 315.0,
+    "score": 0.776,
+    "frames": 4
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 312.44,
+    "end": 315.28,
+    "score": 1.0,
+    "text": "Далее то же что любят арчи так же линок с целом."
+  },
+  {
+    "type": "chapter",
+    "label": "Топовые конфиги и настройки окружения",
+    "start": 313.0,
+    "end": 428.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 313.5,
+    "end": 313.5,
+    "score": 0.409
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 315.25,
+    "end": 315.25,
+    "score": 0.979
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 315.5,
+    "end": 356.0,
+    "score": 0.79,
+    "frames": 32
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 317.75,
+    "end": 317.75,
+    "score": 0.365
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 322.0,
+    "end": 322.0,
+    "score": 0.442
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 326.75,
+    "end": 327.25,
+    "score": 0.693,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 326.75,
+    "end": 326.75,
+    "score": 0.379
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 328.5,
+    "end": 334.5,
+    "score": 0.604
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 328.5,
+    "end": 328.5,
+    "score": 0.43
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 330.0,
+    "end": 332.28,
+    "score": 1.0,
+    "text": "Это не совсем касается именно арча, но часто именно"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 336.25,
+    "end": 343.0,
+    "score": 0.597
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 336.25,
+    "end": 336.25,
+    "score": 0.45
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 337.25,
+    "end": 337.25,
+    "score": 0.427
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 339.0,
+    "end": 339.0,
+    "score": 0.409
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 344.5,
+    "end": 344.5,
+    "score": 0.405
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 347.0,
+    "end": 360.0,
+    "score": 0.649
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 348.0,
+    "end": 348.0,
+    "score": 0.894
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 360.0,
+    "end": 361.0,
+    "score": 0.651,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 360.0,
+    "end": 360.0,
+    "score": 0.875
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 362.5,
+    "end": 380.5,
+    "score": 0.876
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 362.5,
+    "end": 362.5,
+    "score": 0.964
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 370.0,
+    "end": 374.5,
+    "score": 0.79,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 380.5,
+    "end": 386.5,
+    "score": 0.79,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 380.5,
+    "end": 380.5,
+    "score": 0.961
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 382.5,
+    "end": 386.5,
+    "score": 0.457
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 388.25,
+    "end": 417.5,
+    "score": 0.833
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 388.25,
+    "end": 388.25,
+    "score": 0.959
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 390.25,
+    "end": 396.75,
+    "score": 0.693,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 390.25,
+    "end": 396.75,
+    "score": 0.79,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 419.5,
+    "end": 428.25,
+    "score": 0.79,
+    "frames": 8
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 419.5,
+    "end": 428.25,
+    "score": 0.905
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 419.5,
+    "end": 419.5,
+    "score": 0.947
+  },
+  {
+    "type": "object",
+    "label": "часы",
+    "class": "clock",
+    "start": 423.5,
+    "end": 425.5,
+    "score": 0.577,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 426.75,
+    "end": 426.75,
+    "score": 0.778
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 427.75,
+    "end": 427.75,
+    "score": 0.788
+  },
+  {
+    "type": "chapter",
+    "label": "Изучаем Arch Linux в разы быстрее",
+    "start": 428.0,
+    "end": 469.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 428.75,
+    "end": 435.25,
+    "score": 0.762
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 429.25,
+    "end": 429.25,
+    "score": 0.448
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 429.75,
+    "end": 432.75,
+    "score": 0.776,
+    "frames": 4
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 431.4,
+    "end": 433.5,
+    "score": 1.0,
+    "text": "Да я использовал тоже манжары, либо же Debian, то с Дока"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 432.25,
+    "end": 432.25,
+    "score": 0.437
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 433.5,
+    "end": 435.36,
+    "score": 1.0,
+    "text": "танцы очень плохо, особенно в Debian."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 435.25,
+    "end": 467.5,
+    "score": 0.79,
+    "frames": 21
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 435.25,
+    "end": 435.25,
+    "score": 0.982
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 442.52,
+    "end": 445.4,
+    "score": 1.0,
+    "text": "Далее берем уже Arch, здесь все идет по пунктам, есть все"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 443.75,
+    "end": 443.75,
+    "score": 0.41
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 445.0,
+    "end": 445.0,
+    "score": 0.458
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 459.5,
+    "end": 465.5,
+    "score": 0.521
+  },
+  {
+    "type": "chapter",
+    "label": "Как искать топовые приложения в Arch Linux?",
+    "start": 469.0,
+    "end": 550.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 469.0,
+    "end": 469.0,
+    "score": 0.778
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 469.16,
+    "end": 474.38,
+    "score": 1.0,
+    "text": "нам нужен пакет для Bluetooth. В итоге нажимаем 100, листаем ниже. Если у нас есть консольные варианты,"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 471.0,
+    "end": 489.5,
+    "score": 0.79,
+    "frames": 15
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 471.0,
+    "end": 471.0,
+    "score": 0.761
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 471.75,
+    "end": 476.25,
+    "score": 0.443
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 472.0,
+    "end": 472.0,
+    "score": 0.362
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 474.38,
+    "end": 481.88,
+    "score": 1.0,
+    "text": "Например, я использую эти два, которые позволяют управлять те всеми с консоли, потом внедрять все это в полибар и нажимаю на иконку и получаю такое меню."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 476.25,
+    "end": 476.25,
+    "score": 0.887
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 480.0,
+    "end": 485.5,
+    "score": 0.693
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 485.25,
+    "end": 485.25,
+    "score": 0.888
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 490.0,
+    "end": 490.0,
+    "score": 0.784
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 494.5,
+    "end": 564.5,
+    "score": 0.79,
+    "frames": 41
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 494.5,
+    "end": 494.5,
+    "score": 0.759
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 496.25,
+    "end": 496.25,
+    "score": 0.734
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 498.0,
+    "end": 498.0,
+    "score": 0.741
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 499.75,
+    "end": 499.75,
+    "score": 0.883
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 505.84,
+    "end": 508.18,
+    "score": 1.0,
+    "text": "софт, консольный и также графический."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 510.0,
+    "end": 510.0,
+    "score": 0.869
+  },
+  {
+    "type": "mention",
+    "label": "pacman",
+    "group": "пакеты",
+    "start": 510.04,
+    "end": 512.72,
+    "score": 1.0,
+    "text": "И потом ставите это либо через AUR, либо через Pacman."
+  },
+  {
+    "type": "mention",
+    "label": "AUR",
+    "group": "пакеты",
+    "start": 510.04,
+    "end": 512.72,
+    "score": 1.0,
+    "text": "И потом ставите это либо через AUR, либо через Pacman."
+  },
+  {
+    "type": "object",
+    "label": "пульт",
+    "class": "remote",
+    "start": 510.75,
+    "end": 511.25,
+    "score": 0.738,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "AUR",
+    "group": "пакеты",
+    "start": 512.72,
+    "end": 515.28,
+    "score": 1.0,
+    "text": "Если написано AUR, то ставим через я либо же пару."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 512.75,
+    "end": 512.75,
+    "score": 0.687
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 514.5,
+    "end": 514.5,
+    "score": 0.864
+  },
+  {
+    "type": "mention",
+    "label": "pacman",
+    "group": "пакеты",
+    "start": 515.28,
+    "end": 517.48,
+    "score": 1.0,
+    "text": "Другой софт можно поставить из Pacman."
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 525.25,
+    "end": 532.0,
+    "score": 0.528
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 527.0,
+    "end": 529.0,
+    "score": 1.0,
+    "text": "это на Windows, потому что якобы нет софта."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 529.0,
+    "end": 529.0,
+    "score": 0.685
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 532.0,
+    "end": 532.0,
+    "score": 0.672
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 533.25,
+    "end": 535.25,
+    "score": 0.693,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 533.25,
+    "end": 533.25,
+    "score": 0.677
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 534.5,
+    "end": 534.5,
+    "score": 0.588
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 536.0,
+    "end": 536.0,
+    "score": 0.713
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 538.0,
+    "end": 538.0,
+    "score": 0.899
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 538.5,
+    "end": 540.5,
+    "score": 0.693,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 538.5,
+    "end": 540.5,
+    "score": 0.628,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 538.5,
+    "end": 540.5,
+    "score": 0.553,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 541.0,
+    "end": 549.0,
+    "score": 0.452
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 541.0,
+    "end": 541.0,
+    "score": 0.78
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 549.44,
+    "end": 552.16,
+    "score": 1.0,
+    "text": "На том же манжара или убунта часто бывает подобное,"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 549.5,
+    "end": 555.0,
+    "score": 0.624
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 549.5,
+    "end": 549.5,
+    "score": 0.89
+  },
+  {
+    "type": "chapter",
+    "label": "Как Arch Linux спасает от багов?",
+    "start": 550.0,
+    "end": 567.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 552.16,
+    "end": 554.44,
+    "score": 1.0,
+    "text": "когда ставит тоже виртуалбокс, однако на Arch все намного"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 555.0,
+    "end": 555.0,
+    "score": 0.774
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 555.44,
+    "end": 557.98,
+    "score": 1.0,
+    "text": "Взбежу виртуалбокс арч, нажимаю Enter, потом нажимаю"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 556.5,
+    "end": 556.5,
+    "score": 0.763
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 558.5,
+    "end": 564.5,
+    "score": 0.687
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 558.5,
+    "end": 558.5,
+    "score": 0.88
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 566.25,
+    "end": 566.25,
+    "score": 0.378
+  },
+  {
+    "type": "chapter",
+    "label": "Много красивых окружений в Arch Linux",
+    "start": 567.0,
+    "end": 627.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 567.64,
+    "end": 570.4,
+    "score": 1.0,
+    "text": "Следующая очень крутая фишка арча, это разные DEM, проще"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 567.75,
+    "end": 600.25,
+    "score": 0.79,
+    "frames": 22
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 567.75,
+    "end": 567.75,
+    "score": 0.473
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 571.25,
+    "end": 577.25,
+    "score": 0.736
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 571.4,
+    "end": 573.6,
+    "score": 1.0,
+    "text": "Если в Ubuntu вам дают на выбор несколько окружений,"
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 573.6,
+    "end": 575.84,
+    "score": 1.0,
+    "text": "также манжара и в том же Linux Mint, то в Archi вы можете"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 579.25,
+    "end": 579.25,
+    "score": 0.733
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 580.0,
+    "end": 583.0,
+    "score": 0.651,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 582.36,
+    "end": 589.72,
+    "score": 1.0,
+    "text": "Вы можете выбрать нужные вам, например тот же KDE, не просто тона настройка, для большего минимализма можно выбрать те огном, а для еще большего какой-то таллинг."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 582.5,
+    "end": 582.5,
+    "score": 0.71
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 583.75,
+    "end": 589.75,
+    "score": 0.518
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 583.75,
+    "end": 583.75,
+    "score": 0.692
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 586.0,
+    "end": 586.0,
+    "score": 0.81
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 589.75,
+    "end": 589.75,
+    "score": 0.865
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 592.5,
+    "end": 592.5,
+    "score": 0.781
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 593.75,
+    "end": 593.75,
+    "score": 0.888
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 595.5,
+    "end": 600.25,
+    "score": 0.533
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 595.5,
+    "end": 595.5,
+    "score": 0.882
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 597.25,
+    "end": 597.25,
+    "score": 0.881
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 598.25,
+    "end": 598.25,
+    "score": 0.539
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 600.25,
+    "end": 600.25,
+    "score": 0.635
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 602.25,
+    "end": 602.25,
+    "score": 0.437
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 604.25,
+    "end": 604.25,
+    "score": 0.522
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 604.75,
+    "end": 626.5,
+    "score": 0.804
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 607.0,
+    "end": 607.0,
+    "score": 0.38
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 607.5,
+    "end": 610.5,
+    "score": 0.651,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 609.25,
+    "end": 609.25,
+    "score": 0.659
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 610.5,
+    "end": 610.5,
+    "score": 0.792
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 612.25,
+    "end": 612.25,
+    "score": 0.476
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 622.5,
+    "end": 622.5,
+    "score": 0.689
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 624.0,
+    "end": 624.0,
+    "score": 0.781
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 625.5,
+    "end": 625.5,
+    "score": 0.743
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 626.5,
+    "end": 626.5,
+    "score": 0.365
+  },
+  {
+    "type": "chapter",
+    "label": "Драйвера на видеокарту ставятся из коробки",
+    "start": 627.0,
+    "end": 685.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 628.1,
+    "end": 629.46,
+    "score": 1.0,
+    "text": "Следующий миф касается драйверов."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 628.25,
+    "end": 658.25,
+    "score": 0.79,
+    "frames": 20
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 628.25,
+    "end": 658.25,
+    "score": 0.622
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 628.25,
+    "end": 628.25,
+    "score": 0.886
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 629.5,
+    "end": 630.0,
+    "score": -17.9
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 631.06,
+    "end": 632.06,
+    "score": 1.0,
+    "text": "драйвера."
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 632.06,
+    "end": 634.26,
+    "score": 1.0,
+    "text": "Однако если вы используете AMD, то по сути собирая арч,"
+  },
+  {
+    "type": "mention",
+    "label": "AMD",
+    "group": "железо",
+    "start": 632.06,
+    "end": 634.26,
+    "score": 1.0,
+    "text": "Однако если вы используете AMD, то по сути собирая арч,"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 634.26,
+    "end": 636.18,
+    "score": 1.0,
+    "text": "все драйвера ставятся по default из ведра."
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 640.94,
+    "end": 645.9,
+    "score": 1.0,
+    "text": "и у вас все работает. На Nvidia тоже есть целый список, однако с Nvidia проблемы. Если скажем,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 642.25,
+    "end": 642.25,
+    "score": 0.363
+  },
+  {
+    "type": "mention",
+    "label": "AMD",
+    "group": "железо",
+    "start": 654.62,
+    "end": 660.5,
+    "score": 1.0,
+    "text": "Linux, то берите AMD. Это AMD Proz и AMD Vidiac, и проблем будет ноль. Я использовал около 3-4"
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 659.25,
+    "end": 663.75,
+    "score": 0.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 659.25,
+    "end": 659.25,
+    "score": 0.984
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 660.5,
+    "end": 665.06,
+    "score": 1.0,
+    "text": "лет Linux на Nvidia, честно говоря, работать можно, но будут некоторые проблемы. Во-первых,"
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 660.75,
+    "end": 663.75,
+    "score": 0.776,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 664.75,
+    "end": 672.75,
+    "score": 0.79,
+    "frames": 5
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 664.75,
+    "end": 672.75,
+    "score": 0.73
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 664.75,
+    "end": 664.75,
+    "score": 0.966
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 665.06,
+    "end": 669.86,
+    "score": 1.0,
+    "text": "здесь полно разных драйверов, очень тяжело понять, что где, часто оно может положить вам X"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 673.5,
+    "end": 673.5,
+    "score": 0.827
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 676.0,
+    "end": 680.0,
+    "score": 0.639
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 676.0,
+    "end": 676.0,
+    "score": 0.869
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 676.02,
+    "end": 677.94,
+    "score": 1.0,
+    "text": "Это работает даже в разлуше, чем на Windows."
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 680.26,
+    "end": 682.5,
+    "score": 1.0,
+    "text": "ставилось, в сети драйвера на видеоху и так далее."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 680.75,
+    "end": 680.75,
+    "score": 0.542
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 682.0,
+    "end": 684.0,
+    "score": 0.776,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 682.0,
+    "end": 682.0,
+    "score": 0.409
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 682.5,
+    "end": 684.26,
+    "score": 1.0,
+    "text": "На Arch я поставил это в разы быстрее."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 684.25,
+    "end": 684.25,
+    "score": 0.964
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 684.26,
+    "end": 686.74,
+    "score": 1.0,
+    "text": "Также крутая фишка Arch, это драйвера по default."
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 684.26,
+    "end": 686.74,
+    "score": 1.0,
+    "text": "Также крутая фишка Arch, это драйвера по default."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 684.5,
+    "end": 698.5,
+    "score": 0.79,
+    "frames": 8
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 684.5,
+    "end": 700.5,
+    "score": 0.589
+  },
+  {
+    "type": "chapter",
+    "label": "Драйвера на оборудование по дефолту",
+    "start": 685.0,
+    "end": 752.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 694.46,
+    "end": 696.3,
+    "score": 1.0,
+    "text": "Обычно такое у меня было на Debian, там даже мне не"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 696.3,
+    "end": 698.86,
+    "score": 1.0,
+    "text": "работало в Wi-Fi, нужно было оставить драйвера."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 700.5,
+    "end": 700.5,
+    "score": 0.93
+  },
+  {
+    "type": "object",
+    "label": "собака",
+    "class": "dog",
+    "start": 701.5,
+    "end": 702.75,
+    "score": 0.625,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 701.5,
+    "end": 701.5,
+    "score": 0.354
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 706.75,
+    "end": 715.0,
+    "score": 0.676
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 708.75,
+    "end": 708.75,
+    "score": 0.354
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 709.75,
+    "end": 710.75,
+    "score": 0.776,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 713.5,
+    "end": 713.5,
+    "score": 0.979
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 717.25,
+    "end": 721.25,
+    "score": 0.693,
+    "frames": 5
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 719.75,
+    "end": 731.75,
+    "score": 0.808
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 720.25,
+    "end": 720.25,
+    "score": 0.469
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 721.14,
+    "end": 723.64,
+    "score": 1.0,
+    "text": "Нарщи все работает по дефолту, и по факту никакие драйвера"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 721.75,
+    "end": 721.75,
+    "score": 0.389
+  },
+  {
+    "type": "mention",
+    "label": "AMD",
+    "group": "железо",
+    "start": 723.64,
+    "end": 726.66,
+    "score": 1.0,
+    "text": "кроме AMD ставить не нужно, и то даже AMD ставить не нужно"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 725.75,
+    "end": 725.75,
+    "score": 0.39
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 730.7,
+    "end": 732.1,
+    "score": 1.0,
+    "text": "ставил драйвера еще раз."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 730.75,
+    "end": 730.75,
+    "score": 0.496
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 731.75,
+    "end": 731.75,
+    "score": 0.922
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 732.25,
+    "end": 751.25,
+    "score": 0.929
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 749.75,
+    "end": 749.75,
+    "score": 0.415
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 750.75,
+    "end": 751.25,
+    "score": 0.79,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 750.75,
+    "end": 750.75,
+    "score": 0.479
+  }
+]

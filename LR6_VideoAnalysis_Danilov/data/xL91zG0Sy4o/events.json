@@ -1,0 +1,961 @@
+[
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 0.0,
+    "end": 8.16,
+    "score": 1.0,
+    "text": "Обзор Linux Mint 22.3. Это на самом деле мой любимый Linux. Я постоянно пользуюсь и у меня используется гораздо старее версия и я хочу сказать что"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 0.0,
+    "end": 27.73,
+    "score": 0.681,
+    "frames": 14
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 0.0,
+    "end": 27.73,
+    "score": 0.69,
+    "frames": 14
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 8.4,
+    "end": 16.88,
+    "score": 1.0,
+    "text": "с каждого версии Linux Mint становится гораздо лучше. Это Linux Mint подойдет для людей, которые только начинают вникать в Linux, что такое, так далее."
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 25.6,
+    "end": 29.52,
+    "score": 1.0,
+    "text": "Вот из-за того, что я ненавижу, мне венда очень нравится. Ну и Linux Mint в том числе."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 29.87,
+    "end": 29.87,
+    "score": 0.451
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 33.33,
+    "end": 33.33,
+    "score": 0.495
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 36.8,
+    "end": 36.8,
+    "score": 0.465
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 37.87,
+    "end": 37.87,
+    "score": 0.453
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 39.73,
+    "end": 39.73,
+    "score": 0.549
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 44.53,
+    "end": 50.67,
+    "score": 0.452
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 51.73,
+    "end": 53.87,
+    "score": 0.69,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 51.73,
+    "end": 58.13,
+    "score": 0.448
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 51.73,
+    "end": 51.73,
+    "score": 0.356
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 60.27,
+    "end": 64.53,
+    "score": 0.69,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 66.67,
+    "end": 122.4,
+    "score": 0.511
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 70.93,
+    "end": 88.0,
+    "score": 0.681,
+    "frames": 9
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 90.13,
+    "end": 98.67,
+    "score": 0.69,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 100.8,
+    "end": 102.93,
+    "score": 0.681,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 101.98,
+    "end": 109.02,
+    "score": 1.0,
+    "text": "есть там Arch Linux и еще что-то. Все эти разные Linux, но с точки зрения функциональности,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 117.6,
+    "end": 117.6,
+    "score": 0.439
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 122.4,
+    "end": 125.07,
+    "score": 0.69,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 127.2,
+    "end": 131.47,
+    "score": 0.503
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 129.33,
+    "end": 135.73,
+    "score": 0.681,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 137.87,
+    "end": 167.2,
+    "score": 0.69,
+    "frames": 15
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 137.87,
+    "end": 146.4,
+    "score": 0.459
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 149.82,
+    "end": 155.06,
+    "score": 1.0,
+    "text": "Ну смотрите, вот у нас так выглядит Linux Mint, обычное меню, все как полагается,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 150.13,
+    "end": 150.13,
+    "score": 0.466
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 154.4,
+    "end": 165.07,
+    "score": 0.59
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 156.5,
+    "end": 157.0,
+    "score": -17.0
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 167.73,
+    "end": 313.07,
+    "score": 0.673
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 176.27,
+    "end": 176.27,
+    "score": 0.367
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 199.47,
+    "end": 199.47,
+    "score": 0.441
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 209.07,
+    "end": 236.8,
+    "score": 0.69,
+    "frames": 14
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 209.94,
+    "end": 215.3,
+    "score": 1.0,
+    "text": "linux mint это хороший менеджер драйверов он действительно неплохой поставил все как"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 209.94,
+    "end": 215.3,
+    "score": 1.0,
+    "text": "linux mint это хороший менеджер драйверов он действительно неплохой поставил все как"
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 215.3,
+    "end": 222.46,
+    "score": 1.0,
+    "text": "как полагается. Вот у меня видно, что Nvidia driver 470, то есть на GT 710. Но суть в том, что"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 215.3,
+    "end": 222.46,
+    "score": 1.0,
+    "text": "как полагается. Вот у меня видно, что Nvidia driver 470, то есть на GT 710. Но суть в том, что"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 229.46,
+    "end": 236.46,
+    "score": 1.0,
+    "text": "комп, попробовал поставить и драйвера не ставится, не хочет. Думаю, ну попробую я свой способ. Беру"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 257.1,
+    "end": 262.98,
+    "score": 1.0,
+    "text": "линуксе старое ядро на старом ядре установите драйвера потом перезапустился"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 268.8,
+    "end": 275.2,
+    "score": 0.69,
+    "frames": 4
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 277.66,
+    "end": 281.06,
+    "score": 1.0,
+    "text": "меня выскакивает ошибка. Что такая-то ошибка драйвера?"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 279.47,
+    "end": 285.87,
+    "score": 0.69,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 289.33,
+    "end": 289.33,
+    "score": 0.941
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 290.5,
+    "end": 291.0,
+    "score": -16.8
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 294.58,
+    "end": 298.26,
+    "score": 1.0,
+    "text": "учитывая, что установлены все обновления, драйвера,"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 313.6,
+    "end": 391.73,
+    "score": 0.69,
+    "frames": 38
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 313.6,
+    "end": 392.53,
+    "score": 0.521
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 313.6,
+    "end": 313.6,
+    "score": 0.581
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 319.66,
+    "end": 321.46,
+    "score": 1.0,
+    "text": "KDE, кстати, жрет 2 чем-то."
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 321.5,
+    "end": 322.0,
+    "score": -16.0
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 350.0,
+    "end": 350.5,
+    "score": -16.7
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 375.0,
+    "end": 375.5,
+    "score": -17.3
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 392.53,
+    "end": 438.13,
+    "score": 0.681,
+    "frames": 23
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 392.53,
+    "end": 392.53,
+    "score": 0.543
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 393.33,
+    "end": 556.53,
+    "score": 0.704
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 398.0,
+    "end": 400.0,
+    "score": -57.3
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 401.5,
+    "end": 402.0,
+    "score": -16.5
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 403.0,
+    "end": 404.5,
+    "score": -14.7
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 407.0,
+    "end": 408.0,
+    "score": -13.6
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 412.53,
+    "end": 423.2,
+    "score": 0.69,
+    "frames": 6
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 424.5,
+    "end": 425.0,
+    "score": -14.8
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 428.5,
+    "end": 429.0,
+    "score": -15.4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 440.0,
+    "end": 440.0,
+    "score": 0.661
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 453.0,
+    "end": 453.5,
+    "score": -15.1
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 455.47,
+    "end": 457.6,
+    "score": 0.69,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 471.47,
+    "end": 516.27,
+    "score": 0.69,
+    "frames": 22
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 477.84,
+    "end": 480.08,
+    "score": 1.0,
+    "text": "Ну как на Винде, тем больше установил, тем больше хламы"
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 486.76,
+    "end": 489.2,
+    "score": 1.0,
+    "text": "То есть та же проблема, что из Винды все равно осталось."
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 509.5,
+    "end": 510.0,
+    "score": -16.9
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 534.0,
+    "end": 534.5,
+    "score": -17.8
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 538.13,
+    "end": 542.4,
+    "score": 0.69,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 552.27,
+    "end": 552.27,
+    "score": 0.39
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 553.87,
+    "end": 556.0,
+    "score": 0.69,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 556.53,
+    "end": 569.33,
+    "score": 0.681,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 556.53,
+    "end": 556.53,
+    "score": 0.659
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 564.0,
+    "end": 565.0,
+    "score": -17.5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 569.87,
+    "end": 569.87,
+    "score": 0.69
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 572.5,
+    "end": 573.0,
+    "score": -17.1
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 573.6,
+    "end": 575.73,
+    "score": 0.681,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 573.6,
+    "end": 573.6,
+    "score": 0.678
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 580.0,
+    "end": 633.33,
+    "score": 0.681,
+    "frames": 26
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 580.0,
+    "end": 588.53,
+    "score": 0.583
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 590.67,
+    "end": 603.47,
+    "score": 0.553
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 597.07,
+    "end": 603.47,
+    "score": 0.69,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 605.6,
+    "end": 614.13,
+    "score": 0.491
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 613.5,
+    "end": 614.0,
+    "score": -17.3
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 613.88,
+    "end": 617.3,
+    "score": 1.0,
+    "text": "оптимизирован, да, в отличие от вины. То есть винды на виндеся"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 635.47,
+    "end": 710.67,
+    "score": 0.69,
+    "frames": 39
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 636.53,
+    "end": 675.47,
+    "score": 0.603
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 636.53,
+    "end": 636.53,
+    "score": 0.67
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 685.07,
+    "end": 695.73,
+    "score": 0.502
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 686.9,
+    "end": 693.32,
+    "score": 1.0,
+    "text": "Nvidia слабовато поддерживает Linux, то есть именно драйвера у них слабоватые, так же"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 686.9,
+    "end": 693.32,
+    "score": 1.0,
+    "text": "Nvidia слабовато поддерживает Linux, то есть именно драйвера у них слабоватые, так же"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 710.93,
+    "end": 710.93,
+    "score": 0.433
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 711.2,
+    "end": 744.27,
+    "score": 0.853
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 711.24,
+    "end": 716.32,
+    "score": 1.0,
+    "text": "что ну, Nvidia, ну давайте уже нормальные свежие драйвера,"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 711.24,
+    "end": 716.32,
+    "score": 1.0,
+    "text": "что ну, Nvidia, ну давайте уже нормальные свежие драйвера,"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 720.8,
+    "end": 742.13,
+    "score": 0.69,
+    "frames": 11
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 721.4,
+    "end": 724.82,
+    "score": 1.0,
+    "text": "не будет как винда, максимально просто, понятно, сдохла"
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 734.0,
+    "end": 735.0,
+    "score": -15.7
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 736.0,
+    "end": 736.5,
+    "score": -13.2
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 737.5,
+    "end": 738.0,
+    "score": -17.3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 744.53,
+    "end": 744.53,
+    "score": 0.83
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 747.73,
+    "end": 747.73,
+    "score": 0.358
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 748.27,
+    "end": 884.53,
+    "score": 0.84
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 752.53,
+    "end": 777.33,
+    "score": 0.69,
+    "frames": 13
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 757.5,
+    "end": 758.0,
+    "score": -16.4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 770.4,
+    "end": 770.4,
+    "score": 0.368
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 781.6,
+    "end": 788.0,
+    "score": 0.69,
+    "frames": 4
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 785.5,
+    "end": 786.0,
+    "score": -17.4
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 792.27,
+    "end": 794.4,
+    "score": 0.69,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 793.87,
+    "end": 793.87,
+    "score": 0.359
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 826.78,
+    "end": 830.66,
+    "score": 1.0,
+    "text": "проблемы, когда вы с винды переходите на линукс. То"
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 839.06,
+    "end": 843.3,
+    "score": 1.0,
+    "text": "Популярный Linux это он считается RedOS, как ни странно в организациях."
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 847.34,
+    "end": 850.94,
+    "score": 1.0,
+    "text": "Также в других организациях скорее всего будет RedOS."
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 850.94,
+    "end": 854.26,
+    "score": 1.0,
+    "text": "RedOS у нас на KDE основан, здесь Cynomon."
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 850.94,
+    "end": 854.26,
+    "score": 1.0,
+    "text": "RedOS у нас на KDE основан, здесь Cynomon."
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 860.5,
+    "end": 861.0,
+    "score": -17.5
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 863.0,
+    "end": 863.5,
+    "score": -16.6
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 874.5,
+    "end": 875.0,
+    "score": -17.0
+  }
+]

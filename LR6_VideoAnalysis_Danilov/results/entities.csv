@@ -1,0 +1,94 @@
+﻿distro;entity;group;count
+Ubuntu;Ubuntu;дистрибутив;15
+Ubuntu;Windows;дистрибутив;10
+Ubuntu;Драйверы;программы;7
+Ubuntu;NVIDIA;железо;4
+Ubuntu;Snap;пакеты;1
+Ubuntu;Fedora;дистрибутив;1
+Ubuntu;SteamOS;дистрибутив;1
+Ubuntu;Steam;программы;1
+Ubuntu;Proton/Wine;программы;1
+Linux Mint;Драйверы;программы;8
+Linux Mint;Linux Mint;дистрибутив;6
+Linux Mint;Windows;дистрибутив;6
+Linux Mint;NVIDIA;железо;3
+Linux Mint;РЕД ОС;дистрибутив;3
+Linux Mint;KDE Plasma;окружение;2
+Linux Mint;Arch Linux;дистрибутив;1
+Debian;Debian;дистрибутив;57
+Debian;Ubuntu;дистрибутив;11
+Debian;Steam;программы;8
+Debian;Драйверы;программы;5
+Debian;Proton/Wine;программы;5
+Debian;SteamOS;дистрибутив;4
+Debian;Linux Mint;дистрибутив;4
+Debian;NVIDIA;железо;3
+Debian;Arch Linux;дистрибутив;3
+Debian;apt;пакеты;2
+Debian;Kali Linux;дистрибутив;2
+Debian;Windows;дистрибутив;2
+Debian;AMD;железо;2
+Debian;Intel;железо;1
+Fedora;Fedora;дистрибутив;10
+Fedora;GNOME;окружение;5
+Fedora;KDE Plasma;окружение;3
+Fedora;Cinnamon;окружение;1
+Fedora;macOS;дистрибутив;1
+Fedora;Терминал;программы;1
+Fedora;dnf;пакеты;1
+Fedora;Windows;дистрибутив;1
+Arch Linux;Arch Linux;дистрибутив;23
+Arch Linux;Драйверы;программы;10
+Arch Linux;AMD;железо;6
+Arch Linux;Ubuntu;дистрибутив;3
+Arch Linux;AUR;пакеты;3
+Arch Linux;GNOME;окружение;3
+Arch Linux;Steam;программы;3
+Arch Linux;Debian;дистрибутив;3
+Arch Linux;Терминал;программы;3
+Arch Linux;NVIDIA;железо;3
+Arch Linux;Proton/Wine;программы;2
+Arch Linux;pacman;пакеты;2
+Arch Linux;Windows;дистрибутив;2
+Arch Linux;Linux Mint;дистрибутив;1
+Arch Linux;KDE Plasma;окружение;1
+Kali Linux;Kali Linux;дистрибутив;14
+Kali Linux;GNOME;окружение;4
+Kali Linux;Debian;дистрибутив;2
+Kali Linux;KDE Plasma;окружение;2
+Kali Linux;Windows;дистрибутив;2
+Kali Linux;Cinnamon;окружение;1
+Kali Linux;Терминал;программы;1
+Astra Linux;Astra Linux;дистрибутив;6
+Astra Linux;Windows;дистрибутив;3
+Astra Linux;Debian;дистрибутив;3
+Astra Linux;Fly;окружение;2
+Astra Linux;SteamOS;дистрибутив;1
+Astra Linux;Драйверы;программы;1
+Astra Linux;NVIDIA;железо;1
+Astra Linux;AMD;железо;1
+РЕД ОС;РЕД ОС;дистрибутив;8
+РЕД ОС;Драйверы;программы;4
+РЕД ОС;Arch Linux;дистрибутив;2
+РЕД ОС;KDE Plasma;окружение;2
+РЕД ОС;Snap;пакеты;1
+CachyOS;KDE Plasma;окружение;9
+CachyOS;Драйверы;программы;6
+CachyOS;Steam;программы;6
+CachyOS;Windows;дистрибутив;4
+CachyOS;Proton/Wine;программы;4
+CachyOS;NVIDIA;железо;3
+CachyOS;Терминал;программы;3
+CachyOS;GNOME;окружение;2
+CachyOS;AMD;железо;1
+CachyOS;Intel;железо;1
+CachyOS;Ubuntu;дистрибутив;1
+CachyOS;Linux Mint;дистрибутив;1
+CachyOS;pacman;пакеты;1
+CachyOS;Snap;пакеты;1
+Bazzite;NVIDIA;железо;8
+Bazzite;KDE Plasma;окружение;3
+Bazzite;Steam;программы;3
+Bazzite;Терминал;программы;1
+Bazzite;Proton/Wine;программы;1
+Bazzite;GNOME;окружение;1

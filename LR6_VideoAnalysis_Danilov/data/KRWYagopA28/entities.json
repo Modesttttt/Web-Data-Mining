@@ -1,0 +1,30 @@
+{
+  "Kali Linux": {
+    "count": 14,
+    "group": "дистрибутив"
+  },
+  "GNOME": {
+    "count": 4,
+    "group": "окружение"
+  },
+  "Debian": {
+    "count": 2,
+    "group": "дистрибутив"
+  },
+  "KDE Plasma": {
+    "count": 2,
+    "group": "окружение"
+  },
+  "Windows": {
+    "count": 2,
+    "group": "дистрибутив"
+  },
+  "Cinnamon": {
+    "count": 1,
+    "group": "окружение"
+  },
+  "Терминал": {
+    "count": 1,
+    "group": "программы"
+  }
+}

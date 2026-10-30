@@ -1,0 +1,81 @@
+{
+  "id": "78q4EFM-QlM",
+  "title": "Нашел идеальный Линукс! CachyOS: Оптимизированный Arch для Всех! Мнение и Опыт",
+  "uploader": "Werstey",
+  "channel": "Werstey",
+  "upload_date": "20250720",
+  "duration": 888,
+  "view_count": 135616,
+  "like_count": 2982,
+  "comment_count": 820,
+  "tags": [
+    "Werstey",
+    "Технологии",
+    "Техно",
+    "ПК",
+    "компьютер",
+    "CachyOS",
+    "CachyOS обзор",
+    "CachyOS review",
+    "Arch Linux",
+    "Arch Linux 2025",
+    "Linux дистрибутивы",
+    "Linux для новичков",
+    "лучший Linux",
+    "Arch для новичков",
+    "Linux обзор",
+    "KDE Plasma",
+    "XFCE",
+    "GNOME",
+    "установка CachyOS",
+    "быстрый Linux",
+    "Linux для ПК",
+    "Linux гейминг",
+    "Linux производительность",
+    "open source",
+    "лучший Arch дистрибутив"
+  ],
+  "categories": [
+    "Science & Technology"
+  ],
+  "description": "В этом видео я делаю обзор дистрибутива CachyOS — Arch-ориентированной системы, разработанной с упором на производительность и оптимизацию под современные ПК. Я покажу установку, пользовательский интерфейс, особенности DE (KDE Plasma), предустановленные программы, менеджер пакетов.\n\nЕсли ты ищешь стабильный, быстрый и кастомизируемый Linux-дистрибутив — это видео для тебя!\n\n⏱️ Что ты увидишь в этом обзоре:\n • Процесс установки CachyOS\n • Первый запуск и настройка\n • Интерфейс и рабочее окружение\n • Менеджер пакетов и обновления\n • Мой личный опыт использования\n\n🔔 Не забудь подписаться на канал и поставить лайк, если видео было полезным!\n-----------------------\nСсылки:\nCachyOS - https://cachyos.org/download/\nUbuntu Budgie - https://youtu.be/_Yy7a6cvcLo?si=OyXbxTdAeCak7IhS\nVentoy - https://www.youtube.com/watch?v=KDIBqXb-DtQ\nМой ТГ - https://t.me/Werstey\nPortProton - https://youtu.be/Hr6Bx6yJDC4?si=kkzqwYNoGZta3lK0\nДругие ОС - https://www.youtube.com/playlist?list=PLq3vJHmbUmH1c8j7SyXlIVc9lGeOroiaH\n\n-----------------------\nТайм-коды:\n00:00 - Загрузка CachyOS\n00:55 - Установка CachyOS\n02:14 - Установка рядом с Windows \n05:40 - Первое включение и обзор\n08:02 - Всё готово  \n12:00 - Почему CachyOS\n-----------------------",
+  "chapters": [
+    {
+      "start_time": 0,
+      "title": "Загрузка CachyOS",
+      "end_time": 55
+    },
+    {
+      "start_time": 55,
+      "title": "Установка CachyOS",
+      "end_time": 134
+    },
+    {
+      "start_time": 134,
+      "title": "Установка рядом с Windows",
+      "end_time": 340
+    },
+    {
+      "start_time": 340,
+      "title": "Первое включение и обзор",
+      "end_time": 482
+    },
+    {
+      "start_time": 482,
+      "title": "Всё готово",
+      "end_time": 720
+    },
+    {
+      "start_time": 720,
+      "title": "Почему CachyOS",
+      "end_time": 888
+    }
+  ],
+  "webpage_url": "https://www.youtube.com/watch?v=78q4EFM-QlM",
+  "width": 1280,
+  "height": 720,
+  "fps": 60,
+  "language": "ru",
+  "distro": "CachyOS",
+  "source": "https://www.youtube.com/watch?v=78q4EFM-QlM"
+}

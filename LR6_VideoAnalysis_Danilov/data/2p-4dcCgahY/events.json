@@ -1,0 +1,3859 @@
+[
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 0.0,
+    "end": 7.92,
+    "score": 1.0,
+    "text": "Debian Linux – это один из старейших, самых известных и наиболее уважаемых"
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 0.0,
+    "end": 27.0,
+    "score": 0.786,
+    "frames": 20
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 3.25,
+    "end": 16.75,
+    "score": 0.896
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 13.72,
+    "end": 19.6,
+    "score": 1.0,
+    "text": "Debian стал фундаментом для сотен других операционных систем и оказал огромное"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 18.75,
+    "end": 18.75,
+    "score": 0.605
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 20.75,
+    "end": 20.75,
+    "score": 0.397
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 24.5,
+    "end": 24.5,
+    "score": 0.447
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 27.25,
+    "end": 27.25,
+    "score": 0.605
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 27.5,
+    "end": 40.5,
+    "score": 0.758,
+    "frames": 15
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 30.5,
+    "end": 37.75,
+    "score": 0.786,
+    "frames": 8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 30.5,
+    "end": 30.5,
+    "score": 0.666
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 31.82,
+    "end": 38.5,
+    "score": 1.0,
+    "text": "именно благодаря Debian или созданным на его основе системам. Главная особенность Debian"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 33.0,
+    "end": 33.0,
+    "score": 0.681
+  },
+  {
+    "type": "object",
+    "label": "кошка",
+    "class": "cat",
+    "start": 34.0,
+    "end": 35.25,
+    "score": 0.581,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 35.5,
+    "end": 35.5,
+    "score": 0.678
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 37.75,
+    "end": 37.75,
+    "score": 0.662
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 41.0,
+    "end": 41.0,
+    "score": 0.794
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 42.5,
+    "end": 44.5,
+    "score": 0.78,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 42.5,
+    "end": 42.5,
+    "score": 0.874
+  },
+  {
+    "type": "object",
+    "label": "пульт",
+    "class": "remote",
+    "start": 45.5,
+    "end": 46.25,
+    "score": 0.646,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 45.5,
+    "end": 45.5,
+    "score": 0.876
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 46.25,
+    "end": 47.25,
+    "score": 0.703,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 47.5,
+    "end": 47.5,
+    "score": 0.945
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 47.75,
+    "end": 51.75,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 50.84,
+    "end": 57.12,
+    "score": 1.0,
+    "text": "добровольцев со всего мира. Именно благодаря этому, Debian считается одним из самых качественных"
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 52.75,
+    "end": 56.25,
+    "score": 0.703,
+    "frames": 8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 52.75,
+    "end": 52.75,
+    "score": 0.96
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 55.75,
+    "end": 55.75,
+    "score": 0.392
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 56.75,
+    "end": 60.75,
+    "score": 0.758,
+    "frames": 8
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 57.12,
+    "end": 64.8,
+    "score": 1.0,
+    "text": "проектов в истории программного обеспечения. История Debian начинается в 1993 году,"
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 57.25,
+    "end": 75.25,
+    "score": 0.786,
+    "frames": 21
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 59.5,
+    "end": 59.5,
+    "score": 0.351
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 60.25,
+    "end": 61.25,
+    "score": 0.78,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 61.75,
+    "end": 61.75,
+    "score": 0.75
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 66.5,
+    "end": 66.5,
+    "score": 0.351
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 69.5,
+    "end": 70.0,
+    "score": -17.8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 70.75,
+    "end": 70.75,
+    "score": 0.774
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 76.0,
+    "end": 80.0,
+    "score": 0.694
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 76.0,
+    "end": 76.0,
+    "score": 0.844
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 80.5,
+    "end": 98.5,
+    "score": 0.78,
+    "frames": 11
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 80.5,
+    "end": 88.5,
+    "score": 0.646
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 80.5,
+    "end": 80.5,
+    "score": 0.535
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 89.5,
+    "end": 102.25,
+    "score": 0.789
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 94.0,
+    "end": 102.25,
+    "score": 0.786,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 94.0,
+    "end": 94.0,
+    "score": 0.38
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 98.5,
+    "end": 106.75,
+    "score": 0.704,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 98.5,
+    "end": 98.5,
+    "score": 0.377
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 103.0,
+    "end": 103.0,
+    "score": 0.825
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 104.5,
+    "end": 106.75,
+    "score": 0.703,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 107.75,
+    "end": 112.5,
+    "score": 0.78,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 107.75,
+    "end": 113.0,
+    "score": 0.47
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 107.75,
+    "end": 107.75,
+    "score": 0.778
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 112.5,
+    "end": 113.0,
+    "score": 0.786,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 112.5,
+    "end": 112.5,
+    "score": 0.389
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 113.5,
+    "end": 117.5,
+    "score": 0.866
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 113.5,
+    "end": 113.5,
+    "score": 0.725
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 114.5,
+    "end": 117.5,
+    "score": 0.704,
+    "frames": 3
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 117.08,
+    "end": 121.4,
+    "score": 1.0,
+    "text": "Дебиан также имеет интересную историю. Она образована"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 118.25,
+    "end": 122.5,
+    "score": 0.78,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 118.25,
+    "end": 118.25,
+    "score": 0.751
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 122.5,
+    "end": 135.0,
+    "score": 0.596
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 123.0,
+    "end": 135.0,
+    "score": 0.758,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 123.0,
+    "end": 123.0,
+    "score": 0.351
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 124.24,
+    "end": 130.28,
+    "score": 1.0,
+    "text": "Дебры и собственного имени Яна. Получилось слово Дебиан,"
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 135.0,
+    "end": 137.0,
+    "score": -47.3
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 135.48,
+    "end": 142.44,
+    "score": 1.0,
+    "text": "Первые версии Debian были достаточно простыми и сильно отличались"
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 135.75,
+    "end": 140.25,
+    "score": 0.703,
+    "frames": 9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 135.75,
+    "end": 135.75,
+    "score": 0.654
+  },
+  {
+    "type": "object",
+    "label": "книга",
+    "class": "book",
+    "start": 137.75,
+    "end": 138.25,
+    "score": 0.608,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 140.5,
+    "end": 140.5,
+    "score": 0.882
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 140.75,
+    "end": 144.75,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 140.75,
+    "end": 144.75,
+    "score": 0.606
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 145.25,
+    "end": 145.25,
+    "score": 0.883
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 145.75,
+    "end": 165.25,
+    "score": 0.646
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 164.75,
+    "end": 164.75,
+    "score": 0.876
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 165.4,
+    "end": 168.78,
+    "score": 1.0,
+    "text": "Еще одной особенностью Debian стала отсутствия зависимости"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 165.75,
+    "end": 169.75,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 165.75,
+    "end": 171.25,
+    "score": 0.57
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 171.25,
+    "end": 171.25,
+    "score": 0.534
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 176.5,
+    "end": 176.5,
+    "score": 0.481
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 177.0,
+    "end": 183.0,
+    "score": 0.494
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 177.4,
+    "end": 183.0,
+    "score": 1.0,
+    "text": "А Debian принадлежит не компании, а своему сообществу разработчиков."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 183.0,
+    "end": 183.0,
+    "score": 0.585
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 184.0,
+    "end": 193.0,
+    "score": 0.786,
+    "frames": 6
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 184.0,
+    "end": 187.25,
+    "score": 0.758,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 184.0,
+    "end": 187.25,
+    "score": 0.704,
+    "frames": 3
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 187.0,
+    "end": 189.5,
+    "score": -49.0
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 187.32,
+    "end": 193.9,
+    "score": 1.0,
+    "text": "Разработка Debian координируется организацией Software and Public Interest,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 190.75,
+    "end": 190.75,
+    "score": 0.914
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 192.5,
+    "end": 198.25,
+    "score": 0.704,
+    "frames": 5
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 192.5,
+    "end": 198.25,
+    "score": 0.722
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 192.5,
+    "end": 192.5,
+    "score": 0.559
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 200.25,
+    "end": 204.25,
+    "score": 0.646
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 200.25,
+    "end": 200.25,
+    "score": 0.423
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 201.75,
+    "end": 204.25,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 206.0,
+    "end": 210.0,
+    "score": 0.786,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 206.0,
+    "end": 206.0,
+    "score": 0.814
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 210.5,
+    "end": 210.5,
+    "score": 0.823
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 211.0,
+    "end": 217.5,
+    "score": 0.704,
+    "frames": 6
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 215.82,
+    "end": 222.9,
+    "score": 1.0,
+    "text": "Одной из причин высокой репутации Debian является чрезвычайно строгий контроль качества."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 218.25,
+    "end": 218.25,
+    "score": 0.482
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 224.75,
+    "end": 224.75,
+    "score": 0.408
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 228.75,
+    "end": 228.75,
+    "score": 0.865
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 229.0,
+    "end": 243.0,
+    "score": 0.786,
+    "frames": 8
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 229.0,
+    "end": 251.5,
+    "score": 0.704,
+    "frames": 13
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 229.0,
+    "end": 239.0,
+    "score": 0.444
+  },
+  {
+    "type": "mention",
+    "label": "SteamOS",
+    "group": "дистрибутив",
+    "start": 234.34,
+    "end": 239.5,
+    "score": 1.0,
+    "text": "а в ходе которого исправляются обнаруженные ошибки, проверяются совместимость с другими"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 243.25,
+    "end": 243.25,
+    "score": 0.856
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 243.5,
+    "end": 253.5,
+    "score": 0.758,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 243.5,
+    "end": 247.5,
+    "score": 0.403
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 243.5,
+    "end": 245.5,
+    "score": -47.4
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 245.5,
+    "end": 246.0,
+    "score": -16.5
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 246.74,
+    "end": 251.66,
+    "score": 1.0,
+    "text": "Debian получил репутацию одной из самых стабильных операционных систем в мире."
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 255.5,
+    "end": 281.0,
+    "score": 0.649
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 259.5,
+    "end": 267.0,
+    "score": 0.704,
+    "frames": 5
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 261.42,
+    "end": 268.98,
+    "score": 1.0,
+    "text": "Во многих крупных организациях серверы на Debian работают непрерывно с сотни дней без"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 267.0,
+    "end": 267.0,
+    "score": 0.734
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 279.98,
+    "end": 284.5,
+    "score": 1.0,
+    "text": "Для обеспечения такого качества в Debian используются несколько"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 282.25,
+    "end": 286.25,
+    "score": 0.704,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 282.25,
+    "end": 286.25,
+    "score": 0.626
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 286.5,
+    "end": 286.5,
+    "score": 0.847
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 286.75,
+    "end": 292.25,
+    "score": 0.78,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 287.5,
+    "end": 287.5,
+    "score": 0.389
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 287.75,
+    "end": 306.5,
+    "score": 0.786,
+    "frames": 23
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 288.5,
+    "end": 288.5,
+    "score": 0.386
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 289.0,
+    "end": 289.5,
+    "score": -17.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 289.5,
+    "end": 289.5,
+    "score": 0.446
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 289.75,
+    "end": 290.25,
+    "score": 0.703,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 290.5,
+    "end": 290.5,
+    "score": 0.403
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 291.5,
+    "end": 291.5,
+    "score": 0.389
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 292.5,
+    "end": 292.5,
+    "score": 0.806
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 292.75,
+    "end": 298.25,
+    "score": 0.704,
+    "frames": 7
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 300.5,
+    "end": 307.0,
+    "score": 0.78,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 301.0,
+    "end": 301.0,
+    "score": 0.804
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 302.25,
+    "end": 302.25,
+    "score": 0.353
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 303.25,
+    "end": 303.25,
+    "score": 0.371
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 304.25,
+    "end": 304.25,
+    "score": 0.391
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 306.0,
+    "end": 306.0,
+    "score": 0.39
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 306.5,
+    "end": 314.25,
+    "score": 0.704,
+    "frames": 9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 307.0,
+    "end": 307.0,
+    "score": 0.36
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 307.5,
+    "end": 314.25,
+    "score": 0.758,
+    "frames": 8
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 307.5,
+    "end": 314.25,
+    "score": 0.737,
+    "frames": 8
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 308.75,
+    "end": 312.75,
+    "score": 0.358
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 313.5,
+    "end": 313.5,
+    "score": 0.455
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 315.75,
+    "end": 315.75,
+    "score": 0.68
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 319.0,
+    "end": 326.75,
+    "score": 0.413
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 319.0,
+    "end": 319.0,
+    "score": 0.576
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 321.04,
+    "end": 322.54,
+    "score": 1.0,
+    "text": "Debian."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 326.75,
+    "end": 326.75,
+    "score": 0.603
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 332.75,
+    "end": 344.25,
+    "score": 0.786,
+    "frames": 7
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 334.54,
+    "end": 342.54,
+    "score": 1.0,
+    "text": "Такой процесс разработки может показаться медленным, однако именно он обеспечивает знаменитую надежность Debian."
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 336.25,
+    "end": 344.25,
+    "score": 0.704,
+    "frames": 5
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 336.25,
+    "end": 347.0,
+    "score": 0.603
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 336.25,
+    "end": 336.25,
+    "score": 0.624
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 342.5,
+    "end": 344.5,
+    "score": -49.3
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 342.54,
+    "end": 349.62,
+    "score": 1.0,
+    "text": "Одной из важнейших технологий Debian является пакетная система управления программами."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 345.0,
+    "end": 345.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 349.62,
+    "end": 355.9,
+    "score": 1.0,
+    "text": "В качестве формата пакетов используется Debian пакеты. Каждый пакет содержит программу,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 351.75,
+    "end": 351.75,
+    "score": 0.701
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 352.25,
+    "end": 371.75,
+    "score": 0.912
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 363.42,
+    "end": 370.66,
+    "score": 1.0,
+    "text": "пакетный менеджер APT. Именно благодаря ему Debian считается одной из самых удобных систем для"
+  },
+  {
+    "type": "mention",
+    "label": "apt",
+    "group": "пакеты",
+    "start": 363.42,
+    "end": 370.66,
+    "score": 1.0,
+    "text": "пакетный менеджер APT. Именно благодаря ему Debian считается одной из самых удобных систем для"
+  },
+  {
+    "type": "mention",
+    "label": "apt",
+    "group": "пакеты",
+    "start": 370.66,
+    "end": 375.82,
+    "score": 1.0,
+    "text": "установки программ. Когда пользователь устанавливает новую программу APT,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 371.25,
+    "end": 371.25,
+    "score": 0.365
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 371.75,
+    "end": 377.5,
+    "score": 0.786,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 377.25,
+    "end": 377.25,
+    "score": 0.572
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 378.0,
+    "end": 448.75,
+    "score": 0.78,
+    "frames": 62
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 378.0,
+    "end": 382.0,
+    "score": 0.399
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 386.25,
+    "end": 386.25,
+    "score": 0.984
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 389.0,
+    "end": 421.75,
+    "score": 0.786,
+    "frames": 34
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 389.0,
+    "end": 389.0,
+    "score": 0.951
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 390.5,
+    "end": 390.5,
+    "score": 0.351
+  },
+  {
+    "type": "object",
+    "label": "scissors",
+    "class": "scissors",
+    "start": 393.0,
+    "end": 394.5,
+    "score": 0.649,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 393.75,
+    "end": 393.75,
+    "score": 0.374
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 395.25,
+    "end": 395.25,
+    "score": 0.409
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 395.5,
+    "end": 422.75,
+    "score": 0.769
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 403.1,
+    "end": 409.5,
+    "score": 1.0,
+    "text": "запускается из-за отсутствия какой-либо библиотеки. Еще одним преимуществом Debian"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 403.75,
+    "end": 403.75,
+    "score": 0.381
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 420.5,
+    "end": 420.5,
+    "score": 0.421
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 424.75,
+    "end": 432.5,
+    "score": 0.524
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 427.75,
+    "end": 428.75,
+    "score": 0.786,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 430.5,
+    "end": 430.5,
+    "score": 0.381
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 436.38,
+    "end": 443.26,
+    "score": 1.0,
+    "text": "проверку разработчиками Debian, что значительно снижает риск установки вредоносного программного"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 442.25,
+    "end": 446.25,
+    "score": 0.704,
+    "frames": 5
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 442.25,
+    "end": 462.25,
+    "score": 0.629
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 442.25,
+    "end": 442.25,
+    "score": 0.657
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 443.25,
+    "end": 443.25,
+    "score": 0.377
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 448.0,
+    "end": 448.5,
+    "score": -17.7
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 450.94,
+    "end": 454.06,
+    "score": 1.0,
+    "text": "невероятной популярности Debian среди разработчиков"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 453.0,
+    "end": 453.5,
+    "score": 0.78,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 453.0,
+    "end": 456.0,
+    "score": 0.704,
+    "frames": 4
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 459.42,
+    "end": 462.1,
+    "score": 1.0,
+    "text": "построено именно на Debian."
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 462.1,
+    "end": 465.22,
+    "score": 1.0,
+    "text": "Наиболее известной является Ubuntu."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 465.0,
+    "end": 479.0,
+    "score": 0.78,
+    "frames": 9
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 465.0,
+    "end": 470.0,
+    "score": 0.525
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 465.22,
+    "end": 469.26,
+    "score": 1.0,
+    "text": "Компания Canonical взяла Debian за основу и создала систему,"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 473.0,
+    "end": 491.0,
+    "score": 0.523
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 476.82,
+    "end": 482.1,
+    "score": 1.0,
+    "text": "Ubuntu по-прежнему поступает именно из Debian."
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 476.82,
+    "end": 482.1,
+    "score": 1.0,
+    "text": "Ubuntu по-прежнему поступает именно из Debian."
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 482.1,
+    "end": 488.98,
+    "score": 1.0,
+    "text": "На основе Ubuntu впоследствии появились Linux Mint, POP OS, Elementary OS, Zorin OS,"
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 482.1,
+    "end": 488.98,
+    "score": 1.0,
+    "text": "На основе Ubuntu впоследствии появились Linux Mint, POP OS, Elementary OS, Zorin OS,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 482.25,
+    "end": 482.25,
+    "score": 0.391
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 483.25,
+    "end": 483.25,
+    "score": 0.472
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 487.0,
+    "end": 489.0,
+    "score": 0.704,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 488.98,
+    "end": 495.66,
+    "score": 1.0,
+    "text": "Kubuntu, Xubuntu, Lubuntu, Ubuntu Mat, и многие другие проекты."
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 495.66,
+    "end": 500.7,
+    "score": 1.0,
+    "text": "Некоторые разработчики решили создавать системы непосредственно на Debian, не используя"
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 499.0,
+    "end": 504.75,
+    "score": 0.587
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 499.75,
+    "end": 499.75,
+    "score": 0.354
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 500.7,
+    "end": 503.22,
+    "score": 1.0,
+    "text": "убунту в качестве промежуточной базы."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 505.0,
+    "end": 505.0,
+    "score": 0.481
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 505.25,
+    "end": 511.75,
+    "score": 0.592
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 512.25,
+    "end": 526.25,
+    "score": 0.493
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 512.25,
+    "end": 512.25,
+    "score": 0.4
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 518.62,
+    "end": 520.82,
+    "score": 1.0,
+    "text": "Особое место занимает Kali Linux."
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 528.25,
+    "end": 544.75,
+    "score": 0.786,
+    "frames": 10
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 528.25,
+    "end": 532.25,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 528.25,
+    "end": 538.0,
+    "score": 0.704,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 528.25,
+    "end": 539.25,
+    "score": 0.559
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 528.25,
+    "end": 528.25,
+    "score": 0.918
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 535.66,
+    "end": 542.72,
+    "score": 1.0,
+    "text": "фундаментом Kali остается именно Debian. Еще одним популярным проектом является"
+  },
+  {
+    "type": "mention",
+    "label": "Kali Linux",
+    "group": "дистрибутив",
+    "start": 535.66,
+    "end": 542.72,
+    "score": 1.0,
+    "text": "фундаментом Kali остается именно Debian. Еще одним популярным проектом является"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 536.0,
+    "end": 538.0,
+    "score": 0.78,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "галстук",
+    "class": "tie",
+    "start": 541.0,
+    "end": 544.75,
+    "score": 0.705,
+    "frames": 3
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 542.72,
+    "end": 550.18,
+    "score": 1.0,
+    "text": "Pirate OS. Он также используется специалистами по кибербезопасности и основан также на Debian."
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 545.5,
+    "end": 552.0,
+    "score": 0.395
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 545.5,
+    "end": 545.5,
+    "score": 0.902
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 551.75,
+    "end": 551.75,
+    "score": 0.925
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 552.0,
+    "end": 556.0,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 552.0,
+    "end": 560.0,
+    "score": 0.859,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 554.0,
+    "end": 564.0,
+    "score": 0.704,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 554.0,
+    "end": 558.0,
+    "score": 0.495
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 557.9,
+    "end": 564.94,
+    "score": 1.0,
+    "text": "iOS, которая также построена на Debian и специально оптимизирована для архитектуры ARM."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 560.0,
+    "end": 564.0,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 564.75,
+    "end": 571.0,
+    "score": 0.786,
+    "frames": 7
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 564.75,
+    "end": 568.75,
+    "score": 0.432
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 564.75,
+    "end": 564.75,
+    "score": 0.846
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 564.94,
+    "end": 573.34,
+    "score": 1.0,
+    "text": "Причина такой популярности Debian очень проста. Разработчики получают готовую надежную тщатель"
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 571.5,
+    "end": 588.5,
+    "score": 0.571
+  },
+  {
+    "type": "object",
+    "label": "refrigerator",
+    "class": "refrigerator",
+    "start": 572.5,
+    "end": 587.75,
+    "score": 0.712,
+    "frames": 14
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 576.25,
+    "end": 576.25,
+    "score": 0.506
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 577.5,
+    "end": 577.5,
+    "score": 0.622
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 587.75,
+    "end": 594.0,
+    "score": 0.786,
+    "frames": 10
+  },
+  {
+    "type": "object",
+    "label": "refrigerator",
+    "class": "refrigerator",
+    "start": 594.5,
+    "end": 600.0,
+    "score": 0.712,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 594.5,
+    "end": 600.0,
+    "score": 0.658
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 594.72,
+    "end": 597.96,
+    "score": 1.0,
+    "text": "Debian."
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 595.5,
+    "end": 597.5,
+    "score": -50.2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 601.75,
+    "end": 622.0,
+    "score": 0.78,
+    "frames": 23
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 601.75,
+    "end": 601.75,
+    "score": 0.897
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 606.25,
+    "end": 606.25,
+    "score": 0.36
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 609.25,
+    "end": 609.25,
+    "score": 0.754
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 612.75,
+    "end": 617.25,
+    "score": 0.565
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 612.84,
+    "end": 615.84,
+    "score": 1.0,
+    "text": "Debian практически не содержит встроенной телеметрии."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 617.25,
+    "end": 617.25,
+    "score": 0.656
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 617.75,
+    "end": 628.0,
+    "score": 0.581
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 625.75,
+    "end": 629.25,
+    "score": 0.78,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 626.0,
+    "end": 626.0,
+    "score": 0.391
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 628.0,
+    "end": 630.5,
+    "score": -48.5
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 629.25,
+    "end": 638.75,
+    "score": 0.786,
+    "frames": 11
+  },
+  {
+    "type": "object",
+    "label": "refrigerator",
+    "class": "refrigerator",
+    "start": 629.25,
+    "end": 630.0,
+    "score": 0.712,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 629.25,
+    "end": 629.25,
+    "score": 0.73
+  },
+  {
+    "type": "object",
+    "label": "refrigerator",
+    "class": "refrigerator",
+    "start": 639.25,
+    "end": 646.75,
+    "score": 0.712,
+    "frames": 9
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 641.84,
+    "end": 643.96,
+    "score": 1.0,
+    "text": "а не от самой операционной системы Debian."
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 643.96,
+    "end": 650.08,
+    "score": 1.0,
+    "text": "По умолчанию, Linux Debian максимально уважает конфиденциальность пользователя."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 647.75,
+    "end": 657.25,
+    "score": 0.78,
+    "frames": 11
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 647.75,
+    "end": 647.75,
+    "score": 0.63
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 649.25,
+    "end": 657.25,
+    "score": 0.786,
+    "frames": 12
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 649.75,
+    "end": 657.25,
+    "score": 0.674
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 650.75,
+    "end": 650.75,
+    "score": 0.357
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 652.0,
+    "end": 652.5,
+    "score": -17.7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 655.5,
+    "end": 655.5,
+    "score": 0.415
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 659.0,
+    "end": 663.0,
+    "score": 0.703,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 659.0,
+    "end": 663.0,
+    "score": 0.593
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 659.0,
+    "end": 659.0,
+    "score": 0.804
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 661.48,
+    "end": 668.2,
+    "score": 1.0,
+    "text": "приобрести дополнительные услуги или подписки. Это одна из важных отличий Debian"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 665.0,
+    "end": 667.75,
+    "score": 0.78,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 667.75,
+    "end": 685.75,
+    "score": 0.64
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 670.84,
+    "end": 675.56,
+    "score": 1.0,
+    "text": "Исходный код практически всех компонентов Debian является открытым."
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 673.5,
+    "end": 675.5,
+    "score": 0.703,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 685.75,
+    "end": 691.75,
+    "score": 0.704,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 685.75,
+    "end": 685.75,
+    "score": 0.944
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 686.88,
+    "end": 693.76,
+    "score": 1.0,
+    "text": "С точки зрения безопасности Debian также занимает очень высокие позиции."
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 687.75,
+    "end": 700.25,
+    "score": 0.618
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 692.0,
+    "end": 692.0,
+    "score": 0.85
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 692.25,
+    "end": 704.25,
+    "score": 0.786,
+    "frames": 7
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 692.25,
+    "end": 704.25,
+    "score": 0.737,
+    "frames": 7
+  },
+  {
+    "type": "object",
+    "label": "suitcase",
+    "class": "suitcase",
+    "start": 692.25,
+    "end": 704.25,
+    "score": 0.762,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 705.25,
+    "end": 705.25,
+    "score": 0.901
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 705.75,
+    "end": 711.5,
+    "score": 0.527
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 706.25,
+    "end": 706.25,
+    "score": 0.525
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 707.25,
+    "end": 707.25,
+    "score": 0.359
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 708.75,
+    "end": 708.75,
+    "score": 0.509
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 709.75,
+    "end": 709.75,
+    "score": 0.501
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 711.5,
+    "end": 711.5,
+    "score": 0.407
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 712.5,
+    "end": 712.5,
+    "score": 0.385
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 713.5,
+    "end": 713.5,
+    "score": 0.614
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 714.5,
+    "end": 714.5,
+    "score": 0.532
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 715.25,
+    "end": 731.0,
+    "score": 0.746
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 722.2,
+    "end": 730.72,
+    "score": 1.0,
+    "text": "Debian как Linux на вечкам. Несколько лет назад ответ был неоднозначным, но больше всего как нет,"
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 730.72,
+    "end": 737.52,
+    "score": 1.0,
+    "text": "потому что старые версии Debian действительно требовали значительно большего опыта работы с Linux."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 731.0,
+    "end": 731.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 731.5,
+    "end": 751.0,
+    "score": 0.786,
+    "frames": 29
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 731.5,
+    "end": 741.5,
+    "score": 0.704,
+    "frames": 19
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 734.25,
+    "end": 734.25,
+    "score": 0.534
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 735.25,
+    "end": 739.25,
+    "score": 0.735
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 736.75,
+    "end": 736.75,
+    "score": 0.541
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 738.5,
+    "end": 738.5,
+    "score": 0.625
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 743.25,
+    "end": 744.0,
+    "score": 0.78,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "пульт",
+    "class": "remote",
+    "start": 743.25,
+    "end": 744.75,
+    "score": 0.646,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 743.25,
+    "end": 748.5,
+    "score": 0.703,
+    "frames": 7
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 743.25,
+    "end": 748.5,
+    "score": 0.859,
+    "frames": 9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 743.25,
+    "end": 743.25,
+    "score": 0.897
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 743.68,
+    "end": 748.96,
+    "score": 1.0,
+    "text": "устанавливать дополнительные драйверы. А вот современные версии Debian стали"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 743.68,
+    "end": 748.96,
+    "score": 1.0,
+    "text": "устанавливать дополнительные драйверы. А вот современные версии Debian стали"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 749.25,
+    "end": 749.25,
+    "score": 0.981
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 751.0,
+    "end": 764.0,
+    "score": 0.704,
+    "frames": 8
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 754.5,
+    "end": 755.0,
+    "score": -17.8
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 756.0,
+    "end": 782.25,
+    "score": 0.786,
+    "frames": 17
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 756.0,
+    "end": 764.0,
+    "score": 0.737,
+    "frames": 5
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 756.0,
+    "end": 764.0,
+    "score": 0.655
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 756.0,
+    "end": 756.0,
+    "score": 1.0
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 762.36,
+    "end": 768.48,
+    "score": 1.0,
+    "text": "Debian по-прежнему ориентирован на пользователей, которые хотят понимать, как работает их компьютер."
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 764.5,
+    "end": 768.5,
+    "score": 0.703,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 764.5,
+    "end": 768.5,
+    "score": 0.859,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 764.5,
+    "end": 769.0,
+    "score": 0.454
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 764.5,
+    "end": 764.5,
+    "score": 0.729
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 768.48,
+    "end": 775.64,
+    "score": 1.0,
+    "text": "Здесь меньше автоматизации, чем, например, в Ubuntu или в Linux Mint, если вы ищете идеальный"
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 768.48,
+    "end": 775.64,
+    "score": 1.0,
+    "text": "Здесь меньше автоматизации, чем, например, в Ubuntu или в Linux Mint, если вы ищете идеальный"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 768.75,
+    "end": 768.75,
+    "score": 0.747
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 770.0,
+    "end": 770.5,
+    "score": -17.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 778.5,
+    "end": 778.5,
+    "score": 0.805
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 781.25,
+    "end": 781.25,
+    "score": 0.767
+  },
+  {
+    "type": "object",
+    "label": "книга",
+    "class": "book",
+    "start": 781.75,
+    "end": 784.0,
+    "score": 0.608,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 785.5,
+    "end": 788.0,
+    "score": 0.786,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 785.5,
+    "end": 788.0,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 785.5,
+    "end": 788.0,
+    "score": 0.703,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 785.5,
+    "end": 812.25,
+    "score": 0.859,
+    "frames": 17
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 785.5,
+    "end": 785.5,
+    "score": 0.772
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 785.68,
+    "end": 792.92,
+    "score": 1.0,
+    "text": "что Windows можно условно оценить примерно в три балла. Linux Mint около четырех, Ubuntu около"
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 785.68,
+    "end": 792.92,
+    "score": 1.0,
+    "text": "что Windows можно условно оценить примерно в три балла. Linux Mint около четырех, Ubuntu около"
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 785.68,
+    "end": 792.92,
+    "score": 1.0,
+    "text": "что Windows можно условно оценить примерно в три балла. Linux Mint около четырех, Ubuntu около"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 788.0,
+    "end": 788.0,
+    "score": 0.586
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 788.5,
+    "end": 813.0,
+    "score": 0.826
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 792.92,
+    "end": 800.36,
+    "score": 1.0,
+    "text": "пяти, а вот Debian примерно в шесть баллов или даже семь. Debian не является сложной системой,"
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 808.5,
+    "end": 814.36,
+    "score": 1.0,
+    "text": "многие опытные пользователи считают Debian отличной системой для постепенного изучения Linux."
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 813.0,
+    "end": 820.25,
+    "score": 0.786,
+    "frames": 11
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 813.0,
+    "end": 813.0,
+    "score": 0.72
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 814.75,
+    "end": 820.25,
+    "score": 0.492
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 821.16,
+    "end": 830.0,
+    "score": 1.0,
+    "text": "системы. А что насчет игр на Debian? Если вам нужен честный ответ, то он такой. Debian не лучший"
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 821.75,
+    "end": 823.75,
+    "score": 0.859,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 821.75,
+    "end": 821.75,
+    "score": 0.77
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 824.75,
+    "end": 824.75,
+    "score": 0.966
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 827.25,
+    "end": 830.75,
+    "score": 0.78,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 827.25,
+    "end": 840.5,
+    "score": 0.737,
+    "frames": 12
+  },
+  {
+    "type": "object",
+    "label": "мышь",
+    "class": "mouse",
+    "start": 828.0,
+    "end": 829.25,
+    "score": 0.689,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 828.0,
+    "end": 836.5,
+    "score": 0.704,
+    "frames": 10
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 835.0,
+    "end": 836.5,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 841.75,
+    "end": 851.75,
+    "score": 0.539
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 841.75,
+    "end": 841.75,
+    "score": 0.777
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 843.75,
+    "end": 891.5,
+    "score": 0.786,
+    "frames": 39
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 845.75,
+    "end": 847.75,
+    "score": 0.758,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "мышь",
+    "class": "mouse",
+    "start": 849.75,
+    "end": 851.75,
+    "score": 0.689,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "бутылка",
+    "class": "bottle",
+    "start": 849.75,
+    "end": 866.5,
+    "score": 0.738,
+    "frames": 10
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 853.0,
+    "end": 857.52,
+    "score": 1.0,
+    "text": "То есть играть можно, но Дебиан никогда не был ориентирован"
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 856.5,
+    "end": 874.5,
+    "score": 0.446
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 857.52,
+    "end": 863.0,
+    "score": 1.0,
+    "text": "на геймеров. Почему? Главная причина философия Debian. Разработчики Debian предпочитают"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 866.5,
+    "end": 868.5,
+    "score": 0.78,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 869.68,
+    "end": 875.44,
+    "score": 1.0,
+    "text": "плюс, но для игр иногда становится минусом. Современные игры часто требуют новые драйвера"
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 873.75,
+    "end": 875.25,
+    "score": 0.758,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 875.25,
+    "end": 901.75,
+    "score": 0.712
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 875.25,
+    "end": 875.25,
+    "score": 0.769
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 875.44,
+    "end": 882.56,
+    "score": 1.0,
+    "text": "Nvidia, новые версии Mesa, для AMD и Intel. Свежий протон, новые версии Vulkan, новые библиотеки,"
+  },
+  {
+    "type": "mention",
+    "label": "AMD",
+    "group": "железо",
+    "start": 875.44,
+    "end": 882.56,
+    "score": 1.0,
+    "text": "Nvidia, новые версии Mesa, для AMD и Intel. Свежий протон, новые версии Vulkan, новые библиотеки,"
+  },
+  {
+    "type": "mention",
+    "label": "Intel",
+    "group": "железо",
+    "start": 875.44,
+    "end": 882.56,
+    "score": 1.0,
+    "text": "Nvidia, новые версии Mesa, для AMD и Intel. Свежий протон, новые версии Vulkan, новые библиотеки,"
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 875.44,
+    "end": 882.56,
+    "score": 1.0,
+    "text": "Nvidia, новые версии Mesa, для AMD и Intel. Свежий протон, новые версии Vulkan, новые библиотеки,"
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 878.25,
+    "end": 912.0,
+    "score": 0.704,
+    "frames": 23
+  },
+  {
+    "type": "object",
+    "label": "мышь",
+    "class": "mouse",
+    "start": 879.75,
+    "end": 882.75,
+    "score": 0.689,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 879.75,
+    "end": 879.75,
+    "score": 0.354
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 882.56,
+    "end": 889.0,
+    "score": 1.0,
+    "text": "а Debian Stable иногда использует версии, которым уже несколько месяцев или даже больше года."
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 882.75,
+    "end": 887.25,
+    "score": 0.758,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 883.5,
+    "end": 883.5,
+    "score": 0.358
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 885.0,
+    "end": 885.0,
+    "score": 0.942
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 885.25,
+    "end": 912.0,
+    "score": 0.737,
+    "frames": 19
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 889.0,
+    "end": 895.64,
+    "score": 1.0,
+    "text": "Steam работает, да, Steam устанавливается без проблем, после установки можно играть во"
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 890.5,
+    "end": 905.5,
+    "score": 0.758,
+    "frames": 11
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 892.75,
+    "end": 892.75,
+    "score": 0.481
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 895.64,
+    "end": 902.88,
+    "score": 1.0,
+    "text": "многие игры. Proton также работает и большинство игр Steam можно запускать через Proton безболезненно."
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 895.64,
+    "end": 902.88,
+    "score": 1.0,
+    "text": "многие игры. Proton также работает и большинство игр Steam можно запускать через Proton безболезненно."
+  },
+  {
+    "type": "object",
+    "label": "мышь",
+    "class": "mouse",
+    "start": 897.75,
+    "end": 902.75,
+    "score": 0.689,
+    "frames": 5
+  },
+  {
+    "type": "mention",
+    "label": "SteamOS",
+    "group": "дистрибутив",
+    "start": 902.88,
+    "end": 910.12,
+    "score": 1.0,
+    "text": "Steam Deck нет. Это распространенное заблуждение. Steam Deck работает на SteamOS,"
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 902.88,
+    "end": 910.12,
+    "score": 1.0,
+    "text": "Steam Deck нет. Это распространенное заблуждение. Steam Deck работает на SteamOS,"
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 903.5,
+    "end": 907.5,
+    "score": 0.41
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 903.5,
+    "end": 903.5,
+    "score": 0.362
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 909.5,
+    "end": 916.5,
+    "score": 0.758,
+    "frames": 5
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 910.12,
+    "end": 917.4,
+    "score": 1.0,
+    "text": "а SteamOS основана на Arch Linux, а не на Debian. Компания Valve выбрала Arch именно потому,"
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 910.12,
+    "end": 917.4,
+    "score": 1.0,
+    "text": "а SteamOS основана на Arch Linux, а не на Debian. Компания Valve выбрала Arch именно потому,"
+  },
+  {
+    "type": "mention",
+    "label": "SteamOS",
+    "group": "дистрибутив",
+    "start": 910.12,
+    "end": 917.4,
+    "score": 1.0,
+    "text": "а SteamOS основана на Arch Linux, а не на Debian. Компания Valve выбрала Arch именно потому,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 912.0,
+    "end": 912.0,
+    "score": 0.426
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 912.5,
+    "end": 939.0,
+    "score": 0.786,
+    "frames": 31
+  },
+  {
+    "type": "object",
+    "label": "мышь",
+    "class": "mouse",
+    "start": 912.5,
+    "end": 916.5,
+    "score": 0.689,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 912.5,
+    "end": 916.5,
+    "score": 0.53
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 917.4,
+    "end": 924.08,
+    "score": 1.0,
+    "text": "что там всегда самые свежие драйвера и компоненты. Игры, которые обычно работают из"
+  },
+  {
+    "type": "object",
+    "label": "бутылка",
+    "class": "bottle",
+    "start": 918.0,
+    "end": 926.0,
+    "score": 0.738,
+    "frames": 14
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 918.0,
+    "end": 918.0,
+    "score": 0.834
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 924.08,
+    "end": 930.88,
+    "score": 1.0,
+    "text": "коробки после установки Steam это Dota 2, Contrast Strike, Team Fortress 2, Left 4, Portal и многие другие."
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 927.5,
+    "end": 928.75,
+    "score": 0.703,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 927.5,
+    "end": 935.0,
+    "score": 0.678
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 930.88,
+    "end": 938.76,
+    "score": 1.0,
+    "text": "Также огромное количество игр Windows запускается через протон. Если у вас видеокарта Nvidia,"
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 930.88,
+    "end": 938.76,
+    "score": 1.0,
+    "text": "Также огромное количество игр Windows запускается через протон. Если у вас видеокарта Nvidia,"
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 930.88,
+    "end": 938.76,
+    "score": 1.0,
+    "text": "Также огромное количество игр Windows запускается через протон. Если у вас видеокарта Nvidia,"
+  },
+  {
+    "type": "object",
+    "label": "бутылка",
+    "class": "bottle",
+    "start": 935.0,
+    "end": 939.0,
+    "score": 0.738,
+    "frames": 5
+  },
+  {
+    "type": "mention",
+    "label": "NVIDIA",
+    "group": "железо",
+    "start": 938.76,
+    "end": 945.72,
+    "score": 1.0,
+    "text": "то чаще всего понадобится установить фирменный драйвер Nvidia. После этого большинство игр работают"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 938.76,
+    "end": 945.72,
+    "score": 1.0,
+    "text": "то чаще всего понадобится установить фирменный драйвер Nvidia. После этого большинство игр работают"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 939.25,
+    "end": 939.25,
+    "score": 0.866
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 939.5,
+    "end": 949.5,
+    "score": 0.637
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 941.25,
+    "end": 941.25,
+    "score": 0.535
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 942.25,
+    "end": 942.25,
+    "score": 0.381
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 943.25,
+    "end": 943.25,
+    "score": 0.492
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 945.25,
+    "end": 945.25,
+    "score": 0.463
+  },
+  {
+    "type": "mention",
+    "label": "AMD",
+    "group": "железо",
+    "start": 945.72,
+    "end": 952.76,
+    "score": 1.0,
+    "text": "отлично. AMD чувствует себя подлинок намного лучше. На современных картах Радион многие игры"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 946.5,
+    "end": 946.5,
+    "score": 0.381
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 947.5,
+    "end": 947.5,
+    "score": 0.493
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 949.5,
+    "end": 949.5,
+    "score": 0.439
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 950.0,
+    "end": 956.0,
+    "score": 0.704
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 952.76,
+    "end": 959.64,
+    "score": 1.0,
+    "text": "работают практически сразу. FPS, как сказать после настройки Debian, способен показывать практически"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 956.25,
+    "end": 956.25,
+    "score": 0.89
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 956.5,
+    "end": 962.0,
+    "score": 0.786,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 956.5,
+    "end": 962.0,
+    "score": 0.704,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 956.5,
+    "end": 962.0,
+    "score": 0.846
+  },
+  {
+    "type": "mention",
+    "label": "Ubuntu",
+    "group": "дистрибутив",
+    "start": 959.64,
+    "end": 966.92,
+    "score": 1.0,
+    "text": "такой же FPS как Ubuntu или Arch. Разница обычно создавляет 0 или 3 процента, иногда ее вообще"
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 959.64,
+    "end": 966.92,
+    "score": 1.0,
+    "text": "такой же FPS как Ubuntu или Arch. Разница обычно создавляет 0 или 3 процента, иногда ее вообще"
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 963.0,
+    "end": 980.0,
+    "score": 0.766
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 963.0,
+    "end": 963.0,
+    "score": 0.86
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 966.92,
+    "end": 975.8,
+    "score": 1.0,
+    "text": "если все настроить правильно. Для кого подходит тогда Debian? Подходит если игры не главное,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 970.0,
+    "end": 970.0,
+    "score": 0.813
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 972.25,
+    "end": 980.0,
+    "score": 0.786,
+    "frames": 6
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 974.25,
+    "end": 974.75,
+    "score": 0.703,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 975.25,
+    "end": 980.0,
+    "score": 0.859,
+    "frames": 4
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 975.8,
+    "end": 982.88,
+    "score": 1.0,
+    "text": "хочется максимально стабильную систему и иногда запускаешь Steam, чтобы расслабиться. И если"
+  },
+  {
+    "type": "object",
+    "label": "refrigerator",
+    "class": "refrigerator",
+    "start": 978.0,
+    "end": 980.0,
+    "score": 0.712,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 982.0,
+    "end": 983.0,
+    "score": 0.78,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 982.0,
+    "end": 992.75,
+    "score": 0.885
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 982.0,
+    "end": 982.0,
+    "score": 0.985
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 982.5,
+    "end": 998.0,
+    "score": 0.704,
+    "frames": 10
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 989.68,
+    "end": 996.32,
+    "score": 1.0,
+    "text": "Debian как первый игровой Linux. Он способен запускать тысячи игр через Steam и Proton, но иногда"
+  },
+  {
+    "type": "mention",
+    "label": "Steam",
+    "group": "программы",
+    "start": 989.68,
+    "end": 996.32,
+    "score": 1.0,
+    "text": "Debian как первый игровой Linux. Он способен запускать тысячи игр через Steam и Proton, но иногда"
+  },
+  {
+    "type": "mention",
+    "label": "Proton/Wine",
+    "group": "программы",
+    "start": 989.68,
+    "end": 996.32,
+    "score": 1.0,
+    "text": "Debian как первый игровой Linux. Он способен запускать тысячи игр через Steam и Proton, но иногда"
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 990.25,
+    "end": 992.25,
+    "score": 0.78,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 992.5,
+    "end": 992.5,
+    "score": 0.862
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 992.75,
+    "end": 1013.75,
+    "score": 0.786,
+    "frames": 14
+  },
+  {
+    "type": "scene",
+    "label": "игра",
+    "start": 994.0,
+    "end": 998.0,
+    "score": 0.484
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 994.0,
+    "end": 994.0,
+    "score": 0.867
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 996.32,
+    "end": 1001.4,
+    "score": 1.0,
+    "text": "требует урочной настройки драйверов и компонентов. Для большинства пользователей, которые хотят"
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 999.25,
+    "end": 1005.25,
+    "score": 0.509
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 999.25,
+    "end": 999.25,
+    "score": 0.871
+  },
+  {
+    "type": "mention",
+    "label": "Linux Mint",
+    "group": "дистрибутив",
+    "start": 1001.4,
+    "end": 1008.8,
+    "score": 1.0,
+    "text": "просто установить систему и сразу играть, это будет Базайт, Набара, Linux Mint или PopOS. Он будет"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1008.25,
+    "end": 1008.25,
+    "score": 0.743
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 1008.5,
+    "end": 1010.5,
+    "score": 0.758,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 1008.5,
+    "end": 1013.75,
+    "score": 0.704,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 1008.5,
+    "end": 1010.5,
+    "score": 0.737,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "Debian",
+    "group": "дистрибутив",
+    "start": 1008.8,
+    "end": 1015.44,
+    "score": 1.0,
+    "text": "намного удобнее. Именно поэтому многие опытные пользователи делают так. Debian — это для серверов,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1014.0,
+    "end": 1014.0,
+    "score": 0.89
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 1014.25,
+    "end": 1028.5,
+    "score": 0.564
+  },
+  {
+    "type": "mention",
+    "label": "SteamOS",
+    "group": "дистрибутив",
+    "start": 1015.44,
+    "end": 1022.32,
+    "score": 1.0,
+    "text": "разработки и рабочих стабильных станций, а Набара или SteamOS — для игровых компьютеров."
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 1022.5,
+    "end": 1029.5,
+    "score": -52.1
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1024.5,
+    "end": 1024.5,
+    "score": 0.435
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1025.75,
+    "end": 1025.75,
+    "score": 0.956
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1028.5,
+    "end": 1028.5,
+    "score": 0.496
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 1029.5,
+    "end": 1031.75,
+    "score": 0.78,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1030.0,
+    "end": 1030.0,
+    "score": 0.816
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 1031.5,
+    "end": 1034.0,
+    "score": -47.8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1031.75,
+    "end": 1031.75,
+    "score": 0.778
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 1032.25,
+    "end": 1044.75,
+    "score": 0.732
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1033.0,
+    "end": 1033.0,
+    "score": 0.754
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1034.0,
+    "end": 1034.0,
+    "score": 0.807
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1036.0,
+    "end": 1036.0,
+    "score": 0.485
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1038.0,
+    "end": 1038.0,
+    "score": 0.478
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 1038.5,
+    "end": 1039.0,
+    "score": 0.786,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1040.75,
+    "end": 1040.75,
+    "score": 0.465
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1044.25,
+    "end": 1044.25,
+    "score": 0.905
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1047.75,
+    "end": 1047.75,
+    "score": 0.599
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1049.0,
+    "end": 1049.0,
+    "score": 0.821
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 1049.25,
+    "end": 1058.25,
+    "score": 0.888
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 1056.5,
+    "end": 1058.5,
+    "score": -65.4
+  }
+]

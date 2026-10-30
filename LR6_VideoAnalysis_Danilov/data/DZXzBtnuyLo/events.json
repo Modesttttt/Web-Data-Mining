@@ -1,0 +1,1475 @@
+[
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 0.0,
+    "end": 13.0,
+    "score": 1.0,
+    "text": "Здравствуйте дорогие зрители данного канала, приветствую вас и сегодняшнее наше видео будет посвящено прекраснейшей операционной системе RedOS от компании RedSoft и почему же мы будем ее сегодня обсуждать?"
+  },
+  {
+    "type": "object",
+    "label": "toilet",
+    "class": "toilet",
+    "start": 0.53,
+    "end": 3.2,
+    "score": 0.749,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 4.0,
+    "end": 8.27,
+    "score": 0.808,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 4.0,
+    "end": 4.0,
+    "score": 0.827
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 8.53,
+    "end": 8.53,
+    "score": 0.722
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 14.5,
+    "end": 17.5,
+    "score": -15.6
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 14.67,
+    "end": 15.73,
+    "score": 0.871,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 14.67,
+    "end": 35.47,
+    "score": 0.682
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 14.67,
+    "end": 14.67,
+    "score": 0.424
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 17.6,
+    "end": 17.6,
+    "score": 0.741
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 18.93,
+    "end": 43.73,
+    "score": 0.871,
+    "frames": 16
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 18.93,
+    "end": 18.93,
+    "score": 0.952
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 21.07,
+    "end": 21.07,
+    "score": 0.806
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 26.93,
+    "end": 31.2,
+    "score": 0.808,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "растение",
+    "class": "potted plant",
+    "start": 26.93,
+    "end": 31.2,
+    "score": 0.668,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 26.93,
+    "end": 33.87,
+    "score": 0.699,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "книга",
+    "class": "book",
+    "start": 26.93,
+    "end": 31.2,
+    "score": 0.575,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 26.93,
+    "end": 26.93,
+    "score": 0.954
+  },
+  {
+    "type": "object",
+    "label": "галстук",
+    "class": "tie",
+    "start": 33.07,
+    "end": 34.4,
+    "score": 0.645,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 33.07,
+    "end": 33.07,
+    "score": 0.91
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 35.47,
+    "end": 35.47,
+    "score": 0.894
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 37.33,
+    "end": 37.33,
+    "score": 0.926
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 44.27,
+    "end": 44.27,
+    "score": 0.731
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 44.5,
+    "end": 52.0,
+    "score": -116.0
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 46.4,
+    "end": 52.0,
+    "score": 0.676
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 52.0,
+    "end": 52.0,
+    "score": 0.77
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 53.33,
+    "end": 53.33,
+    "score": 0.502
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 53.87,
+    "end": 61.33,
+    "score": 0.772
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 57.58,
+    "end": 58.58,
+    "score": 1.0,
+    "text": "RedOS."
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 58.5,
+    "end": 62.5,
+    "score": -120.0
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 58.58,
+    "end": 66.26,
+    "score": 1.0,
+    "text": "Падая на сайт операционной системы RedOS нам позволяют"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 58.67,
+    "end": 58.67,
+    "score": 0.479
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 60.0,
+    "end": 117.33,
+    "score": 0.808,
+    "frames": 35
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 62.67,
+    "end": 62.67,
+    "score": 0.626
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 64.0,
+    "end": 117.33,
+    "score": 0.846
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 69.33,
+    "end": 69.33,
+    "score": 0.501
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 78.4,
+    "end": 78.4,
+    "score": 0.446
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 82.18,
+    "end": 86.38,
+    "score": 1.0,
+    "text": "и RedOS Server. Теперь давайте перейдем к разделу скачивания"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 85.33,
+    "end": 85.33,
+    "score": 0.44
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 111.82,
+    "end": 115.82,
+    "score": 1.0,
+    "text": "Это RedOS 7.1 и RedOS 7.2."
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 116.5,
+    "end": 123.0,
+    "score": -120.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 117.6,
+    "end": 117.6,
+    "score": 0.73
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 117.87,
+    "end": 122.93,
+    "score": 0.691
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 125.07,
+    "end": 129.33,
+    "score": 0.608
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 125.07,
+    "end": 125.07,
+    "score": 0.67
+  },
+  {
+    "type": "mention",
+    "label": "Snap",
+    "group": "пакеты",
+    "start": 135.64,
+    "end": 140.54,
+    "score": 1.0,
+    "text": "она предлагает скачать Яндекс Браузер и сделать снапшот нашей системы, то есть"
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 137.6,
+    "end": 145.87,
+    "score": 0.647
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 148.0,
+    "end": 152.27,
+    "score": 0.364
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 150.94,
+    "end": 157.26,
+    "score": 1.0,
+    "text": "то есть темное, как правильно. Как по мне, лучше всех выглядит стоковая тема, это Red OS Red."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 154.67,
+    "end": 154.67,
+    "score": 0.369
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 156.27,
+    "end": 159.73,
+    "score": 0.808,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 158.4,
+    "end": 158.4,
+    "score": 0.4
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 159.2,
+    "end": 163.47,
+    "score": 0.747
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 159.47,
+    "end": 159.47,
+    "score": 0.421
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 160.53,
+    "end": 160.53,
+    "score": 0.363
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 164.53,
+    "end": 168.8,
+    "score": 0.764
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 164.53,
+    "end": 164.53,
+    "score": 0.834
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 169.33,
+    "end": 169.33,
+    "score": 0.978
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 173.87,
+    "end": 173.87,
+    "score": 0.959
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 174.13,
+    "end": 217.33,
+    "score": 0.808,
+    "frames": 21
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 174.13,
+    "end": 230.13,
+    "score": 0.911
+  },
+  {
+    "type": "object",
+    "label": "train",
+    "class": "train",
+    "start": 189.07,
+    "end": 191.2,
+    "score": 0.578,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "train",
+    "class": "train",
+    "start": 197.6,
+    "end": 199.73,
+    "score": 0.578,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "train",
+    "class": "train",
+    "start": 212.53,
+    "end": 217.33,
+    "score": 0.578,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 216.8,
+    "end": 216.8,
+    "score": 0.994
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 220.5,
+    "end": 221.0,
+    "score": -19.4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 230.13,
+    "end": 230.13,
+    "score": 0.86
+  },
+  {
+    "type": "object",
+    "label": "книга",
+    "class": "book",
+    "start": 232.8,
+    "end": 236.53,
+    "score": 0.575,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 237.07,
+    "end": 247.73,
+    "score": 0.871,
+    "frames": 8
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 237.6,
+    "end": 243.47,
+    "score": 0.714
+  },
+  {
+    "type": "object",
+    "label": "книга",
+    "class": "book",
+    "start": 245.33,
+    "end": 247.73,
+    "score": 0.575,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 247.73,
+    "end": 247.73,
+    "score": 0.733
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 248.8,
+    "end": 277.07,
+    "score": 0.692
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 257.33,
+    "end": 257.33,
+    "score": 0.679
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 263.47,
+    "end": 263.47,
+    "score": 0.375
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 293.0,
+    "end": 298.0,
+    "score": -112.8
+  },
+  {
+    "type": "object",
+    "label": "teddy bear",
+    "class": "teddy bear",
+    "start": 293.33,
+    "end": 298.13,
+    "score": 0.613,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 293.33,
+    "end": 293.33,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 298.4,
+    "end": 298.4,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 302.67,
+    "end": 314.4,
+    "score": 0.871,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 302.67,
+    "end": 302.67,
+    "score": 0.481
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 305.87,
+    "end": 314.4,
+    "score": 0.973
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 305.87,
+    "end": 305.87,
+    "score": 0.792
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 314.93,
+    "end": 314.93,
+    "score": 0.945
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 323.2,
+    "end": 323.2,
+    "score": 0.946
+  },
+  {
+    "type": "silence",
+    "label": "тишина",
+    "start": 323.5,
+    "end": 328.5,
+    "score": -59.4
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 323.73,
+    "end": 375.2,
+    "score": 0.871,
+    "frames": 38
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 323.73,
+    "end": 329.87,
+    "score": 0.804,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 323.73,
+    "end": 367.47,
+    "score": 0.936
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 324.27,
+    "end": 327.73,
+    "score": 0.699,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 327.73,
+    "end": 327.73,
+    "score": 0.362
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 331.47,
+    "end": 333.6,
+    "score": 0.699,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 338.13,
+    "end": 339.47,
+    "score": 0.699,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 367.47,
+    "end": 371.73,
+    "score": 0.808,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 373.6,
+    "end": 413.6,
+    "score": 0.904
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 374.13,
+    "end": 374.13,
+    "score": 0.548
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 377.6,
+    "end": 377.6,
+    "score": 0.757
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 378.4,
+    "end": 446.67,
+    "score": 0.871,
+    "frames": 35
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 378.4,
+    "end": 382.67,
+    "score": 0.699,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 386.93,
+    "end": 389.07,
+    "score": 0.699,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "toilet",
+    "class": "toilet",
+    "start": 413.07,
+    "end": 413.6,
+    "score": 0.749,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 413.33,
+    "end": 413.33,
+    "score": 0.546
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 414.13,
+    "end": 418.4,
+    "score": 0.808,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 414.13,
+    "end": 418.4,
+    "score": 0.804,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 414.13,
+    "end": 418.4,
+    "score": 0.779,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "стол",
+    "class": "dining table",
+    "start": 414.13,
+    "end": 418.4,
+    "score": 0.636,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 414.13,
+    "end": 418.4,
+    "score": 0.601
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 420.0,
+    "end": 448.27,
+    "score": 0.889
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 420.27,
+    "end": 420.27,
+    "score": 0.406
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 447.73,
+    "end": 447.73,
+    "score": 0.591
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 448.8,
+    "end": 480.8,
+    "score": 0.808,
+    "frames": 44
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 448.8,
+    "end": 460.27,
+    "score": 0.59
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 452.27,
+    "end": 452.27,
+    "score": 0.371
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 453.87,
+    "end": 453.87,
+    "score": 0.362
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 454.4,
+    "end": 480.27,
+    "score": 0.871,
+    "frames": 22
+  },
+  {
+    "type": "object",
+    "label": "мышь",
+    "class": "mouse",
+    "start": 454.4,
+    "end": 460.27,
+    "score": 0.756,
+    "frames": 9
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 456.5,
+    "end": 457.0,
+    "score": -18.6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 457.07,
+    "end": 457.07,
+    "score": 0.485
+  },
+  {
+    "type": "object",
+    "label": "мышь",
+    "class": "mouse",
+    "start": 464.0,
+    "end": 468.0,
+    "score": 0.756,
+    "frames": 8
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 464.27,
+    "end": 464.27,
+    "score": 0.386
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 465.6,
+    "end": 465.6,
+    "score": 0.591
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 466.93,
+    "end": 466.93,
+    "score": 0.413
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 470.93,
+    "end": 480.27,
+    "score": 0.605
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 471.73,
+    "end": 471.73,
+    "score": 0.378
+  },
+  {
+    "type": "object",
+    "label": "клавиатура",
+    "class": "keyboard",
+    "start": 477.6,
+    "end": 480.8,
+    "score": 0.613,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 482.4,
+    "end": 601.6,
+    "score": 0.961
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 482.67,
+    "end": 482.67,
+    "score": 0.431
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 483.47,
+    "end": 655.73,
+    "score": 0.871,
+    "frames": 93
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 483.47,
+    "end": 485.6,
+    "score": 0.699,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 489.87,
+    "end": 492.0,
+    "score": 0.699,
+    "frames": 2
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 495.0,
+    "end": 495.5,
+    "score": -19.5
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 497.38,
+    "end": 506.9,
+    "score": 1.0,
+    "text": "и типа что с этим делать я не знаю я менял XOR к новая ланд, драйвера менял, но скорее всего не в этом дело, мне ничего не помогло"
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 503.0,
+    "end": 503.5,
+    "score": -18.9
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 510.5,
+    "end": 518.9,
+    "score": 1.0,
+    "text": "ну была еще конечно же вторая проблема это проблема с старыми драйверами"
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 518.9,
+    "end": 526.3,
+    "score": 1.0,
+    "text": "что при проэтарном, что для open source драйверами на старых видеокартах"
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 522.13,
+    "end": 526.4,
+    "score": 0.699,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 545.6,
+    "end": 547.73,
+    "score": 0.699,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "Драйверы",
+    "group": "программы",
+    "start": 548.7,
+    "end": 555.0,
+    "score": 1.0,
+    "text": "к гпушным, нет, потому что просто в системе что-то с драйверами не так, либо они просто старых не доработали для неё,"
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 569.6,
+    "end": 578.13,
+    "score": 0.699,
+    "frames": 5
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 602.67,
+    "end": 611.2,
+    "score": 0.808,
+    "frames": 11
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 602.67,
+    "end": 607.2,
+    "score": 0.549
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 602.67,
+    "end": 602.67,
+    "score": 0.793
+  },
+  {
+    "type": "object",
+    "label": "мышь",
+    "class": "mouse",
+    "start": 603.73,
+    "end": 611.2,
+    "score": 0.756,
+    "frames": 7
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 603.73,
+    "end": 603.73,
+    "score": 0.362
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 611.73,
+    "end": 655.73,
+    "score": 0.86
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 611.73,
+    "end": 611.73,
+    "score": 0.743
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 630.93,
+    "end": 634.4,
+    "score": 0.699,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "кровать",
+    "class": "bed",
+    "start": 634.4,
+    "end": 641.87,
+    "score": 0.879,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 634.4,
+    "end": 634.4,
+    "score": 0.758
+  },
+  {
+    "type": "object",
+    "label": "растение",
+    "class": "potted plant",
+    "start": 636.53,
+    "end": 641.87,
+    "score": 0.668,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 638.67,
+    "end": 641.87,
+    "score": 0.808,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 638.67,
+    "end": 640.8,
+    "score": 0.699,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 642.13,
+    "end": 642.13,
+    "score": 0.407
+  },
+  {
+    "type": "object",
+    "label": "wine glass",
+    "class": "wine glass",
+    "start": 642.4,
+    "end": 655.73,
+    "score": 0.713,
+    "frames": 8
+  },
+  {
+    "type": "mention",
+    "label": "РЕД ОС",
+    "group": "дистрибутив",
+    "start": 647.2,
+    "end": 652.76,
+    "score": 1.0,
+    "text": "которым нужно просто сходить в интернет, то вот как раз таки RedOS она подойдет"
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 657.6,
+    "end": 706.67,
+    "score": 0.812
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 657.6,
+    "end": 657.6,
+    "score": 0.777
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 671.0,
+    "end": 671.5,
+    "score": -19.5
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 675.5,
+    "end": 676.0,
+    "score": -19.0
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 708.8,
+    "end": 717.33,
+    "score": 0.808,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 708.8,
+    "end": 708.8,
+    "score": 0.985
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 715.2,
+    "end": 798.13,
+    "score": 0.871,
+    "frames": 40
+  },
+  {
+    "type": "scene",
+    "label": "человек в кадре",
+    "start": 719.2,
+    "end": 798.13,
+    "score": 0.978
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 719.2,
+    "end": 719.2,
+    "score": 0.922
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 721.33,
+    "end": 770.4,
+    "score": 0.699,
+    "frames": 24
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 733.76,
+    "end": 735.9,
+    "score": 1.0,
+    "text": "не знаю, для таких как вы есть арч"
+  },
+  {
+    "type": "mention",
+    "label": "Arch Linux",
+    "group": "дистрибутив",
+    "start": 735.9,
+    "end": 739.74,
+    "score": 1.0,
+    "text": "условный, либо арч подобной дистрибутивы"
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 774.67,
+    "end": 778.93,
+    "score": 0.699,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "стул",
+    "class": "chair",
+    "start": 787.47,
+    "end": 793.87,
+    "score": 0.699,
+    "frames": 4
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 799.2,
+    "end": 822.93,
+    "score": 0.556
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 799.2,
+    "end": 799.2,
+    "score": 0.916
+  },
+  {
+    "type": "object",
+    "label": "teddy bear",
+    "class": "teddy bear",
+    "start": 801.33,
+    "end": 805.6,
+    "score": 0.613,
+    "frames": 3
+  },
+  {
+    "type": "object",
+    "label": "teddy bear",
+    "class": "teddy bear",
+    "start": 813.07,
+    "end": 821.87,
+    "score": 0.613,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "терминал",
+    "start": 823.47,
+    "end": 853.87,
+    "score": 0.872
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 823.73,
+    "end": 823.73,
+    "score": 0.377
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 835.46,
+    "end": 841.86,
+    "score": 1.0,
+    "text": "называется, ARK Linux KDE, а также он лишен болячек RTOES, о которых я говорил или"
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 837.5,
+    "end": 838.0,
+    "score": -18.2
+  },
+  {
+    "type": "object",
+    "label": "bird",
+    "class": "bird",
+    "start": 838.93,
+    "end": 839.47,
+    "score": 0.512,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "bird",
+    "class": "bird",
+    "start": 845.87,
+    "end": 847.47,
+    "score": 0.512,
+    "frames": 3
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 845.98,
+    "end": 850.54,
+    "score": 1.0,
+    "text": "завершения работа на данным роликом я обязательно себе поставлю именно ARK Linux KDE,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 853.87,
+    "end": 853.87,
+    "score": 0.394
+  },
+  {
+    "type": "object",
+    "label": "teddy bear",
+    "class": "teddy bear",
+    "start": 856.53,
+    "end": 871.73,
+    "score": 0.613,
+    "frames": 8
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 857.5,
+    "end": 858.0,
+    "score": -19.2
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 860.8,
+    "end": 898.13,
+    "score": 0.568
+  },
+  {
+    "type": "object",
+    "label": "teddy bear",
+    "class": "teddy bear",
+    "start": 875.47,
+    "end": 880.27,
+    "score": 0.613,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "teddy bear",
+    "class": "teddy bear",
+    "start": 884.0,
+    "end": 889.07,
+    "score": 0.613,
+    "frames": 4
+  },
+  {
+    "type": "object",
+    "label": "teddy bear",
+    "class": "teddy bear",
+    "start": 892.27,
+    "end": 894.4,
+    "score": 0.613,
+    "frames": 2
+  }
+]

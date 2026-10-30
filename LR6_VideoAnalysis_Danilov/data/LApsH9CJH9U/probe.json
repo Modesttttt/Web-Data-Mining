@@ -1,0 +1,17 @@
+{
+  "container": "mov,mp4,m4a,3gp,3g2,mj2",
+  "duration": 670.92,
+  "size_mb": 34.5,
+  "bit_rate_kbps": 431,
+  "video_codec": "av1",
+  "profile": "Main",
+  "width": 1280,
+  "height": 720,
+  "fps": 60.0,
+  "pix_fmt": "yuv420p",
+  "video_bit_rate_kbps": 294,
+  "audio_codec": "aac",
+  "sample_rate": 44100,
+  "channels": 2,
+  "has_audio": true
+}

@@ -1,0 +1,1639 @@
+[
+  {
+    "type": "chapter",
+    "label": "Начало",
+    "start": 0.0,
+    "end": 24.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 0.25,
+    "end": 0.25,
+    "score": 0.632
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 0.5,
+    "end": 1.0,
+    "score": 0.648,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 0.5,
+    "end": 7.75,
+    "score": 0.557
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 1.5,
+    "end": 1.5,
+    "score": 0.504
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 5.75,
+    "end": 16.75,
+    "score": 0.775,
+    "frames": 9
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 6.25,
+    "end": 7.25,
+    "score": 0.648,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 6.25,
+    "end": 6.25,
+    "score": 0.504
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 7.25,
+    "end": 7.25,
+    "score": 0.381
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 9.5,
+    "end": 16.75,
+    "score": 0.751
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 9.5,
+    "end": 9.5,
+    "score": 0.748
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 19.25,
+    "end": 19.25,
+    "score": 0.484
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 20.25,
+    "end": 20.25,
+    "score": 0.384
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 21.75,
+    "end": 21.75,
+    "score": 0.677
+  },
+  {
+    "type": "chapter",
+    "label": "История",
+    "start": 24.0,
+    "end": 99.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 24.5,
+    "end": 24.5,
+    "score": 0.786
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 26.5,
+    "end": 26.5,
+    "score": 0.405
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 27.0,
+    "end": 29.0,
+    "score": 0.775,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 27.0,
+    "end": 29.0,
+    "score": 0.771,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 29.75,
+    "end": 29.75,
+    "score": 0.817
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 31.25,
+    "end": 31.25,
+    "score": 0.684
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 34.0,
+    "end": 34.0,
+    "score": 0.952
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 37.5,
+    "end": 42.5,
+    "score": 0.579
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 45.0,
+    "end": 45.5,
+    "score": -20.2
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 45.0,
+    "end": 55.0,
+    "score": 0.775,
+    "frames": 9
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 45.0,
+    "end": 55.0,
+    "score": 0.771,
+    "frames": 9
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 45.0,
+    "end": 45.0,
+    "score": 0.88
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 45.5,
+    "end": 55.0,
+    "score": 0.547
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 50.5,
+    "end": 50.5,
+    "score": 0.604
+  },
+  {
+    "type": "object",
+    "label": "кружка",
+    "class": "cup",
+    "start": 53.0,
+    "end": 55.0,
+    "score": 0.601,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 55.0,
+    "end": 55.0,
+    "score": 0.495
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 55.5,
+    "end": 62.75,
+    "score": 0.657
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 63.5,
+    "end": 63.5,
+    "score": 0.552
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 65.5,
+    "end": 65.5,
+    "score": 0.495
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 67.25,
+    "end": 69.0,
+    "score": 0.771,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 67.25,
+    "end": 67.25,
+    "score": 0.447
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 69.0,
+    "end": 69.0,
+    "score": 0.632
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 69.5,
+    "end": 95.0,
+    "score": 0.67
+  },
+  {
+    "type": "loud",
+    "label": "пик громкости",
+    "start": 78.5,
+    "end": 79.0,
+    "score": -19.1
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 94.75,
+    "end": 94.75,
+    "score": 0.995
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 95.5,
+    "end": 98.0,
+    "score": 0.648,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 95.75,
+    "end": 95.75,
+    "score": 0.803
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 98.75,
+    "end": 98.75,
+    "score": 0.458
+  },
+  {
+    "type": "chapter",
+    "label": "Общий обзор Fedora",
+    "start": 99.0,
+    "end": 242.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 99.75,
+    "end": 99.75,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 102.75,
+    "end": 102.75,
+    "score": 0.353
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 104.25,
+    "end": 104.25,
+    "score": 0.396
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 104.5,
+    "end": 110.75,
+    "score": 0.614
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 106.25,
+    "end": 110.75,
+    "score": 0.775,
+    "frames": 4
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 109.62,
+    "end": 112.38,
+    "score": 1.0,
+    "text": "В качестве среды рабочего стола используется гном,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 111.75,
+    "end": 111.75,
+    "score": 0.505
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 112.38,
+    "end": 115.62,
+    "score": 1.0,
+    "text": "и гном в его чистом виде, но помимо основной оболочки"
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 115.62,
+    "end": 121.32,
+    "score": 1.0,
+    "text": "есть альтернативные, такие как KDE, XSE, Cinnamon и другие."
+  },
+  {
+    "type": "mention",
+    "label": "Cinnamon",
+    "group": "окружение",
+    "start": 115.62,
+    "end": 121.32,
+    "score": 1.0,
+    "text": "есть альтернативные, такие как KDE, XSE, Cinnamon и другие."
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 117.5,
+    "end": 119.5,
+    "score": 0.771,
+    "frames": 3
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 117.5,
+    "end": 122.0,
+    "score": 0.898
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 117.5,
+    "end": 117.5,
+    "score": 0.795
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 118.5,
+    "end": 118.5,
+    "score": 0.696
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 119.5,
+    "end": 119.5,
+    "score": 0.643
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 121.32,
+    "end": 124.1,
+    "score": 1.0,
+    "text": "Все они входят в список Fedora Spins, благодаря которому"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 122.25,
+    "end": 122.25,
+    "score": 0.952
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 126.98,
+    "end": 127.98,
+    "score": 1.0,
+    "text": "на Fedora."
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 127.98,
+    "end": 133.02,
+    "score": 1.0,
+    "text": "У Fedora есть несколько редакций, это Workstation, Server, IoT, Cloud"
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 133.02,
+    "end": 137.46,
+    "score": 1.0,
+    "text": "и CoreOS, также отдельная линейка Fedora Atomic Desktops."
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 137.46,
+    "end": 141.58,
+    "score": 1.0,
+    "text": "Fedora Workstation – стандартная редакция для наслажденных компьютеров и ноутбуков."
+  },
+  {
+    "type": "object",
+    "label": "часы",
+    "class": "clock",
+    "start": 137.5,
+    "end": 138.0,
+    "score": 0.622,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 138.5,
+    "end": 143.75,
+    "score": 0.497
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 138.5,
+    "end": 138.5,
+    "score": 0.413
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 141.58,
+    "end": 143.52,
+    "score": 1.0,
+    "text": "Рабочий стол Fedora Linux."
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 143.52,
+    "end": 147.92,
+    "score": 1.0,
+    "text": "Fedora Server – это мощная редакция, предназначенная для использования на серверах."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 144.0,
+    "end": 144.0,
+    "score": 0.363
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 147.92,
+    "end": 152.46,
+    "score": 1.0,
+    "text": "Fedora IoT используется в технологии IoT – интернет вещей."
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 148.25,
+    "end": 148.25,
+    "score": 0.365
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 148.5,
+    "end": 172.0,
+    "score": 0.569
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 156.82,
+    "end": 160.54,
+    "score": 1.0,
+    "text": "Fedora Cloud – специальная редакция, направленная на создание виртуальных машин,"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 157.0,
+    "end": 157.0,
+    "score": 0.459
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 166.5,
+    "end": 166.5,
+    "score": 0.39
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 171.5,
+    "end": 172.0,
+    "score": 0.775,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 171.5,
+    "end": 171.5,
+    "score": 0.904
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 179.0,
+    "end": 179.0,
+    "score": 0.385
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 184.0,
+    "end": 184.0,
+    "score": 0.402
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 184.5,
+    "end": 186.5,
+    "score": 0.775,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 191.0,
+    "end": 191.0,
+    "score": 0.419
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 191.25,
+    "end": 193.25,
+    "score": 0.648,
+    "frames": 2
+  },
+  {
+    "type": "mention",
+    "label": "KDE Plasma",
+    "group": "окружение",
+    "start": 193.5,
+    "end": 198.86,
+    "score": 1.0,
+    "text": "стал огном, фидорах Inuit, использующая KDE Plasma, фидора Sway Atomic, а также фидора"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 195.0,
+    "end": 195.0,
+    "score": 0.466
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 197.0,
+    "end": 200.0,
+    "score": 0.648,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 197.0,
+    "end": 197.0,
+    "score": 0.528
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 202.0,
+    "end": 210.0,
+    "score": 0.642
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 202.0,
+    "end": 202.0,
+    "score": 0.87
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 208.0,
+    "end": 211.0,
+    "score": 0.775,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 217.75,
+    "end": 217.75,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 221.25,
+    "end": 221.25,
+    "score": 0.993
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 222.25,
+    "end": 223.75,
+    "score": 0.771,
+    "frames": 2
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 227.25,
+    "end": 227.75,
+    "score": 0.771,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 227.75,
+    "end": 232.5,
+    "score": 0.709
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 227.75,
+    "end": 227.75,
+    "score": 0.371
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 232.0,
+    "end": 232.0,
+    "score": 0.936
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 233.0,
+    "end": 233.0,
+    "score": 0.893
+  },
+  {
+    "type": "object",
+    "label": "человек",
+    "class": "person",
+    "start": 233.5,
+    "end": 242.25,
+    "score": 0.775,
+    "frames": 6
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 233.5,
+    "end": 242.25,
+    "score": 0.771,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 235.5,
+    "end": 242.25,
+    "score": 0.619
+  },
+  {
+    "type": "chapter",
+    "label": "Установка",
+    "start": 242.0,
+    "end": 370.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 242.25,
+    "end": 242.25,
+    "score": 0.83
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 253.5,
+    "end": 263.0,
+    "score": 0.679,
+    "frames": 6
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 253.5,
+    "end": 258.0,
+    "score": 0.475
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 258.0,
+    "end": 258.0,
+    "score": 0.672
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 260.0,
+    "end": 264.0,
+    "score": 0.538
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 260.5,
+    "end": 260.5,
+    "score": 0.47
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 262.5,
+    "end": 262.5,
+    "score": 0.472
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 264.0,
+    "end": 264.0,
+    "score": 0.528
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 264.75,
+    "end": 271.0,
+    "score": 0.73
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 265.75,
+    "end": 265.75,
+    "score": 0.509
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 269.0,
+    "end": 269.0,
+    "score": 0.415
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 271.5,
+    "end": 285.5,
+    "score": 0.451
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 271.5,
+    "end": 271.5,
+    "score": 0.969
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 279.0,
+    "end": 281.5,
+    "score": 0.648,
+    "frames": 3
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 279.0,
+    "end": 279.0,
+    "score": 0.429
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 289.5,
+    "end": 294.5,
+    "score": 0.648,
+    "frames": 5
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 292.0,
+    "end": 292.0,
+    "score": 0.687
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 292.5,
+    "end": 296.5,
+    "score": 0.329
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 296.5,
+    "end": 296.5,
+    "score": 0.54
+  },
+  {
+    "type": "object",
+    "label": "ноутбук",
+    "class": "laptop",
+    "start": 298.0,
+    "end": 302.5,
+    "score": 0.771,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 298.0,
+    "end": 298.0,
+    "score": 0.42
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 300.5,
+    "end": 324.25,
+    "score": 0.422
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 301.0,
+    "end": 301.0,
+    "score": 0.391
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 330.75,
+    "end": 336.75,
+    "score": 0.513
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 341.25,
+    "end": 341.25,
+    "score": 0.853
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 342.5,
+    "end": 342.5,
+    "score": 0.911
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 353.5,
+    "end": 353.5,
+    "score": 0.846
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 354.5,
+    "end": 364.0,
+    "score": 0.796
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 354.5,
+    "end": 354.5,
+    "score": 0.723
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 356.5,
+    "end": 358.5,
+    "score": 0.679,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 356.5,
+    "end": 356.5,
+    "score": 0.458
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 364.25,
+    "end": 364.25,
+    "score": 0.781
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 364.5,
+    "end": 373.5,
+    "score": 0.482
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 367.0,
+    "end": 367.0,
+    "score": 0.953
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 367.5,
+    "end": 369.5,
+    "score": 0.648,
+    "frames": 2
+  },
+  {
+    "type": "chapter",
+    "label": "Интерфейс и обзор",
+    "start": 370.0,
+    "end": 461.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 371.0,
+    "end": 371.0,
+    "score": 0.859
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 372.5,
+    "end": 372.5,
+    "score": 0.622
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 373.5,
+    "end": 373.5,
+    "score": 0.392
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 374.0,
+    "end": 380.0,
+    "score": 0.514
+  },
+  {
+    "type": "object",
+    "label": "пульт",
+    "class": "remote",
+    "start": 374.5,
+    "end": 376.5,
+    "score": 0.869,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 380.25,
+    "end": 380.25,
+    "score": 0.656
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 380.5,
+    "end": 384.5,
+    "score": 0.7
+  },
+  {
+    "type": "object",
+    "label": "microwave",
+    "class": "microwave",
+    "start": 386.5,
+    "end": 393.75,
+    "score": 0.822,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 393.25,
+    "end": 393.25,
+    "score": 0.502
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 395.25,
+    "end": 395.25,
+    "score": 0.656
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 397.5,
+    "end": 397.5,
+    "score": 0.495
+  },
+  {
+    "type": "object",
+    "label": "монитор",
+    "class": "tv",
+    "start": 400.0,
+    "end": 401.75,
+    "score": 0.648,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 401.0,
+    "end": 401.0,
+    "score": 0.508
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 407.5,
+    "end": 407.5,
+    "score": 0.49
+  },
+  {
+    "type": "mention",
+    "label": "macOS",
+    "group": "дистрибутив",
+    "start": 409.08,
+    "end": 413.08,
+    "score": 1.0,
+    "text": "Mac OS, но также будет чем-то похож на мобильные системы."
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 411.0,
+    "end": 412.0,
+    "score": 0.679,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 411.75,
+    "end": 411.75,
+    "score": 0.482
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 413.25,
+    "end": 413.25,
+    "score": 0.582
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 419.25,
+    "end": 419.25,
+    "score": 0.506
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 424.0,
+    "end": 424.0,
+    "score": 0.508
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 425.0,
+    "end": 427.0,
+    "score": 0.679,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 425.0,
+    "end": 425.0,
+    "score": 0.504
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 429.0,
+    "end": 429.0,
+    "score": 0.887
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 432.0,
+    "end": 432.0,
+    "score": 0.736
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 433.0,
+    "end": 433.0,
+    "score": 0.846
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 435.5,
+    "end": 435.5,
+    "score": 0.553
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 437.25,
+    "end": 437.25,
+    "score": 0.958
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 438.5,
+    "end": 438.5,
+    "score": 0.426
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 440.0,
+    "end": 444.5,
+    "score": 0.493
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 440.0,
+    "end": 440.0,
+    "score": 0.936
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 444.25,
+    "end": 444.25,
+    "score": 0.908
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 449.5,
+    "end": 449.5,
+    "score": 0.362
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 450.44,
+    "end": 452.44,
+    "score": 1.0,
+    "text": "Что таких приложений как раз перешлись в GNOME?"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 452.75,
+    "end": 452.75,
+    "score": 0.665
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 453.75,
+    "end": 453.75,
+    "score": 0.98
+  },
+  {
+    "type": "mention",
+    "label": "Терминал",
+    "group": "программы",
+    "start": 455.44,
+    "end": 458.44,
+    "score": 1.0,
+    "text": "скачав арпием файл приложения в интернете или через терминал,"
+  },
+  {
+    "type": "scene",
+    "label": "установщик ОС",
+    "start": 457.75,
+    "end": 462.5,
+    "score": 0.437
+  },
+  {
+    "type": "mention",
+    "label": "dnf",
+    "group": "пакеты",
+    "start": 458.44,
+    "end": 460.44,
+    "score": 1.0,
+    "text": "используя пакетный менеджер DnF."
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 460.44,
+    "end": 463.44,
+    "score": 1.0,
+    "text": "Наконец, расширение GNOME."
+  },
+  {
+    "type": "chapter",
+    "label": "Расширения GNOME",
+    "start": 461.0,
+    "end": 520.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 462.5,
+    "end": 462.5,
+    "score": 0.982
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 463.0,
+    "end": 467.5,
+    "score": 0.475
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 468.75,
+    "end": 473.0,
+    "score": 0.774
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 468.75,
+    "end": 468.75,
+    "score": 0.995
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 470.5,
+    "end": 470.5,
+    "score": 0.599
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 473.75,
+    "end": 473.75,
+    "score": 0.72
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 475.0,
+    "end": 475.0,
+    "score": 0.472
+  },
+  {
+    "type": "object",
+    "label": "microwave",
+    "class": "microwave",
+    "start": 476.0,
+    "end": 478.0,
+    "score": 0.822,
+    "frames": 2
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 478.5,
+    "end": 478.5,
+    "score": 0.706
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 480.0,
+    "end": 480.0,
+    "score": 0.549
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 492.25,
+    "end": 492.25,
+    "score": 0.979
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 493.25,
+    "end": 493.25,
+    "score": 0.979
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 495.25,
+    "end": 495.25,
+    "score": 0.762
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 496.75,
+    "end": 496.75,
+    "score": 0.38
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 498.5,
+    "end": 498.5,
+    "score": 0.593
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 499.5,
+    "end": 504.0,
+    "score": 0.679,
+    "frames": 4
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 499.5,
+    "end": 499.5,
+    "score": 0.716
+  },
+  {
+    "type": "scene",
+    "label": "настройки",
+    "start": 500.0,
+    "end": 504.0,
+    "score": 0.647
+  },
+  {
+    "type": "scene",
+    "label": "браузер",
+    "start": 504.5,
+    "end": 509.0,
+    "score": 0.49
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 504.5,
+    "end": 504.5,
+    "score": 0.402
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 506.5,
+    "end": 506.5,
+    "score": 0.944
+  },
+  {
+    "type": "object",
+    "label": "телефон",
+    "class": "cell phone",
+    "start": 512.0,
+    "end": 514.0,
+    "score": 0.679,
+    "frames": 2
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 515.75,
+    "end": 522.0,
+    "score": 0.767
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 515.75,
+    "end": 515.75,
+    "score": 0.893
+  },
+  {
+    "type": "mention",
+    "label": "Windows",
+    "group": "дистрибутив",
+    "start": 517.56,
+    "end": 521.36,
+    "score": 1.0,
+    "text": "Tray и Dock панель, создавая панель как Windows."
+  },
+  {
+    "type": "chapter",
+    "label": "Итог",
+    "start": 520.0,
+    "end": 534.0,
+    "score": 1.0
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 521.0,
+    "end": 521.0,
+    "score": 0.683
+  },
+  {
+    "type": "mention",
+    "label": "Fedora",
+    "group": "дистрибутив",
+    "start": 521.36,
+    "end": 524.36,
+    "score": 1.0,
+    "text": "Подводя итог, я скажу, что Fedora идеальный выбор для"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 522.75,
+    "end": 522.75,
+    "score": 0.443
+  },
+  {
+    "type": "scene",
+    "label": "рабочий стол",
+    "start": 526.0,
+    "end": 531.0,
+    "score": 0.409
+  },
+  {
+    "type": "mention",
+    "label": "GNOME",
+    "group": "окружение",
+    "start": 529.4,
+    "end": 532.08,
+    "score": 1.0,
+    "text": "Любители GNOME, мобильного интерфейса и открытого"
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 531.0,
+    "end": 531.0,
+    "score": 0.503
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 532.75,
+    "end": 532.75,
+    "score": 0.581
+  },
+  {
+    "type": "chapter",
+    "label": "Заключение",
+    "start": 534.0,
+    "end": 543.0,
+    "score": 1.0
+  },
+  {
+    "type": "object",
+    "label": "kite",
+    "class": "kite",
+    "start": 535.0,
+    "end": 542.5,
+    "score": 0.7,
+    "frames": 6
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 535.0,
+    "end": 535.0,
+    "score": 0.983
+  },
+  {
+    "type": "scene",
+    "label": "заставка",
+    "start": 536.5,
+    "end": 542.5,
+    "score": 0.543
+  },
+  {
+    "type": "scene_cut",
+    "label": "смена сцены",
+    "start": 542.5,
+    "end": 542.5,
+    "score": 0.976
+  }
+]
