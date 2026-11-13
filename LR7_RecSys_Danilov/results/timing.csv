@@ -1,0 +1,6 @@
+model,fit_seconds,recommend_seconds
+popular,0.02,0.04
+content,0.4,0.1
+svd,0.38,0.12
+als,0.41,0.09
+bpr,0.48,0.11

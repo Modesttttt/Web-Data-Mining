@@ -1,0 +1,29 @@
+{
+  "ratings": 100836,
+  "users": 610,
+  "items_in_catalog": 9742,
+  "items_rated": 9724,
+  "tags": 1419,
+  "items_with_tags": 302,
+  "density": 0.017,
+  "sparsity": 0.983,
+  "ratings_per_user_min": 20,
+  "ratings_per_user_median": 70.5,
+  "ratings_per_user_max": 2698,
+  "ratings_per_item_median": 3.0,
+  "items_with_1_rating": 3446,
+  "share_ratings_top10pct_items": 0.6,
+  "mean_rating": 3.502,
+  "share_relevant": 0.482,
+  "train_ratings": 80896,
+  "test_ratings": 19940,
+  "test_relevant": 9232,
+  "test_users_with_relevant": 591,
+  "test_ratings_cold_items": 1682,
+  "test_relevant_cold_items": 617,
+  "period": [
+    "1996-03-29",
+    "2018-09-24"
+  ],
+  "users_with_time_overlap": 0
+}
